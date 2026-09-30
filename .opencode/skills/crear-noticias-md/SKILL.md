@@ -61,9 +61,11 @@ Categorías válidas del feed (no inventar otras):
   entregar las que pasen el filtro y reportar cuántos cupos quedaron vacíos.
   **Nunca rellenar con historias débiles para llegar al número objetivo.**
 - El orden de salida es siempre `Critical` primero, luego `High Priority`,
-  dentro del mismo nivel por `publishedAt` descendente. La convencion se
-  aplica al **orden de seleccion y al reporte al usuario**, no al orden de
-  los archivos en `src/content/posts/`: cada Markdown lleva su propio
+  dentro del mismo nivel por `publishedAt` descendente. **Si dos o mas
+  historias comparten `importance`, gana la de `publishedAt` mas reciente;
+  reordenar siempre antes de reportar al usuario.** La convencion se aplica
+  al **orden de seleccion y al reporte al usuario**, no al orden de los
+  archivos en `src/content/posts/`: cada Markdown lleva su propio
   `pubDatetime` y la portada del sitio (Astro) los ordena segun ese campo.
   El orden cronologico debe quedar explicito en la respuesta al usuario.
 
@@ -223,6 +225,16 @@ Prohibido:
 - Convertir `whyItMatters` generico en hechos especificos.
 - Inventar nombres de empresas, productos, fechas, montos o cargos.
 - Inferir consecuencias regulatorias, legales o de mercado sin fuente.
+- Afirmar en `## Analisis` tendencias, antecedentes o relaciones
+  (“nunca habia competido con X”, “siempre se mantuvo en Y”) si no
+  estan respaldadas por el `sourceLink` abierto o por otra historia
+  verificada en la misma corrida. Si no hay respaldo, formular como
+  hipotesis explicita (“podria ser”, “es plausible que”) o eliminar
+  la afirmacion.
+- Renombrar productos o tecnologias: usar exactamente la terminologia
+  del `title`, `summary` o del articulo abierto. No traducir nombres
+  propios al espanol (“Bedrock Managed Agents” no se convierte en
+  “sistema operativo de agentes”).
 
 ## 8. Longitud proporcional al material
 
