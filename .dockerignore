@@ -1,8 +1,74 @@
-# Ignore Astro files
-*.astro
+# ------------------------------------------------------------------
+# Node / package managers
+# ------------------------------------------------------------------
+node_modules
+.npm
+.pnpm-store
+yarn-error.log
+yarn-debug.log
+npm-debug.log
+pnpm-debug.log
 
-# Ignore node_modules directory
-node_modules/
+# ------------------------------------------------------------------
+# Build output and Astro cache
+# ------------------------------------------------------------------
+dist
+.astro
+public/pagefind
 
-# Ignore build output
-dist/
+# ------------------------------------------------------------------
+# Version control and IDE
+# ------------------------------------------------------------------
+.git
+.gitignore
+.gitattributes
+.github
+.vscode
+.idea
+.DS_Store
+
+# ------------------------------------------------------------------
+# Local environment and secrets
+# ------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ------------------------------------------------------------------
+# Documentation / metadata not required at build time
+# ------------------------------------------------------------------
+README.md
+CHANGELOG.md
+EDITORIAL.md
+VERSION.md
+LICENSE
+AstroPaper-lighthouse-score.svg
+.cz.yaml
+
+# ------------------------------------------------------------------
+# Editor and data working files (Mac/Walrus/openclaw)
+# ------------------------------------------------------------------
+todo.json
+remaining.json
+
+# ------------------------------------------------------------------
+# Python and Node helper scripts (not used by the Astro build)
+# ------------------------------------------------------------------
+*.py
+*.cjs
+add-placeholder-images.cjs
+add_images.py
+add_images_frontmatter.py
+generate_all.cjs
+generate_concurrent.cjs
+seed.py
+seed_real.py
+
+# ------------------------------------------------------------------
+# Docker / Compose meta files
+# ------------------------------------------------------------------
+Dockerfile*
+.dockerignore
+compose*.yaml

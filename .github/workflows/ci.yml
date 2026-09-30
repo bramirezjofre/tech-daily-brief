@@ -11,12 +11,14 @@ on:
       - synchronize
       - reopened
   workflow_call:
+  push:
+    branches: [main]
 
 jobs:
   build:
     name: Code standards & build
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 6
 
     steps:
       - name: "☁️ Checkout repository"
@@ -25,7 +27,7 @@ jobs:
       - name: "📦 Install pnpm"
         uses: pnpm/action-setup@v4
         with:
-          version: "11.3.0"
+          version: "11.9.0"
 
       - name: Use Node.js
         uses: actions/setup-node@v4
@@ -44,3 +46,52 @@ jobs:
 
       - name: "🚀 Build the project"
         run: pnpm run build
+
+      - name: "🛡️ Verify build artifact"
+        run: pnpm run verify:dist
+
+  docker:
+    name: Docker build & artifact scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: build
+
+    steps:
+      - name: "☁️ Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: "🐳 Set up Docker Buildx"
+        uses: docker/setup-buildx-action@v3
+
+      - name: "🏗️ Build image"
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          tags: ping-diario:ci
+          load: true
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: "🔍 Scan image for forbidden paths"
+        run: |
+          set -e
+          docker create --name ping-diario-scan ping-diario:ci
+          trap 'docker rm -f ping-diario-scan' EXIT
+          echo "::group::Image contents under /usr/share/nginx/html"
+          docker cp ping-diario-scan:/usr/share/nginx/html - | tar -t | head -50
+          echo "::endgroup::"
+          echo "Checking for forbidden paths inside image..."
+          docker cp ping-diario-scan:/usr/share/nginx/html - \
+            | tar -t \
+            | grep -E '(^|/)(\.git|\.env|src/|content/|node_modules/|\.md$|\.mdx$|\.map$)' \
+            && { echo "✗ Forbidden path detected in image"; exit 1; } \
+            || echo "✓ Image artifact is clean"
+
+      - name: "🚀 Smoke test (start container, curl /)"
+        run: |
+          docker run -d --rm --name ping-diario-smoke -p 8080:8080 ping-diario:ci
+          sleep 3
+          curl -fsS http://127.0.0.1:8080/ > /tmp/index.html
+          head -1 /tmp/index.html
+          docker rm -f ping-diario-smoke
