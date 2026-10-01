@@ -8,7 +8,9 @@ draft: false
 tags:
   - IA
 description: "Meta abrió los pesos de Muse Glimmer (30B parámetros), diseñado para tareas agénticas on-device. Zuckerberg también publicó un manifiesto de 6.500 palabras pushando el open source frente a OpenAI y Anthropic."
+ogImage: "../../assets/images/meta-muse-glimmer-open-source-30b-laptops-cover.png"
 ---
+![Imagen de referencia](../../assets/images/meta-muse-glimmer-open-source-30b-laptops-cover.png)
 
 Meta le apuntó a todos los flancos hoy. En un anuncio simultáneo con un manifiesto de Zuckerberg de 6.500 palabras, lanzaron **Muse Glimmer**: un modelo de 30 mil millones de parámetros, open weight bajo Apache 2.0, y optimizado para correr **localmente en un laptop**.
 

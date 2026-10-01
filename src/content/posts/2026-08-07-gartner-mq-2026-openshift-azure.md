@@ -9,7 +9,9 @@ tags:
   - Cloud
   - DevOps
 description: "Red Hat OpenShift es Leader por tercer año consecutivo en Cloud-Native Platforms y Microsoft lidera el inaugural MQ de AI-Augmented Code Modernization"
+ogImage: "../../assets/images/gartner-mq-2026-openshift-azure-leaders-cover.png"
 ---
+![Imagen de referencia](../../assets/images/gartner-mq-2026-openshift-azure-leaders-cover.png)
 
 Gartner soltó dos Magic Quadrants importantes esta semana y ambos tienen ganadores claros:
 

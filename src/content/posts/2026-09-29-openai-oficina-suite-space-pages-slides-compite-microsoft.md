@@ -11,7 +11,9 @@ tags:
   - Microsoft
   - Productividad
 description: "OpenAI presentó Space, Pages y Slides en DevDay 2026; la prensa describe el movimiento como un avance directo al territorio de Microsoft Office."
+ogImage: "../../assets/images/openai-oficina-suite-space-pages-slides-compite-microsoft-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-oficina-suite-space-pages-slides-compite-microsoft-cover.png)
 
 **OpenAI** aprovechó su **DevDay 2026** para anunciar un set de funciones colaborativas que la prensa especializada ya describe como un movimiento directo al territorio de **Microsoft Office** y **Google Workspace**. TechCrunch titula la nota como "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT's own office suite".
 

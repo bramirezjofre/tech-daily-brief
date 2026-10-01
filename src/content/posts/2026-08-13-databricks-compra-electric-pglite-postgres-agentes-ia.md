@@ -9,7 +9,9 @@ tags:
   - IA
   - Cloud
 description: "Databricks adquirió Electric, los creadores de PGlite (Postgres en WASM con 13M descargas semanales), para llevar Postgres distribuido a sandboxes de agentes IA."
+ogImage: "../../assets/images/databricks-compra-electric-pglite-postgres-agentes-ia-cover.png"
 ---
+![Imagen de referencia](../../assets/images/databricks-compra-electric-pglite-postgres-agentes-ia-cover.png)
 
 Databricks sigue en modo shopping spree. Esta vez se metió en el bolsillo a **Electric** (antes ElectricSQL), el equipo detrás de **PGlite** — esa belleza de Postgres que corre en WASM dentro del navegador, apps locales y ahora, lo que más interesa: **sandboxes de agentes IA**.
 

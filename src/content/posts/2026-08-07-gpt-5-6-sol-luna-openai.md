@@ -8,7 +8,9 @@ draft: false
 tags:
   - IA
 description: "OpenAI mejora GPT-5.6 Sol con 68% menos errores factuales, nuevo slider de razonamiento, y chats ilimitados gratis con GPT-5.6 Luna"
+ogImage: "../../assets/images/gpt-5-6-sol-luna-openai-update-cover.png"
 ---
+![Imagen de referencia](../../assets/images/gpt-5-6-sol-luna-openai-update-cover.png)
 
 OpenAI le metió una actualización seria a ChatGPT ayer. Tres cambios principales que vale la pena entender:
 

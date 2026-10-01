@@ -10,7 +10,9 @@ tags:
   - Cloud
   - Negocios
 description: "Google prueba un programa que pagaría a unos 100 publicadores según su aporte a las funciones de búsqueda y asistentes con IA"
+ogImage: "../../assets/images/google-paga-publicadores-resultados-ia-cover.png"
 ---
+![Imagen de referencia](../../assets/images/google-paga-publicadores-resultados-ia-cover.png)
 
 Google está probando un programa que paga a publicadores por la contribución de sus contenidos a las funciones de búsqueda impulsadas por inteligencia artificial. La iniciativa aparece mientras los medios evalúan cómo cambia el tráfico web cuando los usuarios reciben respuestas directamente en los productos de Google.
 

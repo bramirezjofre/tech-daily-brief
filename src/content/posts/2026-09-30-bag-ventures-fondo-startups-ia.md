@@ -10,7 +10,9 @@ tags:
   - Startups
   - Venture Capital
 description: "BAG Ventures cerró un fondo de 11,3 millones de dólares para invertir en startups de IA orientadas a clientes empresariales"
+ogImage: "../../assets/images/bag-ventures-fondo-startups-ia-cover.png"
 ---
+![Imagen de referencia](../../assets/images/bag-ventures-fondo-startups-ia-cover.png)
 
 BAG Ventures, firma fundada por dos exejecutivos de Google, cerró un fondo de 11,3 millones de dólares para respaldar startups de inteligencia artificial en etapas tempranas. La tesis de inversión pone el foco en productos que demuestren valor empresarial y que se integren profundamente con los flujos de trabajo de sus clientes.
 

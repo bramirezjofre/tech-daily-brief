@@ -9,7 +9,9 @@ tags:
   - Kubernetes
   - Cloud
 description: "AWS sube la concurrencia del Horizontal Pod Autoscaler en EKS hasta 40 veces el default de Kubernetes"
+ogImage: "../../assets/images/eks-provisioned-control-plane-hpa-40x-cover.png"
 ---
+![Imagen de referencia](../../assets/images/eks-provisioned-control-plane-hpa-40x-cover.png)
 
 AWS acaba de anunciar que **Amazon EKS Provisioned Control Plane** ahora entrega autoscaling de pods significativamente más rápido. La mejora clave: el **Horizontal Pod Autoscaler (HPA) sync concurrency subió hasta 40 veces el default de Kubernetes upstream**.
 

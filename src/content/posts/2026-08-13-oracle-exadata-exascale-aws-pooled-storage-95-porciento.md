@@ -9,7 +9,9 @@ tags:
   - Cloud
   - Infraestructura
 description: "Oracle lanzó Exadata Exascale Infrastructure en 22 regiones de AWS con storage pooled. El costo de entrada bajó de €10.000 a €330 al mes."
+ogImage: "../../assets/images/oracle-exadata-exascale-aws-pooled-storage-95-porciento-cover.png"
 ---
+![Imagen de referencia](../../assets/images/oracle-exadata-exascale-aws-pooled-storage-95-porciento-cover.png)
 
 Hace un año, correr Oracle Exadata en la nube era básicamente un lujo para empresas grandes: hardware dedicado, costos altísimos, y si eras mediana empresa, estabas fuera del juego. Hoy eso cambió drásticamente.
 

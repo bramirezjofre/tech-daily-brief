@@ -9,7 +9,9 @@ tags:
   - Kubernetes
   - Cloud
 description: "La CNCF publicó la agenda completa de KubeCon + CloudNativeCon NA 2026 (Salt Lake City, 9-12 noviembre). Suma un track dedicado a inference y agentes sobre Kubernetes con vLLM, KServe, Ray y OpenTelemetry."
+ogImage: "../../assets/images/kubecon-na-2026-agenda-track-ai-agentic-cover.png"
 ---
+![Imagen de referencia](../../assets/images/kubecon-na-2026-agenda-track-ai-agentic-cover.png)
 
 La CNCF tiró hoy la agenda completa de **KubeCon + CloudNativeCon North America 2026**, y la sorpresa no es que exista un track de AI — es **qué tan serio lo están tomando**.
 
