@@ -6,8 +6,10 @@
 FROM node:24.12.0-alpine AS builder
 WORKDIR /app
 
+ARG ASTRO_BASE=/tech-daily-brief/
 ENV CI=true \
     NODE_ENV=production \
+    ASTRO_BASE=${ASTRO_BASE} \
     PNPM_HOME="/pnpm" \
     PATH="/pnpm:$PATH" \
     NPM_CONFIG_UPDATE_NOTIFIER=false
@@ -40,7 +42,8 @@ RUN test -f dist/index.html
 # ==============================================================================
 FROM nginx:1.29.3-alpine AS runtime
 
-# Drop default config and replace with our hardened one.
+# Drop default config and replace with our hardened one. The config is copied
+# directly so the runtime image remains compatible with read_only: true.
 RUN rm -f /etc/nginx/conf.d/default.conf
 
 # Run Nginx as the unprivileged "nginx" user on port 8080 by default.
@@ -49,9 +52,7 @@ ENV NGINX_PORT=8080 \
     NGINX_HOST=_ \
     NGINX_WORKERS=auto
 
-COPY docker/nginx.conf /etc/nginx/templates/default.conf.template
-COPY docker/docker-entrypoint.sh /docker-entrypoint.sh
-RUN chmod +x /docker-entrypoint.sh
+COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
 
 # Copy ONLY the built artifact from the builder stage.
 COPY --from=builder --chown=nginx:nginx /app/dist /usr/share/nginx/html
@@ -68,8 +69,7 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
     CMD wget -qO- http://127.0.0.1:8080/ >/dev/null || exit 1
 
 USER nginx
-ENTRYPOINT ["/docker-entrypoint.sh"]
-CMD ["nginx", "-g", "daemon off;"]
+ENTRYPOINT ["nginx", "-g", "daemon off;"]
 
 LABEL org.opencontainers.image.title="ping-diario" \
       org.opencontainers.image.description="Static Astro blog served by Nginx" \

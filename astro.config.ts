@@ -19,9 +19,11 @@ import {
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
 
+const siteBase = process.env.ASTRO_BASE || "/tech-daily-brief/";
+
 export default defineConfig({
   site: config.site.url,
-  base: "/tech-daily-brief/",
+  base: siteBase,
   integrations: [
     mdx(),
     sitemap({
