@@ -10,7 +10,10 @@ tags:
   - DevOps
   - Cloud Native
 description: "Dos versiones maliciosas de LiteLLM en PyPI robaron credenciales de cloud, SSH, Kubernetes y API keys de OpenAI/Anthropic. El ataque encadenó Trivy → LiteLLM → 2.500 organizaciones."
+ogImage: "../../assets/images/litellm-supply-chain-attack-2500-empresas-trivy-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/litellm-supply-chain-attack-2500-empresas-trivy-cover.png)
 
 Si usas LiteLLM —el gateway open source que conecta apps con múltiples LLMs— en algún pipeline de CI/CD, esto te interesa directamente. Y si no, igual deberías prestar atención, porque es probablemente el **supply chain breach más grande del ecosistema IA en 2026**.
 

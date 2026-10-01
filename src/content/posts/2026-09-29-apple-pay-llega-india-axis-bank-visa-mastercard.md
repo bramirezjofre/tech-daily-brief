@@ -10,7 +10,10 @@ tags:
   - Pagos
   - Fintech
 description: "Apple Pay llega a India con Axis Bank como socio inaugural; Visa y Mastercard primero, sin RuPay, y grandes bancos fuera del lanzamiento"
+ogImage: "../../assets/images/apple-pay-llega-india-axis-bank-visa-mastercard-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/apple-pay-llega-india-axis-bank-visa-mastercard-cover.png)
 
 Apple Pay se estrena por fin en India, el mercado de pagos digitales mas poblado del mundo y uno de los mas complejos. El lanzamiento, confirmado por fuentes cercanas al acuerdo, se realiza con Axis Bank como unico partner bancario inicial y se limita, por ahora, a tarjetas Visa y Mastercard. La red estatal RuPay, dominante en el pais, queda fuera de esta primera fase.
 

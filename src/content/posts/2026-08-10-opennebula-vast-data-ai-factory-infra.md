@@ -9,7 +9,10 @@ tags:
   - Infraestructura
   - Cloud
 description: "OpenNebula se alió con VAST Data para integrar orquestación cloud nativa con infraestructura de datos AI-native. Apuntan a AI factories, gigafactories y neoclouds con una propuesta que va más allá del GPU."
+ogImage: "../../assets/images/opennebula-vast-data-ai-factory-infra-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/opennebula-vast-data-ai-factory-infra-cover.png)
 
 Todos hablan de GPUs. Pero cuando tu cluster de IA llega a cierta escala, el GPU es solo **una parte del problema**. Storage, networking, multi-tenancy, movement de datasets enormes entre compute y data — todo eso tiene que funcionar como un sistema. Y ahí es donde entran **OpenNebula y VAST Data**.
 

@@ -12,7 +12,9 @@ on:
       - reopened
   workflow_call:
   push:
-    branches: [main]
+    branches:
+      - main
+      - feat/cover-image-pipeline
 
 jobs:
   build:
@@ -41,8 +43,12 @@ jobs:
       - name: "🔎 Lint code"
         run: pnpm run lint
 
-      - name: "📝 Checking code format"
-        run: pnpm run format:check
+      - name: "📝 Checking code format (diff vs base)"
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "FORMAT_BASE=${{ github.event.pull_request.base.sha }}" >> "$GITHUB_ENV"
+          fi
+          pnpm run format:diff
 
       - name: "🚀 Build the project"
         run: pnpm run build
@@ -88,10 +94,49 @@ jobs:
             && { echo "✗ Forbidden path detected in image"; exit 1; } \
             || echo "✓ Image artifact is clean"
 
-      - name: "🚀 Smoke test (start container, curl /)"
+      - name: "🚀 Smoke test (read-only + tmpfs, like compose.yaml)"
         run: |
-          docker run -d --rm --name ping-diario-smoke -p 8080:8080 ping-diario:ci
-          sleep 3
-          curl -fsS http://127.0.0.1:8080/ > /tmp/index.html
+          set -uo pipefail
+          # Replicate the `web` service in compose.yaml: read-only filesystem
+          # with the same tmpfs mounts so nginx (running as uid 101) can write
+          # its PID under /var/run and cache under /var/cache/nginx. Do NOT
+          # pass --rm so we can inspect logs if the container exits early.
+          docker run -d \
+            --name ping-diario-smoke \
+            -p 8080:8080 \
+            --read-only \
+            --tmpfs /var/cache/nginx:size=32m,uid=101,gid=101,mode=1777 \
+            --tmpfs /var/run:size=4m,uid=101,gid=101,mode=1777 \
+            --tmpfs /tmp:size=16m,uid=101,gid=101,mode=1777 \
+            ping-diario:ci
+
+          cleanup() {
+            docker rm -f ping-diario-smoke >/dev/null 2>&1 || true
+          }
+          trap cleanup EXIT
+
+          # Probe up to 30s instead of a fixed `sleep 3`; nginx may need more
+          # time on first start, especially on GitHub-hosted runners.
+          ok=0
+          for i in $(seq 1 30); do
+            if curl -fsS -o /tmp/index.html http://127.0.0.1:8080/; then
+              ok=1
+              break
+            fi
+            sleep 1
+          done
+
+          if [ "$ok" -ne 1 ]; then
+            echo "::group::Container status"
+            docker ps -a --filter name=ping-diario-smoke
+            echo "::group::Container logs"
+            docker logs ping-diario-smoke || true
+            echo "::group::Container inspect"
+            docker inspect --format '{{json .State}}' ping-diario-smoke || true
+            echo "::endgroup::"
+            echo "✗ Smoke test: curl to http://127.0.0.1:8080/ never succeeded."
+            exit 1
+          fi
+
           head -1 /tmp/index.html
-          docker rm -f ping-diario-smoke
+          echo "✓ Smoke test: served index.html from the container."

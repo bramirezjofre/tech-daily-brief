@@ -8,7 +8,10 @@ draft: false
 tags:
   - IA
 description: "OpenAI mejora GPT-5.6 Sol con 68% menos errores factuales, nuevo slider de razonamiento, y chats ilimitados gratis con GPT-5.6 Luna"
+ogImage: "../../assets/images/gpt-5-6-sol-luna-openai-update-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/gpt-5-6-sol-luna-openai-update-cover.png)
 
 OpenAI le metió una actualización seria a ChatGPT ayer. Tres cambios principales que vale la pena entender:
 
@@ -16,7 +19,7 @@ OpenAI le metió una actualización seria a ChatGPT ayer. Tres cambios principal
 
 Para usuarios Plus y Pro, el modelo GPT-5.6 Sol en Chat mejoró bastante en precisión factual. Según OpenAI, las respuestas con al menos un error factual bajaron **68% respecto a GPT-5.5 Instant** en evaluaciones internas de prompts financieros, médicos y legales.
 
-También se volvió más conciso: menos formato innecesario, respuestas más directas. Se acabó el *"Great question! Let me help you with that..."* para cosas simples.
+También se volvió más conciso: menos formato innecesario, respuestas más directas. Se acabó el _"Great question! Let me help you with that..."_ para cosas simples.
 
 ## Nuevo slider de razonamiento
 

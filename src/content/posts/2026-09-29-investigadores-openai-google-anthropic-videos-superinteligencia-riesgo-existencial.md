@@ -10,7 +10,10 @@ tags:
   - Seguridad
   - Investigacion
 description: "Investigadores de OpenAI, Google y Anthropic alertan en una docena de videos de que la superinteligencia entraña un riesgo existencial real"
+ogImage: "../../assets/images/investigadores-openai-google-anthropic-videos-superinteligencia-riesgo-existencial-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/investigadores-openai-google-anthropic-videos-superinteligencia-riesgo-existencial-cover.png)
 
 Una docena de investigadores actuales y exempleados de OpenAI, Google y Anthropic han publicado una serie de videos en los que advierten de que la superinteligencia artificial podria provocar la extincion humana. La iniciativa, coordinada por la organizacion sin animo de lucro Palisade Research, agrupa las entrevistas en el sitio frominside.ai y las presenta como una «mirada desde dentro» de los laboratorios que estan construyendo los modelos mas avanzados del momento.
 

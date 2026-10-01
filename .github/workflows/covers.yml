@@ -1,0 +1,84 @@
+name: Generate cover images
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "src/content/posts/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: "covers-${{ github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  covers:
+    name: Build site, export covers, open PR
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: "☁️ Checkout repository"
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📦 Install pnpm"
+        uses: pnpm/action-setup@v4
+        with:
+          version: "11.9.0"
+
+      - name: "Use Node.js"
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "pnpm"
+
+      - name: "📦 Install dependencies"
+        run: pnpm install --frozen-lockfile
+
+      - name: "🚀 Build site (satori OG images go to dist/posts/<slug>/index.png)"
+        run: pnpm run build
+
+      - name: "🛡️ Verify dist artifact"
+        run: pnpm run verify:dist
+
+      - name: "🖼️ Export cover PNGs and patch posts"
+        id: export
+        run: node scripts/export-covers.mjs
+
+      - name: "🔁 Re-validate after patches"
+        run: pnpm run build:verify
+
+      - name: "🌿 Configure git"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: "🔀 Open PR with generated covers"
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: chore/regenerate-covers
+          delete-branch: true
+          commit-message: "chore(images): regenerate cover for posts lacking ogImage"
+          title: "chore(images): regenerate covers"
+          body: |
+            Pipeline automático `Generate cover images`.
+
+            - Construye el sitio para que `satori` genere `dist/posts/<slug>/index.png`.
+            - Ejecuta `scripts/export-covers.mjs` para copiar cada PNG a
+              `src/assets/images/<slug>-cover.png`.
+            - Parchea cada post sin imagen con `ogImage` en el frontmatter
+              y `![Imagen de referencia]` al inicio del cuerpo.
+
+            No se ha fusionado a `main`: revisar y mergear cuando se quiera
+            desplegar las nuevas portadas.
+          add-paths: |
+            src/assets/images/*-cover.png
+            src/content/posts/*.md

@@ -10,7 +10,10 @@ tags:
   - Regulacion
   - Politica
 description: "Trump firma una orden ejecutiva para sustituir «inteligencia artificial» por «Super Intelligence» en documentos oficiales de EE. UU."
+ogImage: "../../assets/images/trump-orden-ejecutiva-super-intelligence-rebrand-ia-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/trump-orden-ejecutiva-super-intelligence-rebrand-ia-cover.png)
 
 El Gobierno de Estados Unidos dejara de utilizar el termino «artificial intelligence» en sus paginas oficiales, documentos de politica y notas de prensa. En su lugar, solo aparecera la expresion «Super Intelligence», segun una orden ejecutiva firmada por el presidente Donald Trump el 29 de septiembre de 2026.
 

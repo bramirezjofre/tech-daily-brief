@@ -9,7 +9,10 @@ tags:
   - Kubernetes
   - Cloud
 description: "La CNCF publicó la agenda completa de KubeCon + CloudNativeCon NA 2026 (Salt Lake City, 9-12 noviembre). Suma un track dedicado a inference y agentes sobre Kubernetes con vLLM, KServe, Ray y OpenTelemetry."
+ogImage: "../../assets/images/kubecon-na-2026-agenda-track-ai-agentic-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/kubecon-na-2026-agenda-track-ai-agentic-cover.png)
 
 La CNCF tiró hoy la agenda completa de **KubeCon + CloudNativeCon North America 2026**, y la sorpresa no es que exista un track de AI — es **qué tan serio lo están tomando**.
 
@@ -37,7 +40,7 @@ La idea de fondo: Kubernetes no fue diseñado para AI, pero la comunidad lo ha e
 
 Jonathan Bryce, director ejecutivo:
 
-> *"AI is quickly becoming one of the largest compute workloads the industry has ever seen, and the shift from training models to running them in production is where the real engineering challenge lives now."*
+> _"AI is quickly becoming one of the largest compute workloads the industry has ever seen, and the shift from training models to running them in production is where the real engineering challenge lives now."_
 
 Básicamente: entrenar modelos es cosa del pasado (para la infra). El verdadero desafío engineeril hoy es **servir inferencia en producción a escala**. Y ahí es donde Kubernetes quiere ser la plataforma.
 

@@ -18,5 +18,15 @@ export default [
     },
   },
   { rules: { "no-console": "error" } },
+  {
+    // CLI/tooling scripts intentionally write to stdout/stderr; the
+    // application code (`.astro`, `.ts`, `.tsx`) keeps `no-console` enforced.
+    files: [
+      "scripts/**/*.mjs",
+      "scripts/**/*.cjs",
+      "*.cjs",
+    ],
+    rules: { "no-console": "off" },
+  },
   { ignores: ["dist/**", ".astro/**", "public/pagefind/**"] },
 ];

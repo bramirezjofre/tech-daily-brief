@@ -9,7 +9,10 @@ tags:
   - Kubernetes
   - Cloud
 description: "AWS sube la concurrencia del Horizontal Pod Autoscaler en EKS hasta 40 veces el default de Kubernetes"
+ogImage: "../../assets/images/eks-provisioned-control-plane-hpa-40x-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/eks-provisioned-control-plane-hpa-40x-cover.png)
 
 AWS acaba de anunciar que **Amazon EKS Provisioned Control Plane** ahora entrega autoscaling de pods significativamente más rápido. La mejora clave: el **Horizontal Pod Autoscaler (HPA) sync concurrency subió hasta 40 veces el default de Kubernetes upstream**.
 
@@ -23,7 +26,7 @@ Resultado: **menos latencia entre el momento en que la carga sube y el momento e
 
 Si tienes cargas bursty (algo cada vez más común con workloads de IA y microservicios event-driven), la velocidad con la que el HPA reacciona es crítica. Un delay de 30-60 segundos en escalar puede significar timeouts, 502s o degradación visible para el usuario.
 
-Con el control plane provisionado de EKS, AWS está diciendo básicamente: *"Nosotros corremos Kubernetes mejor que tú en tu propio cluster"*. Y tienen un punto cuando pueden tunear el control plane a este nivel.
+Con el control plane provisionado de EKS, AWS está diciendo básicamente: _"Nosotros corremos Kubernetes mejor que tú en tu propio cluster"_. Y tienen un punto cuando pueden tunear el control plane a este nivel.
 
 ## Contexto
 

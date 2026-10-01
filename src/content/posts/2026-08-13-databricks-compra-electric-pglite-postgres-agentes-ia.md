@@ -9,7 +9,10 @@ tags:
   - IA
   - Cloud
 description: "Databricks adquirió Electric, los creadores de PGlite (Postgres en WASM con 13M descargas semanales), para llevar Postgres distribuido a sandboxes de agentes IA."
+ogImage: "../../assets/images/databricks-compra-electric-pglite-postgres-agentes-ia-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/databricks-compra-electric-pglite-postgres-agentes-ia-cover.png)
 
 Databricks sigue en modo shopping spree. Esta vez se metió en el bolsillo a **Electric** (antes ElectricSQL), el equipo detrás de **PGlite** — esa belleza de Postgres que corre en WASM dentro del navegador, apps locales y ahora, lo que más interesa: **sandboxes de agentes IA**.
 
@@ -18,6 +21,7 @@ Databricks sigue en modo shopping spree. Esta vez se metió en el bolsillo a **E
 La idea es simple pero poderosa: cada agente de IA corre su propia instancia local de Postgres via PGlite, y **Electric sincroniza el estado en tiempo real** hacia un Lakebase Postgres central en Databricks. Los agentes dejan de pelear con datos stale o duplicarse en tareas.
 
 El argumento de Databricks es que **una sola base de datos centralizada ya no sirve para aplicaciones agentic**. Los agentes necesitan:
+
 - Datos gobernados y durables (centralizado)
 - Contexto local que cambia rápido (local, en el sandbox)
 
@@ -39,12 +43,12 @@ Stas Kelvich (co-founder de Neon, ahora parte de Databricks) construyó los cimi
 
 Esto consolida la apuesta de Databricks por **Postgres como capa de datos para IA**:
 
-| Capa | Tecnología |
-|------|-----------|
-| Lakehouse | Databricks (ya existente) |
-| Postgres central (OLTP) | Lakebase / Neon |
-| Postgres local (agentes) | PGlite |
-| Sync en tiempo real | Electric Sync |
+| Capa                     | Tecnología                |
+| ------------------------ | ------------------------- |
+| Lakehouse                | Databricks (ya existente) |
+| Postgres central (OLTP)  | Lakebase / Neon           |
+| Postgres local (agentes) | PGlite                    |
+| Sync en tiempo real      | Electric Sync             |
 
 La guerra por la infraestructura de agentes IA apenas está empezando. Todos se pelean por modelos y orquestación, pero **el manejo de estado y sincronización entre agentes** es el nuevo frente de batalla.
 
