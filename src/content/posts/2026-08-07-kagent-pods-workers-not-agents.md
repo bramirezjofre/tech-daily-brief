@@ -11,6 +11,7 @@ tags:
 description: "El proyecto kagent (CNCF) propone repensar cómo deployar agentes de IA en K8s: Pods como workers, no como unidades de deploy"
 ogImage: "../../assets/images/kagent-pods-as-workers-not-agents-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/kagent-pods-as-workers-not-agents-cover.png)
 
 Un post reciente en el blog del CNCF por Lin Sun (del equipo de kagent) está generando bastante discusión: **¿es un Pod la unidad correcta para deployar un agente de IA en Kubernetes?**

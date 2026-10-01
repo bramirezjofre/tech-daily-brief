@@ -12,6 +12,7 @@ tags:
 description: "Ars Technica informa que OpenAI canceló GPT-6.1 por una regresión de seguridad detectada en pruebas internas, según Saachi Jain."
 ogImage: "../../assets/images/ars-technica-openai-cancelo-gpt-6-1-fallas-seguridad-pruebas-internas-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/ars-technica-openai-cancelo-gpt-6-1-fallas-seguridad-pruebas-internas-cover.png)
 
 **OpenAI** canceló los planes de lanzar una versión actualizada de **GPT-6.1** por una **regresión de seguridad** detectada en pruebas internas, según informó Ars Technica citando a **Saachi Jain**, Head of Safety Systems de OpenAI. La nota fue publicada el 29 de septiembre de 2026 a las 10:22 am ET.

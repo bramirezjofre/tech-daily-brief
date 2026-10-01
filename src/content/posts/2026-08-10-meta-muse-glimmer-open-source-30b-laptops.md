@@ -10,6 +10,7 @@ tags:
 description: "Meta abrió los pesos de Muse Glimmer (30B parámetros), diseñado para tareas agénticas on-device. Zuckerberg también publicó un manifiesto de 6.500 palabras pushando el open source frente a OpenAI y Anthropic."
 ogImage: "../../assets/images/meta-muse-glimmer-open-source-30b-laptops-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/meta-muse-glimmer-open-source-30b-laptops-cover.png)
 
 Meta le apuntó a todos los flancos hoy. En un anuncio simultáneo con un manifiesto de Zuckerberg de 6.500 palabras, lanzaron **Muse Glimmer**: un modelo de 30 mil millones de parámetros, open weight bajo Apache 2.0, y optimizado para correr **localmente en un laptop**.
@@ -34,7 +35,7 @@ Acá es donde la cosa se pone interesante. Zuck publicó un ensayo de 6.500 pala
 2. **Modelos chinos open source** — reconoce que Alibaba (Qwen), DeepSeek y Moonshot (Kimi) están dominando el open weight, y que EE.UU. necesita competir
 3. **Políticas de distillation** — pide a Washington relajar restricciones sobre datos de entrenamiento y distillation para que los modelos americanos puedan competir
 
-La frase más directa: *"La noción de que la IA es tan peligrosa que el único camino seguro es una concentración extrema de poder parece inherentemente problemática"*. That's a shot at Anthropic y OpenAI si las hay.
+La frase más directa: _"La noción de que la IA es tan peligrosa que el único camino seguro es una concentración extrema de poder parece inherentemente problemática"_. That's a shot at Anthropic y OpenAI si las hay.
 
 ## ¿Por qué importa?
 

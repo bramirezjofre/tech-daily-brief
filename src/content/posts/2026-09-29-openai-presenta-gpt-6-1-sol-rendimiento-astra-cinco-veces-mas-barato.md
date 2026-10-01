@@ -12,6 +12,7 @@ tags:
 description: "OpenAI lanzó GPT-6.1 Sol: cerca del rendimiento de GPT-6 Astra en coding y trabajo profesional a una quinta parte del precio."
 ogImage: "../../assets/images/openai-presenta-gpt-6-1-sol-rendimiento-astra-cinco-veces-mas-barato-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/openai-presenta-gpt-6-1-sol-rendimiento-astra-cinco-veces-mas-barato-cover.png)
 
 OpenAI presentó hoy **GPT-6.1 Sol**, una actualización de GPT-6 Sol que, según la propia compañía, **se acerca al rendimiento de GPT-6 Astra** en tareas agentivas de programación, uso de computador y trabajo profesional, pero **a una quinta parte del precio de lista** de Astra en tokens de entrada y salida.

@@ -2,15 +2,6 @@ name: Generate cover images
 
 on:
   workflow_dispatch:
-    inputs:
-      force:
-        description: "Regenerate even if image exists"
-        required: false
-        default: "false"
-        type: choice
-        options:
-          - "false"
-          - "true"
   push:
     branches: [main]
     paths:
@@ -59,12 +50,7 @@ jobs:
 
       - name: "🖼️ Export cover PNGs and patch posts"
         id: export
-        run: |
-          ARGS=""
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force }}" = "true" ]; then
-            ARGS="--force"
-          fi
-          node scripts/export-covers.mjs $ARGS
+        run: node scripts/export-covers.mjs
 
       - name: "🔁 Re-validate after patches"
         run: pnpm run build:verify

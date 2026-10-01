@@ -13,6 +13,7 @@ tags:
 description: "TechCrunch informa que dot.com pertenece a xAI desde julio y redirige a la descarga de Grok, en coincidencia con el lanzamiento de Dots de OpenAI."
 ogImage: "../../assets/images/xai-dominio-dot-com-redirige-grok-coincide-lanzamiento-dots-openai-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/xai-dominio-dot-com-redirige-grok-coincide-lanzamiento-dots-openai-cover.png)
 
 El dominio **dot.com** pertenece a **xAI**, la compañía de Elon Musk, y en estos días **redirige a la página de descarga de la app Grok**, según reporta TechCrunch. La coincidencia con el anuncio de **Dots** por parte de OpenAI —el agente con avatar que la propia OpenAI presentó el mismo día en DevDay 2026— disparó la teoría de que xAI ejecutó una broma deliberada.

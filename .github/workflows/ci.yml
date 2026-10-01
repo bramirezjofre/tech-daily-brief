@@ -41,8 +41,12 @@ jobs:
       - name: "🔎 Lint code"
         run: pnpm run lint
 
-      - name: "📝 Checking code format"
-        run: pnpm run format:check
+      - name: "📝 Checking code format (diff vs base)"
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "FORMAT_BASE=${{ github.event.pull_request.base.sha }}" >> "$GITHUB_ENV"
+          fi
+          pnpm run format:diff
 
       - name: "🚀 Build the project"
         run: pnpm run build

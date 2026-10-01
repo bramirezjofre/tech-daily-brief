@@ -12,6 +12,7 @@ tags:
 description: "Microsoft parcheó 415 vulnerabilidades este mes, incluyendo un zero-day explotado en WinSock, una CVSS 9.8 en QUIC y una escalada crítica de privilegios en AKS."
 ogImage: "../../assets/images/microsoft-patch-tuesday-agosto-2026-aks-quic-zero-day-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/microsoft-patch-tuesday-agosto-2026-aks-quic-zero-day-cover.png)
 
 Microsoft soltó su Patch Tuesday de agosto y los números no decepcionan: **415 vulnerabilidades parcheadas**, 62 de ellas Críticas. Pero el detalle que más duele es que incluye **un zero-day ya explotado en producción** y **una vulnerabilidad CVSS 9.4 en Azure Kubernetes Service**.

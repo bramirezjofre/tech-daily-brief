@@ -13,6 +13,7 @@ tags:
 description: "OpenAI cerró DevDay 2026 con más de 20 anuncios: GPT-6.1 Sol, Dots, Codex en la nube, tier Ultrafast, Private Intelligence y la Agents API con computer use."
 ogImage: "../../assets/images/openai-devday-2026-recap-mas-veinte-anuncios-gpt-6-1-sol-dots-codex-ultrafast-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/openai-devday-2026-recap-mas-veinte-anuncios-gpt-6-1-sol-dots-codex-ultrafast-cover.png)
 
 **OpenAI** cerró su **DevDay 2026** con más de **20 anuncios** en una sola jornada, según el recap publicado por la propia compañía. El evento incluyó el lanzamiento de **GPT-6.1 Sol**, la presentación del agente **Dots**, una **Agents API con computer use**, el tier **Ultrafast** para baja latencia, **Codex** corriendo en la nube, y el preview de **Private Intelligence** para empresas con políticas reforzadas de confidencialidad.

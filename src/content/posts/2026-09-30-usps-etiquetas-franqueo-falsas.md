@@ -11,6 +11,7 @@ tags:
 description: "Inspectores postales de EE. UU. incautan un dominio acusado de vender más de cinco millones de etiquetas USPS falsificadas"
 ogImage: "../../assets/images/usps-etiquetas-franqueo-falsas-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/usps-etiquetas-franqueo-falsas-cover.png)
 
 Las autoridades postales de Estados Unidos incautaron el dominio de un sitio web acusado de vender millones de etiquetas de envío falsificadas. El caso muestra cómo un fraude digital puede convertir una plataforma aparentemente simple en una operación de gran escala con impacto financiero directo.

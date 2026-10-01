@@ -12,6 +12,7 @@ tags:
 description: "OpenAI presentó Dots en DevDay 2026: asistentes siempre activos con avatares personalizables que ejecutan tareas en segundo plano en una nube de cómputo."
 ogImage: "../../assets/images/openai-lanza-dots-agentes-segundo-plano-respuesta-muse-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/openai-lanza-dots-agentes-segundo-plano-respuesta-muse-cover.png)
 
 **OpenAI** presentó **Dots** durante el DevDay 2026, su propia versión del asistente con presencia agentiva que **Meta** había adelantado con Muse. Como Muse, los Dots se representan con **avatares simpáticos y personalizables**, según resumió The Verge.
