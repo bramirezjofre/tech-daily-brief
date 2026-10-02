@@ -10,7 +10,9 @@ tags:
   - Android
   - Accesibilidad
 description: "Guided Vision usa la cámara de dispositivos Android compatibles para describir objetos, textos y entornos mediante audio"
+ogImage: "../../assets/images/google-guided-vision-gemini-live-cover.png"
 ---
+![Imagen de referencia](../../assets/images/google-guided-vision-gemini-live-cover.png)
 
 Google está incorporando Guided Vision a Gemini Live para ofrecer descripciones de audio en tiempo real a partir de lo que enfoca la cámara del teléfono. La función está orientada especialmente a personas ciegas o con baja visión, aunque también puede servir en situaciones concretas en las que el usuario necesita interpretar información visual.
 
