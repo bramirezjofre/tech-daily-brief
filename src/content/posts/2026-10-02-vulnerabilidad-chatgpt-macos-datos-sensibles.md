@@ -10,7 +10,9 @@ tags:
   - IA
   - macOS
 description: "Una vulnerabilidad corregida en la aplicación de ChatGPT para macOS podía exponer chats, sesiones del navegador y otras aplicaciones"
+ogImage: "../../assets/images/vulnerabilidad-chatgpt-macos-datos-sensibles-cover.png"
 ---
+![Imagen de referencia](../../assets/images/vulnerabilidad-chatgpt-macos-datos-sensibles-cover.png)
 
 Una vulnerabilidad corregida en la aplicación de ChatGPT para macOS muestra que las herramientas de inteligencia artificial también se han convertido en objetivos de alto valor para los atacantes. El fallo podía permitir que código local no privilegiado tomara control del proceso principal de la aplicación y accediera a información almacenada en el equipo.
 

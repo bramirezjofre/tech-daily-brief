@@ -10,7 +10,9 @@ tags:
   - Audio
   - Software
 description: "La nueva función Speech de Suno genera voces a partir de guiones o indicaciones y puede combinarlas con música de fondo"
+ogImage: "../../assets/images/suno-speech-voces-musica-ia-cover.png"
 ---
+![Imagen de referencia](../../assets/images/suno-speech-voces-musica-ia-cover.png)
 
 Suno, conocida por su herramienta de generación musical, está ampliando su plataforma hacia el audio hablado. Su nueva función Speech, disponible en beta pública para la web y los dispositivos móviles, permite crear voces sintéticas a partir de una descripción o de un guion escrito.
 
