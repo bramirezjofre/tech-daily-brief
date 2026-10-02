@@ -44,7 +44,15 @@ const base = resolveBase();
 const changed = sh(`git diff --name-only ${base}...HEAD`)
   .split("\n")
   .filter(Boolean)
-  .filter((f) => /\.(md|mdx|astro|ts|tsx|mjs|cjs|js|jsx|json|yml|yaml|css|scss)$/i.test(f));
+  .filter((f) => /\.(md|mdx|astro|ts|tsx|mjs|cjs|js|jsx|json|yml|yaml|css|scss)$/i.test(f))
+  // Skip deleted/renamed files (no longer present on the working tree).
+  .filter((f) => {
+    try {
+      return sh(`test -e "${f.replace(/"/g, '\\"')}"`) === f;
+    } catch {
+      return false;
+    }
+  });
 
 if (changed.length === 0) {
   process.stderr.write("format:diff: sin archivos modificados; nada que comprobar.\n");

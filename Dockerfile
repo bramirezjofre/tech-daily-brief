@@ -6,7 +6,7 @@
 FROM node:24.12.0-alpine AS builder
 WORKDIR /app
 
-ARG ASTRO_BASE=/tech-daily-brief/
+ARG ASTRO_BASE=/
 ENV CI=true \
     NODE_ENV=production \
     ASTRO_BASE=${ASTRO_BASE} \
