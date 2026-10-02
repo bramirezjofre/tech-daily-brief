@@ -11,7 +11,9 @@ tags:
   - Legal
   - Regulación
 description: "El juez Mehta desestima las demandas de Chegg y Penske contra Google por sus búsquedas con IA: la conducta puede ser injusta, pero no es ilegal."
+ogImage: "../../assets/images/juez-desecha-antitrust-google-ai-search-cover.png"
 ---
+![Imagen de referencia](../../assets/images/juez-desecha-antitrust-google-ai-search-cover.png)
 
 El juez de distrito de EE. UU. **Amit Mehta** desestímó las demandas presentadas por **Chegg** y **Penske Media** contra Google por sus funciones de búsqueda con IA, incluidos los AI Overviews. Las editoras acusaban a Google de prácticas anticompetitivas que estaban destruyendo su tráfico; el juez resolvió que esa conducta no es ilegal bajo la ley antitrust vigente.
 
