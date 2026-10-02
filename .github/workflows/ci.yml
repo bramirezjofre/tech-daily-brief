@@ -61,6 +61,10 @@ jobs:
     timeout-minutes: 15
     needs: build
 
+    permissions:
+      contents: read
+      packages: write
+
     steps:
       - name: "☁️ Checkout repository"
         uses: actions/checkout@v4
@@ -139,3 +143,48 @@ jobs:
 
           head -1 /tmp/index.html
           echo "✓ Smoke test: served index.html from the container."
+
+      # -----------------------------------------------------------------------
+      # Publicar en GHCR solo en push a main. Reetiquetamos la MISMA imagen
+      # que acaba de pasar el smoke test, asi nunca publicamos un binario
+      # distinto del que se probo.
+      # -----------------------------------------------------------------------
+      - name: "🔐 Log in to GHCR"
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "🏷️ Tag image for GHCR (sha + latest)"
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          set -e
+          short_sha="${GITHUB_SHA::7}"
+          docker tag ping-diario:ci "ghcr.io/bramirezjofre/tech-daily-brief:latest"
+          docker tag ping-diario:ci "ghcr.io/bramirezjofre/tech-daily-brief:sha-${short_sha}"
+          echo "Tagged ping-diario:ci as latest and sha-${short_sha}"
+
+      - name: "🚀 Push image to GHCR"
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          set -e
+          docker push ghcr.io/bramirezjofre/tech-daily-brief:latest
+          docker push "ghcr.io/bramirezjofre/tech-daily-brief:sha-${GITHUB_SHA::7}"
+          echo "✓ Pushed ghcr.io/bramirezjofre/tech-daily-brief (latest + sha-${GITHUB_SHA::7})"
+
+      - name: "🌐 Make GHCR package public"
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        continue-on-error: true
+        run: |
+          set -e
+          echo "Setting GHCR package visibility to public..."
+          http_code=$(curl -fsSL -o /dev/null -w '%{http_code}' \
+            -X PUT \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/user/packages/container/tech-daily-brief" \
+            -d '{"name":"tech-daily-brief","visibility":"public"}' || true)
+          echo "PUT /visibility returned: ${http_code:-<no-response>}"
