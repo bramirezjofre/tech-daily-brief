@@ -11,7 +11,9 @@ tags:
   - Meta
   - Agentes
 description: "The Verge analiza el choque entre Dots de OpenAI y Muse de Meta: el problema central ya no es la capacidad, sino el precio de US$100 al mes."
+ogImage: "../../assets/images/openai-dots-vs-meta-muse-verge-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-dots-vs-meta-muse-verge-cover.png)
 
 The Verge publicó un seguimiento de la apertura de OpenAI DevDay 2026 donde **Dots**, el nuevo agente personal de OpenAI, queda directamente comparado con **Muse**, la plataforma de agentes de Meta. La conclusión editorial es incómoda para OpenAI: la pelea por el agente personal puede ganarla no el producto más capaz, sino el más barato.
 

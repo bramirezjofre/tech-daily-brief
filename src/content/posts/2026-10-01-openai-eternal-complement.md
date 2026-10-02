@@ -10,7 +10,9 @@ tags:
   - OpenAI
   - Investigación
 description: "Un ensayo de OpenAI argumenta que el valor de la IA residirá en el trabajo rutinario que sostiene los avances, no solo en las ideas brillantes."
+ogImage: "../../assets/images/openai-eternal-complement-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-eternal-complement-cover.png)
 
 OpenAI publicó el ensayo **«The eternal complement»**, firmado por Hemanth Asirvatham y Elliott Mokski como primera entrega de su serie sobre «The Next Economy». El texto propone una idea poco común en la conversación pública sobre inteligencia artificial: que la frontera de progreso no estará marcada por el próximo «Einstein artificial», sino por una capa masiva de **trabajo institucional** que es la que, en última instancia, sostiene a las ideas brillantes.
 
