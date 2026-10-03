@@ -10,7 +10,9 @@ tags:
   - Negocios
   - Infraestructura
 description: "Amazon destinará más de US$1.000 millones a comunidades vecinas a sus centros de datos, mientras persisten las críticas por agua, energía y contaminación."
+ogImage: "../../assets/images/amazon-1b-data-centers-backlash-cover.png"
 ---
+![Imagen de referencia](../../assets/images/amazon-1b-data-centers-backlash-cover.png)
 
 Amazon Web Services anunció una inversión superior a US$1.000 millones durante los próximos cinco años para apoyar a las comunidades vecinas a sus centros de datos. La compañía afirma que los fondos se destinarán a educación, formación laboral, asequibilidad energética, agua y otras prioridades locales.
 
