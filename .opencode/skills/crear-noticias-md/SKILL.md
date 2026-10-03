@@ -1,6 +1,6 @@
 ---
 name: crear-noticias-md
-description: Use ONLY when creating Spanish news Markdown files (src/content/posts/*.md) for the Astro + AstroPaper Ping Diario (Tech Daily Brief) site from the remote feed at https://techdailybrief.online/api/stories. Triggers on requests like "crea una noticia", "genera un artículo desde techdailybrief", "redacta un post en español sobre <tema>", or when the user provides a story id/category/sourceLink from that API and wants a translated Spanish editorial post.
+description: Use ONLY when creating Spanish news Markdown files (src/content/posts/*.md) for the Astro + AstroPaper Ping Diario (Tech Daily Brief) site from the remote feed at https://techdailybrief.online/api/stories. Triggers on requests like "crea una noticia", "genera un artículo desde techdailybrief", "redacta un post en español sobre un tema", or when the user provides a story id, category, or sourceLink from that API and wants a translated Spanish editorial post.
 ---
 
 # Crear noticias en español desde techdailybrief.online
@@ -349,7 +349,20 @@ python3 -c "import sys; t=open(sys.argv[1]).read(); print([(i,c) for i,c in enum
 pnpm run build:verify
 ```
 
-## 15. Lo que NO debe hacer esta skill
+## 15. Entrega en Git
+
+Cuando el usuario pida generar noticias, esta skill es la guía canónica del proyecto y debe leerse antes de seleccionar o redactar historias. Después de crear y validar los artículos:
+
+1. Revisar `git status --short` y conservar cualquier cambio ajeno al trabajo; nunca sobrescribirlo ni hacer `reset`.
+2. Crear o usar una rama descriptiva para la tanda de noticias; no trabajar directamente sobre `main` salvo que el usuario lo pida explícitamente.
+3. Revisar el diff y agregar al commit solo los Markdown, imágenes y archivos de soporte generados para esta ejecución.
+4. Crear un commit claro, por ejemplo `news: publish <tema-o-fecha>`.
+5. Ejecutar `git push -u origin <rama>` y confirmar que terminó correctamente.
+6. Reportar al usuario la rama, el commit, los archivos generados y el resultado del push. No hacer merge ni desplegar sin una solicitud explícita.
+
+Si el push falla por autenticación, permisos, conflictos o cualquier otra causa, detenerse e informar el error exacto; no probar credenciales alternativas, force-push ni atajos silenciosos.
+
+## 16. Lo que NO debe hacer esta skill
 
 - No traducir literalmente el `title` del feed: reescribir en estilo
   editorial.
