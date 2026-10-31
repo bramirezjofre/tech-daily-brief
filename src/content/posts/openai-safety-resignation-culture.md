@@ -10,7 +10,9 @@ tags:
   - Seguridad
   - Gobernanza
 description: "David Robinson dejó OpenAI y cuestionó una cultura de desarrollo acelerado que, según su análisis, subestima los riesgos de los modelos avanzados."
+ogImage: "../../assets/images/openai-safety-resignation-culture-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-safety-resignation-culture-cover.png)
 
 David Robinson, quien redactaba informes de seguridad para lanzamientos importantes de modelos en OpenAI, renunció a su puesto y publicó sus preocupaciones en un editorial de The Atlantic. The Verge recoge su argumento central: la cultura de la industria se ha vuelto demasiado confiada y acelerada para gestionar adecuadamente los riesgos de la inteligencia artificial avanzada.
 

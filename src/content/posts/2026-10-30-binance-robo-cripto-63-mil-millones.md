@@ -10,7 +10,9 @@ tags:
   - Cloud
   - DevOps
 description: "Binance atribuye el incidente a una intrusión compleja y afirma que congeló unos 3.000 millones de dólares de los activos"
+ogImage: "../../assets/images/binance-robo-cripto-63-mil-millones-cover.png"
 ---
+![Imagen de referencia](../../assets/images/binance-robo-cripto-63-mil-millones-cover.png)
 
 Binance informó del robo de aproximadamente 6.300 millones de dólares en criptomonedas, en un ataque que The Verge describe como el mayor incidente de este tipo registrado hasta ahora. La compañía afirmó que los fondos de sus usuarios están a salvo y que cerca de 3.000 millones de dólares de los activos afectados fueron congelados.
 

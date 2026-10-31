@@ -10,7 +10,9 @@ tags:
   - Open Source
   - Seguridad
 description: "La fundación defiende entrenar modelos con obras protegidas, pero pide licencias cuando los sistemas sustituyen el acceso a las fuentes"
+ogImage: "../../assets/images/wikimedia-copyright-ia-web-abierto-cover.png"
 ---
+![Imagen de referencia](../../assets/images/wikimedia-copyright-ia-web-abierto-cover.png)
 
 La Wikimedia Foundation presentó una posición intermedia en los litigios sobre inteligencia artificial y copyright que enfrentan a editores, OpenAI y Microsoft. La organización sostiene que entrenar modelos de lenguaje con material protegido puede constituir un uso legítimo, pero que los sistemas deberían respetar licencias cuando reproducen el contenido y sustituyen la consulta de la fuente original.
 
