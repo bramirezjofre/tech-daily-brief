@@ -10,7 +10,9 @@ tags:
   - Ciberseguridad
   - Criptomonedas
 description: "TechCrunch atribuye a hackers norcoreanos el robo de 6.300 millones de dólares tras comprometer el portátil de un empleado de Binance"
+ogImage: "../../assets/images/binance-brecha-63-mil-millones-cover.png"
 ---
+![Imagen de referencia](../../assets/images/binance-brecha-63-mil-millones-cover.png)
 
 TechCrunch informa que hackers vinculados a Corea del Norte son sospechosos de haber comprometido el portátil de un empleado de Binance. Según el artículo y el resumen de la fuente, ese acceso habría permitido el robo de miles de millones en criptomonedas, en una operación que el medio presenta como una brecha récord de 6.300 millones de dólares.
 

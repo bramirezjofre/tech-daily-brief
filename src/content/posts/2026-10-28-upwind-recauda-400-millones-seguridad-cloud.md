@@ -10,7 +10,9 @@ tags:
   - Cloud
   - Startups
 description: "La startup de seguridad cloud Upwind alcanza una valoración de 3.800 millones tras rechazar una oferta de adquisición de Datadog"
+ogImage: "../../assets/images/upwind-recauda-400-millones-seguridad-cloud-cover.png"
 ---
+![Imagen de referencia](../../assets/images/upwind-recauda-400-millones-seguridad-cloud-cover.png)
 
 Upwind, una startup de San Francisco especializada en proteger infraestructura cloud con inteligencia artificial, cerró una ronda Serie C de 400 millones de dólares con una valoración de 3.800 millones. La operación llega después de que Datadog intentara adquirir la compañía sin ofrecer una prima sobre esa valoración, según una fuente citada por TechCrunch.
 

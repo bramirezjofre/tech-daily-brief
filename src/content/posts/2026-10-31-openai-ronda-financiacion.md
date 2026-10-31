@@ -10,7 +10,9 @@ tags:
   - Negocios
   - Mercados
 description: "TechCrunch informa que OpenAI habría rebajado su objetivo de financiación, una señal de que la nueva ronda no cumple las expectativas iniciales"
+ogImage: "../../assets/images/openai-ronda-financiacion-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-ronda-financiacion-cover.png)
 
 TechCrunch informa que OpenAI habría reducido el objetivo de su nueva ronda de financiación. El propio titular utiliza el condicional «reportedly» y el resumen de la noticia señala que la ronda más reciente no parece estar cumpliendo las expectativas. No se publica aquí una cifra porque la fuente revisada no la confirma en el feed.
 
