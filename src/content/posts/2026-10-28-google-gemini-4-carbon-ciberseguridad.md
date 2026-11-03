@@ -10,7 +10,9 @@ tags:
   - Ciberseguridad
   - Modelos
 description: "Gemini 4 Carbon llega con mejoras declaradas en programación, tareas agenticas y detección de vulnerabilidades"
+ogImage: "../../assets/images/google-gemini-4-carbon-ciberseguridad-cover.png"
 ---
+![Imagen de referencia](../../assets/images/google-gemini-4-carbon-ciberseguridad-cover.png)
 
 Google presentó Gemini 4 Carbon, su nuevo modelo de frontera orientado a programación, tareas agénticas y ciberseguridad. El modelo supera a referentes de OpenAI y Anthropic en algunos benchmarks, aunque su disponibilidad inicial está limitada a un grupo seleccionado de empresas de defensa cibernética.
 

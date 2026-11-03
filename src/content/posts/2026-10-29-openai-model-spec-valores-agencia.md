@@ -10,7 +10,9 @@ tags:
   - Seguridad
   - Modelos
 description: "OpenAI actualiza su Model Spec con énfasis en intención humana, reducción del daño, honestidad, agencia y cuidado"
+ogImage: "../../assets/images/openai-model-spec-valores-agencia-cover.png"
 ---
+![Imagen de referencia](../../assets/images/openai-model-spec-valores-agencia-cover.png)
 
 OpenAI publicó una actualización de su Model Spec, el documento público que describe el comportamiento que busca en sus modelos. La revisión reorganiza sus pautas alrededor de cinco valores: fidelidad a la intención humana, minimización del daño, honestidad y transparencia, agencia humana y cuidado.
 

@@ -10,7 +10,9 @@ tags:
   - Programacion
   - Rust
 description: "OmniDiff es una herramienta open source en Rust que compara código y múltiples formatos de archivo con un enfoque centrado en el contenido"
+ogImage: "../../assets/images/omnidiff-herramienta-diffs-rust-cover.png"
 ---
+![Imagen de referencia](../../assets/images/omnidiff-herramienta-diffs-rust-cover.png)
 
 OmniDiff es una herramienta de comparación de archivos escrita en Rust que busca ampliar el concepto tradicional de un diff. Su propuesta incluye código, configuración, imágenes, PDF, archivos comprimidos, cursores y fuentes, según la descripción publicada por su autor.
 

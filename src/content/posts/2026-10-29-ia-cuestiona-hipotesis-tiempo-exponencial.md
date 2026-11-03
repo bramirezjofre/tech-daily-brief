@@ -10,7 +10,9 @@ tags:
   - Programación
   - Investigación
 description: "OpenAI y Anthropic afirman haber refutado la hipótesis del tiempo exponencial, un resultado que podría obligar a revisar décadas de investigación"
+ogImage: "../../assets/images/ia-cuestiona-hipotesis-tiempo-exponencial-cover.png"
 ---
+![Imagen de referencia](../../assets/images/ia-cuestiona-hipotesis-tiempo-exponencial-cover.png)
 
 OpenAI y Anthropic afirman haber refutado la hipótesis del tiempo exponencial (ETH), una conjetura de 27 años que ha servido como base para amplias áreas de la informática teórica. La afirmación todavía no ha sido verificada de forma independiente, pero ya está provocando una revisión urgente de trabajos académicos construidos sobre esa premisa.
 

@@ -10,7 +10,9 @@ tags:
   - Rust
   - Bases de datos
 description: "Rustable propone un cliente de bases de datos de código abierto construido en Rust para trabajar con datos desde una aplicación nativa"
+ogImage: "../../assets/images/rustable-cliente-bases-datos-rust-open-source-cover.png"
 ---
+![Imagen de referencia](../../assets/images/rustable-cliente-bases-datos-rust-open-source-cover.png)
 
 Rustable se presenta como un cliente de bases de datos de código abierto construido en Rust. El proyecto apareció en la sección «Show HN» de Hacker News y enlaza con su sitio oficial, donde se describe la herramienta. A diferencia de una noticia basada únicamente en una mención de agregador, el enlace del proyecto abre directamente la página del producto.
 

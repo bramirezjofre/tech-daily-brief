@@ -10,7 +10,9 @@ tags:
   - Machine Learning
   - Videojuegos
 description: "Una prueba con GPT-5.6 Sol explora si un modelo puede planificar y progresar en Factorio bajo las reglas del modo pacífico"
+ogImage: "../../assets/images/gpt-56-sol-factorio-modo-paz-cover.png"
 ---
+![Imagen de referencia](../../assets/images/gpt-56-sol-factorio-modo-paz-cover.png)
 
 Una prueba publicada por Ryan Madden examina el desempeño de GPT-5.6 Sol en Factorio, un juego de automatización y producción. El experimento se realizó en el modo pacífico y plantea una pregunta concreta: hasta dónde puede llegar un modelo cuando debe mantener una cadena de objetivos dentro de un entorno interactivo.
 
