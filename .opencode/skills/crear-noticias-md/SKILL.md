@@ -157,7 +157,7 @@ Frontmatter estricto:
 ```yaml
 ---
 title: "Título editorial en español, sin clickbait"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T09:00:00Z
 slug: titulo-en-kebab-case-sin-articulos
 featured: false
@@ -171,7 +171,7 @@ description: "Resumen de una línea en español, máximo ~160 caracteres, sin pu
 
 Reglas:
 
-- `author`: siempre `Carlos` salvo que el usuario indique otro.
+- `author`: siempre `Bramirezj` salvo que el usuario indique otro.
 - `pubDatetime`: ISO 8601 UTC (`YYYY-MM-DDTHH:MM:SSZ`). Conservar la fecha
   del feed aunque sea futura o tenga mas de 30 dias.
 - `slug`: kebab-case en espanol, sin articulos finales, derivado del titulo.
