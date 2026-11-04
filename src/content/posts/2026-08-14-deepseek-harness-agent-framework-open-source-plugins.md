@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek Harness: el framework open-source donde todo es un plugin (incluyendo el modelo)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T04:00:00Z
 slug: deepseek-harness-agent-framework-open-source-plugins
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Kitesurf: un navegador web construido para agentes de IA, no para humanos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T10:00:00Z
 slug: cloudflare-kitesurf-navegador-para-agentes-ia
 featured: false

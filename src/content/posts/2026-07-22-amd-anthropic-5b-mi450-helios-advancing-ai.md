@@ -1,6 +1,6 @@
 ---
 title: "AMD le mete US$5 mil millones a Anthropic y le declara la guerra a NVIDIA con la era Helios"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T12:00:00Z
 slug: amd-anthropic-5b-mi450-helios-advancing-ai
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA sirve Qwen3.8-2.4T en GB300 NVL72: 4K tokens/s por GPU con razonamiento configurable"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T10:00:00Z
 slug: nvidia-qwen-2-4t-gb300-nvl72-serving
 featured: false

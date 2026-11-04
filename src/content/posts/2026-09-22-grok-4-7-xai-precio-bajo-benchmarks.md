@@ -1,6 +1,6 @@
 ---
 title: "xAI lanza Grok 4.7 a precio de ganga, pero los benchmarks revelan una brecha con Claude y GPT-6"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T09:00:00Z
 slug: grok-4-7-xai-precio-bajo-benchmarks
 featured: false

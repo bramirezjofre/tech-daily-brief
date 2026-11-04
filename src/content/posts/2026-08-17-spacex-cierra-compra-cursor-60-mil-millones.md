@@ -1,6 +1,6 @@
 ---
 title: "Se cerró: SpaceX completa la compra de Cursor por US$60 mil millones y se queda con el rey del AI coding"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T16:00:00Z
 slug: spacex-cierra-compra-cursor-60-mil-millones
 featured: false

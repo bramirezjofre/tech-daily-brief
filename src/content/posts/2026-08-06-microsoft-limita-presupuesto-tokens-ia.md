@@ -1,6 +1,6 @@
 ---
 title: "Microsoft a sus ingenieros: Basta de 'tokenmaxxing', hay un presupuesto"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T00:00:00Z
 slug: microsoft-limita-presupuesto-tokens-ia
 featured: true

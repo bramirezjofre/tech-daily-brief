@@ -1,6 +1,6 @@
 ---
 title: "DataAgent sale del stealth con US$10M para que una IA repare tus clústeres de Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-04T22:00:00Z
 slug: dataagent-10m-ia-repara-kubernetes
 featured: false

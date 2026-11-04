@@ -1,6 +1,6 @@
 ---
 title: "Flooding Dropper: casi 800 paquetes npm maliciosos entregan RAT multiplataforma"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T04:00:00Z
 slug: flooding-dropper-800-paquetes-npm-rat
 featured: false

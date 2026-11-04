@@ -1,6 +1,6 @@
 ---
 title: "Cilium 1.20 llega con Gateway API a full: salto de v1.4 a v1.6, TCPRoute/UDPRoute y plugins de datapath extensible"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T04:05:00Z
 slug: cilium-1-20-gateway-api-salto-v1-6-release
 featured: false

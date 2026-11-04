@@ -1,6 +1,6 @@
 ---
 title: "El 42% del código que se commitea ya lo escribe (o ayuda) la IA, según Sonar"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T09:00:00Z
 slug: sonar-state-of-code-42-codigo-ia
 featured: false

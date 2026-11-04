@@ -1,6 +1,6 @@
 ---
 title: "Grok 4.6 aterriza en Amazon Bedrock: el flagship de SpaceXAI llega a la nube enterprise con contexto de 500K y precios agresivos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T22:10:00Z
 slug: grok-4-6-amazon-bedrock-ga
 featured: false

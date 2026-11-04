@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Ads supera los US$1.000 millones y se abre al mundo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T16:00:00Z
 slug: openai-chatgpt-ads-mil-millones-expansion
 featured: false

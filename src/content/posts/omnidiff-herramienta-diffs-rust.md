@@ -1,6 +1,6 @@
 ---
 title: "OmniDiff propone una nueva forma de comparar código y archivos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-01T13:02:30Z
 slug: omnidiff-herramienta-diffs-rust
 featured: false

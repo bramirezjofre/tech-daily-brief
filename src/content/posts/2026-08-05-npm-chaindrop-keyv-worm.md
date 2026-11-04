@@ -1,6 +1,6 @@
 ---
 title: "Alerta de Seguridad: Gusanos 'ChainDrop' y 'keyv' infectan cientos de paquetes en npm"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-05T04:00:00Z
 slug: npm-chaindrop-keyv-worm-supply-chain
 featured: false

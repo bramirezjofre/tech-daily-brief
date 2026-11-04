@@ -1,6 +1,6 @@
 ---
 title: "OpenAI prueba 'Private Safety Processing': vigilar el misuse sin guardar tus datos (y mientras Anthropic pide 30 días de logs)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-19T22:20:00Z
 slug: openai-private-safety-processing-zdr
 featured: false

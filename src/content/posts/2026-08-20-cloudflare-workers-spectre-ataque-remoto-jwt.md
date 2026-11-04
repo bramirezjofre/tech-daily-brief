@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare demuestra ataque Spectre remoto en Workers: fuga de datos a 12 bits por segundo entre tenants"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T10:00:00Z
 slug: cloudflare-workers-spectre-ataque-remoto-jwt
 featured: false

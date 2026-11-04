@@ -1,6 +1,6 @@
 ---
 title: "MiniMax lanza M1 y M2: Los modelos chinos open-source siguen ganando terreno en Occidente"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T04:00:00Z
 slug: minimax-m1-modelos-chinos-open-source
 featured: false

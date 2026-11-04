@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes no fue diseñado para GPUs: cómo hacer que se comporten"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T16:00:00Z
 slug: kubernetes-gpus-mig-mps-dra-compartir-silicon
 featured: false

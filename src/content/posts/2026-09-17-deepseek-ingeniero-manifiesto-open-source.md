@@ -1,6 +1,6 @@
 ---
 title: "El ingeniero de DeepSeek que le puso voz a la contra: 'no confío en que Anthropic ni OpenAI hagan la IA abierta y barata'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T09:00:00Z
 slug: deepseek-ingeniero-manifiesto-open-source
 featured: false

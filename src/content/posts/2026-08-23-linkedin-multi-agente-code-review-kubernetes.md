@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn montó una plataforma multi-agente para code review: 79.000 comentarios semanales y 63,9% de aceptación"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T10:05:00Z
 slug: linkedin-multi-agente-code-review-kubernetes
 featured: false

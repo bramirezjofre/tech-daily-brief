@@ -1,6 +1,6 @@
 ---
 title: "OpenAI lanza el Admin plugin: administra ChatGPT Work y Codex desde el chat"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-25T22:00:00Z
 slug: openai-admin-plugin-chatgpt-work-codex
 featured: false

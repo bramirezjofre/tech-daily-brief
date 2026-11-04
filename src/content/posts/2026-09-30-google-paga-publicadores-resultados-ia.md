@@ -1,6 +1,6 @@
 ---
 title: "Google prueba pagos a publicadores por sus aportes a los resultados de búsqueda con IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-30T14:51:49Z
 slug: google-paga-publicadores-resultados-ia
 featured: false

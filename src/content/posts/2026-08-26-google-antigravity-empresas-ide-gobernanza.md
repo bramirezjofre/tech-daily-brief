@@ -1,6 +1,6 @@
 ---
 title: "Google Antigravity llega a empresas: IDE, gobernanza y control de gasto en una sola suscripción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T04:00:00Z
 slug: google-antigravity-empresas-ide-gobernanza
 featured: false

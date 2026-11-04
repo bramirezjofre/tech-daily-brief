@@ -1,6 +1,6 @@
 ---
 title: "Las vulnerabilidades 'Confused Deputy' siguen siendo un dolor de cabeza en GCP y Azure"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T16:00:00Z
 slug: confused-deputy-flaws-gcp-azure-blackhat
 featured: false

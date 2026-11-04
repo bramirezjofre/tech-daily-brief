@@ -1,6 +1,6 @@
 ---
 title: "OpenAI le mete un turbo a GPT-5.6 Sol: modo Ultrafast llega a 750 tokens/seg de la mano de Cerebras"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-18T16:00:00Z
 slug: openai-ultrafast-cerebras-gpt-56-sol-750-tokens
 featured: false

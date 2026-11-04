@@ -1,6 +1,6 @@
 ---
 title: "NadMesh: el botnet industrial-grade que masca servidores de IA y MCP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T16:00:00Z
 slug: nadmesh-botnet-ia-mcp-servers
 featured: false

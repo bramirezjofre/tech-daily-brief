@@ -1,6 +1,6 @@
 ---
 title: "Google y Anyscale llevan sandboxes nativos con gVisor a los clústeres Ray en GKE"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T16:05:00Z
 slug: gke-gvisor-sandboxes-ray-anyscale
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "1.1.1.1 de Cloudflare ya valida DNSSEC con criptografía post-cuántica (ML-DSA-44)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T21:00:00Z
 slug: cloudflare-1111-dnssec-post-cuantico
 featured: false

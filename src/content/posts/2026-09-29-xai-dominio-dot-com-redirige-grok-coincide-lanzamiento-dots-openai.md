@@ -1,6 +1,6 @@
 ---
 title: "El dominio dot.com redirige a Grok: la coincidencia que la red adjudica a una broma de xAI contra el lanzamiento de Dots de OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T22:20:59Z
 slug: xai-dominio-dot-com-redirige-grok-coincide-lanzamiento-dots-openai
 featured: false

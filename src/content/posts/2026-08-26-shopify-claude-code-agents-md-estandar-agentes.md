@@ -1,6 +1,6 @@
 ---
 title: "Tobi Lütke amenaza con banear Claude Code en Shopify por culpa de un archivo Markdown"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T10:15:00Z
 slug: shopify-claude-code-agents-md-estandar-agentes
 featured: false

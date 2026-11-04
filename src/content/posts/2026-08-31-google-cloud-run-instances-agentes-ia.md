@@ -1,6 +1,6 @@
 ---
 title: "Cloud Run instances: instancias persistentes y baratas para agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T16:00:00Z
 slug: google-cloud-run-instances-agentes-ia
 featured: false

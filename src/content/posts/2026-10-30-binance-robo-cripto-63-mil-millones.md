@@ -1,6 +1,6 @@
 ---
 title: "Un ataque roba 6.300 millones de dólares en criptomonedas de Binance"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-30T11:44:53Z
 slug: binance-robo-cripto-63-mil-millones
 featured: false

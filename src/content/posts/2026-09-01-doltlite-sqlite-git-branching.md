@@ -1,6 +1,6 @@
 ---
 title: "DoltLite: un fork de SQLite con branching estilo Git, construido por 2.000 PRs de agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T10:00:00Z
 slug: doltlite-sqlite-git-branching
 featured: false

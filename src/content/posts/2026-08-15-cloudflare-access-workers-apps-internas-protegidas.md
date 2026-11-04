@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Access para Workers: las apps vibe-codeadas ya no quedan expuestas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T04:00:00Z
 slug: cloudflare-access-workers-apps-internas-protegidas
 featured: false

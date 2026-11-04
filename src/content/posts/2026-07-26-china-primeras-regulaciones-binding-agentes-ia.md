@@ -1,6 +1,6 @@
 ---
 title: "China estrena las primeras regulaciones binding del mundo para agentes de IA: tiers de autonomía, edad mínima y auditoría obligatoria"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T10:00:00Z
 slug: china-primeras-regulaciones-binding-agentes-ia
 featured: false

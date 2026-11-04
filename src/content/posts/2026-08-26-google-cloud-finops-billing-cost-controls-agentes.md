@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud mete FinOps a los agentes: billing flexible y control de costos para la era de la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T16:00:00Z
 slug: google-cloud-finops-billing-cost-controls-agentes
 featured: false

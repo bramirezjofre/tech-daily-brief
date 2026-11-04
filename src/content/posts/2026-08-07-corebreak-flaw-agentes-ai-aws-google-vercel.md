@@ -1,6 +1,6 @@
 ---
 title: "CoreBreak: falla crítica en agentes de IA de AWS, Google y Vercel permite ejecutar tools sin autorización del modelo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T22:00:00Z
 slug: corebreak-flaw-agentes-ai-aws-google-vercel
 featured: false

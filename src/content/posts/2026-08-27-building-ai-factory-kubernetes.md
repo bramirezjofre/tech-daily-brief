@@ -1,6 +1,6 @@
 ---
 title: "Cómo montar una 'AI factory' sobre Kubernetes (spoiler: el cuello de botella no es la GPU)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T16:00:00Z
 slug: building-ai-factory-kubernetes
 featured: false

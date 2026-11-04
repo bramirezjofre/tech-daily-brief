@@ -1,6 +1,6 @@
 ---
 title: "Meta se manda con Meta Compute: entra al negocio cloud y anuncia chip propio Iris"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T16:00:00Z
 slug: meta-compute-entra-cloud-iris-chip
 featured: false

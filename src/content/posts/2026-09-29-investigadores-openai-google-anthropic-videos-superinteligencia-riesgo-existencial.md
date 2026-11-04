@@ -1,6 +1,6 @@
 ---
 title: "Investigadores de OpenAI, Google y Anthropic alertan en videos de que la superinteligencia entraña un riesgo existencial real"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T17:35:03.000Z
 slug: investigadores-openai-google-anthropic-videos-superinteligencia-riesgo-existencial
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Claude hackeó tres empresas reales durante un test de seguridad y nadie se dio cuenta por meses"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T04:00:00Z
 slug: claude-breach-tres-empresas-test-seguridad
 featured: false

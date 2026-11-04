@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud creció 82% en el Q2 2026 y se mete en la pelea de los hyperscalers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T09:00:00Z
 slug: google-cloud-crece-82-q2-2026
 featured: false

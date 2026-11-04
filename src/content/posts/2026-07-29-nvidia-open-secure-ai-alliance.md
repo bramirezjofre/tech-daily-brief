@@ -1,6 +1,6 @@
 ---
 title: "Nvidia lanza la 'Open Secure AI Alliance' sin OpenAI, Google ni Anthropic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T04:00:00Z
 slug: nvidia-open-secure-ai-alliance
 featured: false

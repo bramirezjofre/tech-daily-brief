@@ -1,6 +1,6 @@
 ---
 title: "Uber presenta GitFarm: Git como servicio para monorepos gigantes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T16:10:00Z
 slug: uber-gitfarm-git-as-a-service
 featured: false

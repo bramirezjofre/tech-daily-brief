@@ -1,6 +1,6 @@
 ---
 title: "Binance atribuye un robo cripto a entrevistas falsas y una herramienta interna de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-03T22:04:02Z
 slug: binance-heist-entrevistas-falsas-herramienta-ia
 featured: false

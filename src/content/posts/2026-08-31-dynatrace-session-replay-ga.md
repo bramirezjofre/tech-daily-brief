@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace lanza Session Replay conectado a logs, traces y RUM"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T16:00:00Z
 slug: dynatrace-session-replay-ga
 featured: false

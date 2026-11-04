@@ -1,6 +1,6 @@
 ---
 title: "Los 4 grandes clouds ya tienen sandboxes para agentes IA — y ninguno lo hizo igual"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T04:00:00Z
 slug: cloud-agent-sandboxes-aws-google-azure-cloudflare
 featured: false

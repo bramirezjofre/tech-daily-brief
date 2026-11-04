@@ -1,6 +1,6 @@
 ---
 title: "Datadog lanza nueva skill de Costos Cloud en Bits Chat"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T16:00:00Z
 slug: datadog-cloud-cost-skill-bits-chat
 featured: false

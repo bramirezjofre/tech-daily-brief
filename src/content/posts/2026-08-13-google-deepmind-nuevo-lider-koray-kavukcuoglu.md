@@ -1,6 +1,6 @@
 ---
 title: "Google DeepMind cambia de líder: la carrera por alcanzar a OpenAI y Anthropic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T04:00:00Z
 slug: google-deepmind-nuevo-lider-koray-kavukcuoglu
 featured: false

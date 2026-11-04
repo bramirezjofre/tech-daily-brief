@@ -1,6 +1,6 @@
 ---
 title: "Cursor, Codex, Gemini CLI y Antigravity: todos tienen sandbox escapes por el mismo flaw estructural"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T22:00:00Z
 slug: ai-coding-agents-escapan-sandbox-cursor-codex-gemini-cli
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Qwen-Image-3.0: Alibaba apunta a que la generación de imágenes sea 'útil' y no solo 'bonita'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T04:15:00Z
 slug: qwen-image-3-0-generacion-imagenes-productividad
 featured: false

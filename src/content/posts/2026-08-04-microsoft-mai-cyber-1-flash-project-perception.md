@@ -1,6 +1,6 @@
 ---
 title: "Microsoft lanza MAI-Cyber-1-Flash: Su propio modelo de IA para ciberseguridad que supera a Anthropic y OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-04T16:00:00Z
 slug: microsoft-mai-cyber-1-flash-project-perception
 featured: false

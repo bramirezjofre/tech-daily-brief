@@ -1,6 +1,6 @@
 ---
 title: "OpenAI recorta los precios de su API: La guerra de los modelos nos beneficia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T10:00:00Z
 slug: openai-baja-precios-api-guerra-modelos
 featured: false

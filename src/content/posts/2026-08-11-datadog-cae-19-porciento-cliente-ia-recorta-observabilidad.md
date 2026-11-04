@@ -1,6 +1,6 @@
 ---
 title: "Datadog cae 19% tras resultados: su mayor cliente IA recorta uso de observabilidad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T04:00:00Z
 slug: datadog-cae-19-porciento-cliente-ia-recorta-observabilidad
 featured: false

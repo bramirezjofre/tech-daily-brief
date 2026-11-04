@@ -1,6 +1,6 @@
 ---
 title: "Fatiga de modelos: la carrera frenética de los labs de IA ya cansa al mercado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-07T15:00:00Z
 slug: fatiga-modelos-carrera-frenetica-labs-ia
 featured: false

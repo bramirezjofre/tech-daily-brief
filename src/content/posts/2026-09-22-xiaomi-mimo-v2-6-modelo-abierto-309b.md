@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi libera MiMo-V2.6 Pro y Flash: un modelo abierto de 309B con stack de RL"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T03:00:00Z
 slug: xiaomi-mimo-v2-6-modelo-abierto-309b
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek V4-Flash cuesta 100x menos que Claude Fable 5 en benchmarks: la guerra de precios IA se acelera"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T12:00:00Z
 slug: deepseek-v4-flash-guerra-precios-ia
 featured: false

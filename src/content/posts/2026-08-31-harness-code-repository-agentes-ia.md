@@ -1,6 +1,6 @@
 ---
 title: "Harness lanza su propio repo de código: un GitHub 'agent-ready' para la era de los agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T10:00:00Z
 slug: harness-code-repository-agentes-ia
 featured: false

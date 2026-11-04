@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Wallets para Agentes IA y herramientas para el Agent Development Lifecycle"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-05T04:00:00Z
 slug: cloudflare-agent-wallets-lifecycle
 featured: false

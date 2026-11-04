@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare: \"los humanos serán un error de redondeo en internet\" mientras el tráfico de bots crece 1000x"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T18:00:00Z
 slug: cloudflare-humanos-error-redondeo-internet
 featured: false

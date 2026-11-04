@@ -1,6 +1,6 @@
 ---
 title: "Microsoft pisa el acelerador con sus modelos IA y cuestiona la dependencia de OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-30T16:00:00Z
 slug: microsoft-compite-abiertamente-openai-anthropic
 featured: false

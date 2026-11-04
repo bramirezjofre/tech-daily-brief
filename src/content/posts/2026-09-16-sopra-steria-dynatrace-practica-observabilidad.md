@@ -1,6 +1,6 @@
 ---
 title: "Sopra Steria y Dynatrace lanzan una práctica de observabilidad y AIOps para Europa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T09:00:00Z
 slug: sopra-steria-dynatrace-practica-observabilidad
 featured: false

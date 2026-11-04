@@ -1,6 +1,6 @@
 ---
 title: "Tenable y OpenAI crean un inspector para auditar agentes IA de la comunidad antes de desplegarlos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T16:00:00Z
 slug: tenable-openai-cyberagents-exchange-inspector
 featured: false

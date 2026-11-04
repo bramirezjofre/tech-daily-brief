@@ -1,6 +1,6 @@
 ---
 title: "Un exresponsable de seguridad de OpenAI cuestiona la cultura de desarrollo de la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-03T14:31:56Z
 slug: openai-safety-resignation-culture
 featured: false

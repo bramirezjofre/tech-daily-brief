@@ -1,6 +1,6 @@
 ---
 title: "OpenAI libera el Harness de Codex bajo Apache-2.0: el motor de su agente de código ahora es de todos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T04:05:00Z
 slug: openai-codex-harness-open-source-apache
 featured: false

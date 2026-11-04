@@ -1,6 +1,6 @@
 ---
 title: "OVHcloud sube precios: la demanda de IA está encareciendo hasta la RAM de los servidores 'normales'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T04:00:00Z
 slug: ovhcloud-alza-precios-memoria-ia
 featured: false

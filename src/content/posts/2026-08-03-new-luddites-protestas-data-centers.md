@@ -1,6 +1,6 @@
 ---
 title: "Los 'Neo-Ludditas': cuando las comunidades se organizan contra los data centers de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T22:00:00Z
 slug: new-luddites-protestas-data-centers
 featured: false

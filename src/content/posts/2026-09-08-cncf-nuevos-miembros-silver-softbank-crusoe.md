@@ -1,6 +1,6 @@
 ---
 title: "CNCF suma nueve miembros Silver: SoftBank y Crusoe se suben al cloud native"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T09:00:00Z
 slug: cncf-nuevos-miembros-silver-softbank-crusoe
 featured: false

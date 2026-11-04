@@ -1,6 +1,6 @@
 ---
 title: "Solo.io lleva agentgateway a cualquier infraestructura con su edición Enterprise standalone"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T15:00:00Z
 slug: solo-enterprise-agentgateway-multiplataforma
 featured: false

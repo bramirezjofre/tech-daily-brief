@@ -1,6 +1,6 @@
 ---
 title: "Anthropic mete US$9.1 mil millones a Riot Platforms: el minero de Bitcoin que ahora alimenta IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T10:00:00Z
 slug: anthropic-riot-platforms-9-mil-millones-infra-ia
 featured: false

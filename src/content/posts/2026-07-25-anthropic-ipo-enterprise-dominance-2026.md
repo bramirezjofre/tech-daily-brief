@@ -1,6 +1,6 @@
 ---
 title: "Anthropic acelera hacia el IPO: ARR de US$47B, primer profit operativo y ventaja enterprise sobre OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T10:10:00Z
 slug: anthropic-ipo-enterprise-dominance-2026
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Workflows y Artifacts: CI/CD nativo para reemplazar el YAML por TypeScript"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-05T16:00:00Z
 slug: cloudflare-workflows-artifacts-ci
 featured: false

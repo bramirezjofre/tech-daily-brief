@@ -1,6 +1,6 @@
 ---
 title: "Palo Alto Networks compra Embrace y mete Real User Monitoring a su plataforma de Observabilidad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-21T22:15:00Z
 slug: palo-alto-networks-embrace-rum-observabilidad
 featured: false

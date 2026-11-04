@@ -1,6 +1,6 @@
 ---
 title: "IBM y NASA liberan un modelo fundacional open source para explorar la Luna"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T21:00:00Z
 slug: ibm-nasa-modelo-fundacional-lunar
 featured: false

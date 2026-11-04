@@ -1,6 +1,6 @@
 ---
 title: "Portainer corta 3.0 y se vuelve Kubernetes-first: una familia de consolas en vez de una UI única"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T21:00:00Z
 slug: portainer-3-0-kubernetes-first
 featured: false

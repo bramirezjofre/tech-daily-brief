@@ -1,6 +1,6 @@
 ---
 title: "WSO2 lanza Agent Manager, un control plane open source para gobernar agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-19T09:00:00Z
 slug: wso2-agent-manager-gobernanza-agentes-ia
 featured: false

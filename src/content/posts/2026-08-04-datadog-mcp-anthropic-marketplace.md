@@ -1,6 +1,6 @@
 ---
 title: "Datadog se mete a Anthropic: Nuevo MCP Server oficial"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-04T18:00:00Z
 slug: datadog-mcp-anthropic-marketplace
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Rafay Systems lanza MCP Server para gobernar IA en operaciones de infraestructura"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T16:00:00Z
 slug: rafay-mcp-server-infra-ops
 featured: false

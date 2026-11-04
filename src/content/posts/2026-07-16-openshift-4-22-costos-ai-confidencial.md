@@ -1,6 +1,6 @@
 ---
 title: "Red Hat OpenShift 4.22: Karpenter GA, AI Confidencial y cuchillo en los costos cloud"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T04:00:00Z
 slug: openshift-4-22-karpenter-ai-confidencial-costos
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Anthropic revela que Claude ya ayuda a construir su propia próxima versión: el camino a la automejora recursiva"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-19T03:00:00Z
 slug: anthropic-claude-autoconstruccion-recursiva
 featured: false

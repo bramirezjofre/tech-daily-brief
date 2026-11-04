@@ -1,6 +1,6 @@
 ---
 title: "AWS convierte Security Hub en plataforma multicloud y añade protección para workloads de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T04:03:00Z
 slug: aws-security-hub-multicloud-ai-protection
 featured: false

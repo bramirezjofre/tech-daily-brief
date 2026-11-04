@@ -1,6 +1,6 @@
 ---
 title: "Datadog vuela en Q2: US$1.12B de revenue, AI Guard y Bring Your Own Cloud"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T16:00:00Z
 slug: datadog-q2-2026-ia-guard-byoc
 featured: false

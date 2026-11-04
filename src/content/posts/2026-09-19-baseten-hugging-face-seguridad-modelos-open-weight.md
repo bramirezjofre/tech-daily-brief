@@ -1,6 +1,6 @@
 ---
 title: "Baseten y Hugging Face se unen para blindar la seguridad de los modelos open-weight"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-19T16:00:00Z
 slug: baseten-hugging-face-seguridad-modelos-open-weight
 featured: false

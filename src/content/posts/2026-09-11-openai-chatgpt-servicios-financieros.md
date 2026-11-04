@@ -1,6 +1,6 @@
 ---
 title: "OpenAI lanza ChatGPT for Financial Services para pelearle el pastel a los bancos de Wall Street"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T03:00:00Z
 slug: openai-chatgpt-servicios-financieros
 featured: false

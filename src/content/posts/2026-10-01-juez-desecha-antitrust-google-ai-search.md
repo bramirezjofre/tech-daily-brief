@@ -1,6 +1,6 @@
 ---
 title: "Juez federal desestima las demandas de Chegg y Penske contra Google por su búsqueda con IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-01T20:11:55Z
 slug: juez-desecha-antitrust-google-ai-search
 featured: false

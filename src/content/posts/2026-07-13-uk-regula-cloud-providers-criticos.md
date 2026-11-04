@@ -1,6 +1,6 @@
 ---
 title: "Reino Unido mete a AWS, Google Cloud, Microsoft y Oracle bajo regulación financiera directa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:10:00Z
 slug: uk-regula-cloud-providers-criticos
 featured: false

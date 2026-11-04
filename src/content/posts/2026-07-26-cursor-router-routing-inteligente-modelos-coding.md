@@ -1,6 +1,6 @@
 ---
 title: "Cursor Router: el classifier que decide qué modelo de IA usa por ti (y corta 60% del costo)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T18:05:00Z
 slug: cursor-router-routing-inteligente-modelos-coding
 featured: false

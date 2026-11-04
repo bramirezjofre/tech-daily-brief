@@ -1,6 +1,6 @@
 ---
 title: "Jev, el modelo de decisiones de TypeSafe, rompe el récord de adopción de Vercel en 24 horas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T21:00:00Z
 slug: jev-typesafe-modelo-decisiones-record-vercel
 featured: false

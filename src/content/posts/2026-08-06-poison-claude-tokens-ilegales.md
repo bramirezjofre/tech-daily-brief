@@ -1,6 +1,6 @@
 ---
 title: "Poison Claude: el mercado negro que vende acceso a Claude con créditos cloud fraudulentos (y ve todos tus prompts)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T16:00:00Z
 slug: poison-claude-mercado-negro-tokens-ia
 featured: false

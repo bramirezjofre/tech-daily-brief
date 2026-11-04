@@ -1,6 +1,6 @@
 ---
 title: "Nscale adquiere Anyscale: En busca de la neutralidad multi-cloud en IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T10:00:00Z
 slug: nscale-compra-anyscale-neutralidad-cloud
 featured: false

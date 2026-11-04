@@ -1,6 +1,6 @@
 ---
 title: "Alibaba libera Qwen-Image-2.1: un modelo open-weight de 7B que genera y edita imágenes con transparencia nativa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T15:00:00Z
 slug: qwen-image-2-1-alibaba
 featured: false

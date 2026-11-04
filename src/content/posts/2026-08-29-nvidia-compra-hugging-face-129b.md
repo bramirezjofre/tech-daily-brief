@@ -1,6 +1,6 @@
 ---
 title: "Nvidia paga US$12.900 millones por Hugging Face: compró el lugar donde viven los modelos abiertos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T16:07:00Z
 slug: nvidia-compra-hugging-face-129b
 featured: false

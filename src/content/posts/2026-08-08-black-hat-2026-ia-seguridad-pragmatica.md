@@ -1,6 +1,6 @@
 ---
 title: "Black Hat 2026: la IA dejó de ser hype y se convirtió en problema operativo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T04:30:00Z
 slug: black-hat-2026-ia-seguridad-pragmatica
 featured: false

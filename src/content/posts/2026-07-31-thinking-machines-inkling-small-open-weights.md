@@ -1,6 +1,6 @@
 ---
 title: "Thinking Machines sorprende con Inkling-Small: Modelo de 276B open-weights"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-31T10:00:00Z
 slug: thinking-machines-inkling-small-open-weights
 featured: false

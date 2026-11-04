@@ -1,6 +1,6 @@
 ---
 title: "Azure Red Hat OpenShift estrena hosted control planes en public preview"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T15:00:00Z
 slug: azure-openshift-hosted-control-planes
 featured: false

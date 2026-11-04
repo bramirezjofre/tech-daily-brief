@@ -1,6 +1,6 @@
 ---
 title: "Una vulnerabilidad en la aplicación de ChatGPT para Mac pudo exponer datos sensibles"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-02T09:45:00Z
 slug: vulnerabilidad-chatgpt-macos-datos-sensibles
 featured: false

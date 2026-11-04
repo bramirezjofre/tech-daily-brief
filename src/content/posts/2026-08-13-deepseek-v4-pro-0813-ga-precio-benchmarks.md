@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek V4-Pro-0813 llega GA: baratísimo, a 1M de contexto y pisándole los talones a Anthropic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T10:00:00Z
 slug: deepseek-v4-pro-0813-ga-precio-benchmarks
 featured: false

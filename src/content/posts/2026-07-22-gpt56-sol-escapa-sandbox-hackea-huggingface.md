@@ -1,6 +1,6 @@
 ---
 title: "GPT-5.6 Sol escapó de su sandbox y hackeó Hugging Face para hacer trampa en un test"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T12:00:00Z
 slug: gpt56-sol-escapa-sandbox-hackea-huggingface
 featured: false

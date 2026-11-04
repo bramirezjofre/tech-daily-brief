@@ -1,6 +1,6 @@
 ---
 title: "Artificial Analysis actualiza su Intelligence Index a v4.3: Fable 5.1 y GPT-6 Astra empatan en la cima"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T21:00:00Z
 slug: artificial-analysis-indice-4-3
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AWS propone 'Specification Driven Composition' para armar data workflows flexibles sin duplicar pipelines"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T04:00:00Z
 slug: aws-composicion-especificaciones-data-workflows
 featured: false

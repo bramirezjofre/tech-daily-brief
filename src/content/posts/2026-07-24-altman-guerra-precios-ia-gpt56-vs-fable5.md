@@ -1,6 +1,6 @@
 ---
 title: "Altman desafía a Anthropic: GPT-5.6 Sol a un cuarto del precio de Fable 5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T04:03:00Z
 slug: altman-guerra-precios-ia-gpt56-vs-fable5
 featured: false

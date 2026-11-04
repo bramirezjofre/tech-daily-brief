@@ -1,6 +1,6 @@
 ---
 title: "AWS Continuum se integra con Anthropic y OpenAI para blindar entornos de desarrollo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T18:00:00Z
 slug: aws-continuum-anthropic-openai-integracion
 featured: false

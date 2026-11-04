@@ -1,6 +1,6 @@
 ---
 title: "Salesforce y NVIDIA lanzan Koa: el primer modelo de razonamiento para CRM"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T21:00:00Z
 slug: salesforce-nvidia-koa-crm-reasoning-model
 featured: false

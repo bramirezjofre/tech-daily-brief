@@ -1,6 +1,6 @@
 ---
 title: "Apple se mete a la observabilidad: compra SigScalr (SigLens) y agita el mercado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T22:00:00Z
 slug: apple-compra-sigscalr-observabilidad
 featured: false

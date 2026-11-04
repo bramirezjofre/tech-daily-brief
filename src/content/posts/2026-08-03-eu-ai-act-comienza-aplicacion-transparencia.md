@@ -1,6 +1,6 @@
 ---
 title: "La UE empieza a aplicar su AI Act: transparencia obligatoria y reglas para modelos GPAI desde ya"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T16:00:00Z
 slug: eu-ai-act-comienza-aplicacion-transparencia
 featured: false

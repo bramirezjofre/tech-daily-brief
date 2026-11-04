@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare abre BotBase a los operadores de bots: seguimiento, edición y modelo de comportamiento"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T21:00:00Z
 slug: cloudflare-botbase-para-operadores-bots
 featured: false

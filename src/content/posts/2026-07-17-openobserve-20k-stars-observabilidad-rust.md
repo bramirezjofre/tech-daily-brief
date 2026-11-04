@@ -1,6 +1,6 @@
 ---
 title: "OpenObserve llega a 20K estrellas en GitHub: observabilidad open source en Rust que cuesta 140x menos que Elasticsearch"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T10:00:00Z
 slug: openobserve-20k-estrellas-observabilidad-rust
 featured: false

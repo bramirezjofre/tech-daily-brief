@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT, Claude y Grok se cayeron a la vez: el riesgo de concentración de la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-04T10:00:00Z
 slug: chatgpt-claude-grok-caida-simultanea
 featured: false

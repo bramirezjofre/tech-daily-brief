@@ -1,6 +1,6 @@
 ---
 title: "Crusoe levanta US$3.900 millones para sus 'AI factories' modulares"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T21:00:00Z
 slug: crusoe-serie-f-3900m-ai-factories
 featured: false

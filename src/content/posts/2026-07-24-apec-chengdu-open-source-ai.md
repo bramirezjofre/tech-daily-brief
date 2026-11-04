@@ -1,6 +1,6 @@
 ---
 title: "APEC respalda IA open-source con 'strong security': 21 economías firman declaración en Chengdu"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T10:00:00Z
 slug: apec-chengdu-open-source-ai-strong-security
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Amazon mete US$50 mil millones a OpenAI y AWS se vuelve su cloud exclusivo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T10:00:00Z
 slug: aws-openai-50-mil-millones-frontier-exclusivo
 featured: false

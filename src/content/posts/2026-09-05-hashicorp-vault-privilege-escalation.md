@@ -1,6 +1,6 @@
 ---
 title: "HashiCorp Vault corrige un bypass de privilegios usando nombres de política con mayúsculas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T22:00:00Z
 slug: hashicorp-vault-privilege-escalation
 featured: false

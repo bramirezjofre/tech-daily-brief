@@ -1,6 +1,6 @@
 ---
 title: "Mistral apaga sus conectores de Google Drive y SharePoint el 31 de agosto: sin migración automática y con preguntas abiertas sobre tus datos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-19T10:00:00Z
 slug: mistral-conectores-drive-sharepoint-mcp-deadline-datos
 featured: false

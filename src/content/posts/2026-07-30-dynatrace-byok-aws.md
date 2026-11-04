@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace lanza Bring Your Own Key (BYOK) para AWS"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-30T10:00:00Z
 slug: dynatrace-byok-aws-observabilidad
 featured: false

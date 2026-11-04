@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza 'Cloudflare OS' y un Gateway de IA con consciencia de identidad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T00:00:00Z
 slug: cloudflare-os-identity-gateway
 featured: false

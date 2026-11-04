@@ -1,6 +1,6 @@
 ---
 title: "Demis Hassabis quiere un 'FINRA para la IA': DeepMind propone watchdog independiente para frontier models"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T04:00:00Z
 slug: deepmind-watchdog-ia-frontier-models
 featured: false

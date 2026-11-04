@@ -1,6 +1,6 @@
 ---
 title: "Kubeflow se arma rumbo a la graduación CNCF: Kale 2.0, Notebooks v2 y HPC en Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T16:10:00Z
 slug: kubeflow-graduacion-cncf-kale-notebooks-v2
 featured: false

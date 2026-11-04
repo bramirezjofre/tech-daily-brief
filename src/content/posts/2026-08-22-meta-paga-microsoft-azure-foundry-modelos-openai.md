@@ -1,6 +1,6 @@
 ---
 title: "Meta le paga cientos de millones a Microsoft por IA: trillones de tokens semanales en Azure Foundry"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T22:20:00Z
 slug: meta-paga-microsoft-azure-foundry-modelos-openai
 featured: false

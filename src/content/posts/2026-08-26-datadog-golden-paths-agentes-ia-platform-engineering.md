@@ -1,6 +1,6 @@
 ---
 title: "Datadog: los Golden Paths ahora deben pensar en usuarios que no son humanos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T10:20:00Z
 slug: datadog-golden-paths-agentes-ia-platform-engineering
 featured: false

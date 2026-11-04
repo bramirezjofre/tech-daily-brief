@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek libera V4-Flash-Vision-Exp: su primer modelo multimodal abierto"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T10:00:00Z
 slug: deepseek-v4-flash-vision-exp
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Google lanza k8s-aibom: Auditoría de workloads de IA en Kubernetes open source"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T00:00:00Z
 slug: google-k8s-aibom-kubernetes
 featured: false

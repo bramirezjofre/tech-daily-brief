@@ -1,6 +1,6 @@
 ---
 title: "Entra en vigor la CRA europea: 24 horas para reportar vulnerabilidades explotadas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T22:00:00Z
 slug: cyber-resilience-act-24-horas-reporte
 featured: false

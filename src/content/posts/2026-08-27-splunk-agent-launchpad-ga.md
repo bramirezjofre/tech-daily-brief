@@ -1,6 +1,6 @@
 ---
 title: "Splunk lanza Agent Launchpad: agentes no-code para pasar de la señal a la acción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T22:00:00Z
 slug: splunk-agent-launchpad-ga
 featured: false

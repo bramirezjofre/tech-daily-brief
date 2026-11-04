@@ -1,6 +1,6 @@
 ---
 title: "La guerra llega al Cloud: Irán ataca data centers de AWS en Bahréin"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-31T18:00:00Z
 slug: iran-ataca-data-centers-aws-bahrein
 featured: false

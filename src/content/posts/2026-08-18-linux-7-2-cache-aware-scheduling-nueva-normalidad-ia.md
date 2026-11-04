@@ -1,6 +1,6 @@
 ---
 title: "Linux 7.2 llega estable: cache-aware scheduling, exFAT 87% más rápido y el 'nuevo normal' de la IA según Torvalds"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-18T10:30:00Z
 slug: linux-7-2-cache-aware-scheduling-nueva-normalidad-ia
 featured: false

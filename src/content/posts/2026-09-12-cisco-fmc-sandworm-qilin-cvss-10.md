@@ -1,6 +1,6 @@
 ---
 title: "Cisco FMC bajo fuego: Sandworm y Qilin explotan una falla CVSS 10.0"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T22:00:00Z
 slug: cisco-fmc-sandworm-qilin-cvss-10
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AWS mete US$1B y Google US$750M a 'Forward Deployed Engineering': ingenieros gratis que salen caros"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T04:06:00Z
 slug: aws-google-forward-deployed-engineering
 featured: false

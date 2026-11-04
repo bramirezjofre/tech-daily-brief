@@ -1,6 +1,6 @@
 ---
 title: "Anthropic recorta 17% los límites de Claude Code… y lo vende como un aumento"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-15T21:00:00Z
 slug: anthropic-recorta-limites-claude-code-17
 featured: false

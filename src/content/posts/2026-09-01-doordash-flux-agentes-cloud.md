@@ -1,6 +1,6 @@
 ---
 title: "DoorDash movió 130.000 tareas de ingeniería a agentes en la nube con Flux"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T22:00:00Z
 slug: doordash-flux-agentes-cloud
 featured: false

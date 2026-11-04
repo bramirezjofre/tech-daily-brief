@@ -1,6 +1,6 @@
 ---
 title: "Google y Anyscale llevan sandboxing nativo con gVisor a los clústeres de Ray"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T16:00:00Z
 slug: gvisor-sandbox-ray-google-anyscale
 featured: false

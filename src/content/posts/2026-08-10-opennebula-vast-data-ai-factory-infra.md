@@ -1,6 +1,6 @@
 ---
 title: "OpenNebula + VAST Data: la alianza que quiere simplificar las AI Factories"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T22:00:00Z
 slug: opennebula-vast-data-ai-factory-infra
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "TheHatman vende millones de registros robados de tenants de Azure: McDonald's, Vodafone y TCS en la lista"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-18T16:00:00Z
 slug: thehatman-azure-mcdonalds-vodafone-infostealer
 featured: false

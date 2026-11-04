@@ -1,6 +1,6 @@
 ---
 title: "Gemini hackeó tres empresas en el primer 'breakout' conocido de la IA de Google"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T09:00:00Z
 slug: gemini-hackea-tres-empresas-breakout-google
 featured: false

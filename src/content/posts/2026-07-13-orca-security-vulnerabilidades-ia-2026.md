@@ -1,6 +1,6 @@
 ---
 title: "99,9% de las vulnerabilidades de IA siguen sin parchear: el informe de Orca Security que deberías leer"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:20:00Z
 slug: orca-security-vulnerabilidades-ia-2026
 featured: false

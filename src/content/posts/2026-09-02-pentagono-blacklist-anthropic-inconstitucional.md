@@ -1,6 +1,6 @@
 ---
 title: "Jueza anula blacklist del Pentágono contra Anthropic: decir que no no es delito"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-02T04:00:00Z
 slug: pentagono-blacklist-anthropic-inconstitucional
 featured: false

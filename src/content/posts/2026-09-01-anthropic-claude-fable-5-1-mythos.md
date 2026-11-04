@@ -1,6 +1,6 @@
 ---
 title: "Anthropic lanza Claude Fable 5.1 y Mythos 5.1: 75% más barato en caché y guardarraíles para la empresa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T22:00:00Z
 slug: anthropic-claude-fable-5-1-mythos
 featured: false

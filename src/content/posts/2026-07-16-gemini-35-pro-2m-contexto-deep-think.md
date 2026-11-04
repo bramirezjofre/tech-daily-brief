@@ -1,6 +1,6 @@
 ---
 title: "Gemini 3.5 Pro se lanzaría mañana: 2M tokens de contexto y Deep Think reasoning"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T16:10:00Z
 slug: gemini-35-pro-2m-contexto-deep-think
 featured: false

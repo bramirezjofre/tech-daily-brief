@@ -1,6 +1,6 @@
 ---
 title: "Broadcom sube a Platinum en CNCF y dona Velero al ecosistema Cloud Native"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T04:10:00Z
 slug: broadcom-cncf-platinum-velero
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Mercado cloud US$143 mil millones en Q2 2026: Google gana terreno mientras AWS pierde share"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T22:00:00Z
 slug: cloud-market-share-q2-2026-google-gana-terreno
 featured: false

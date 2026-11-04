@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace lleva observabilidad a SCADA y entornos OT: adiós al punto ciego industrial"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T18:30:00Z
 slug: dynatrace-observabilidad-scada-ot
 featured: false

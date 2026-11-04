@@ -1,6 +1,6 @@
 ---
 title: "Observabilidad con IA: ¿realidad o puro marketing? Solo el 4% la tiene productiva"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T10:00:00Z
 slug: observabilidad-ai-realidad-o-marketing-madurez
 featured: false

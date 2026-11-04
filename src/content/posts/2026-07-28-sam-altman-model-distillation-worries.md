@@ -1,6 +1,6 @@
 ---
 title: "Sam Altman sobre Model Distillation: 'No está en mi top 10 de preocupaciones'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T22:00:00Z
 slug: sam-altman-model-distillation-worries
 featured: false

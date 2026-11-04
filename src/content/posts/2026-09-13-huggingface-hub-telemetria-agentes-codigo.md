@@ -1,6 +1,6 @@
 ---
 title: "huggingface_hub espía silenciosamente qué agente de código estás usando"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-13T09:00:00Z
 slug: huggingface-hub-telemetria-agentes-codigo
 featured: false

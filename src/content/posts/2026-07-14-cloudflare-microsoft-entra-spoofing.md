@@ -1,6 +1,6 @@
 ---
 title: "Infraestructura de Cloudflare utilizada para validar credenciales robadas de Microsoft Entra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T12:00:00Z
 slug: cloudflare-microsoft-entra-spoofing
 featured: false

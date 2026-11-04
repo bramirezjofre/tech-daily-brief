@@ -1,6 +1,6 @@
 ---
 title: "Reino Unido pone el pie encima a AWS, Google Cloud, Microsoft y Oracle: entra en vigor régimen CTP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T16:00:00Z
 slug: reino-unido-regula-big-tech-cloud
 featured: false

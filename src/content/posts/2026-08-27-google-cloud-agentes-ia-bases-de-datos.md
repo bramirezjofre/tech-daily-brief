@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud lanza agentes de IA para administrar tus bases de datos de punta a punta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T16:05:00Z
 slug: google-cloud-agentes-ia-bases-de-datos
 featured: false

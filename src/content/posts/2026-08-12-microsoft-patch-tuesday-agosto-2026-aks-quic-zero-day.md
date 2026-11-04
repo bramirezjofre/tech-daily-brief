@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Patch Tuesday Agosto 2026: 415 vulnerabilidades, un zero-day explotado y una CVSS 9.4 en Azure Kubernetes Service"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T16:00:00Z
 slug: microsoft-patch-tuesday-agosto-2026-aks-quic-zero-day
 featured: false

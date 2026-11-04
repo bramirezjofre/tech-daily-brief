@@ -1,6 +1,6 @@
 ---
 title: "AWS descontinúa hardware Outposts para data centers privados"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T04:15:00Z
 slug: aws-descontinua-outposts-hardware
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Content Independence Day año 2: controlar bots de IA ya no es 'bloquear todo'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T10:00:00Z
 slug: cloudflare-content-independence-day-agentes-ia
 featured: false

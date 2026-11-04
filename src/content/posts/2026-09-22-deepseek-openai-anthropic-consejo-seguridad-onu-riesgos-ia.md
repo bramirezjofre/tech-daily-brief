@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek se suma a OpenAI y Anthropic para informar al Consejo de Seguridad de la ONU sobre riesgos de la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T15:00:00Z
 slug: deepseek-openai-anthropic-consejo-seguridad-onu-riesgos-ia
 featured: false

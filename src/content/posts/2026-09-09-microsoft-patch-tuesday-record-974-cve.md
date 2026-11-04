@@ -1,6 +1,6 @@
 ---
 title: "Microsoft rompe récord en Patch Tuesday: 974 CVEs, 2 zero-days explotados y 20 bugs wormeables"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T09:00:00Z
 slug: microsoft-patch-tuesday-record-974-cve
 featured: false

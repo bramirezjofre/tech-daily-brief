@@ -1,6 +1,6 @@
 ---
 title: "Tencent libera Hy4: su modelo de 770 mil millones de parámetros y 1M de tokens de contexto"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T02:00:00Z
 slug: tencent-hy4-open-source-770b
 featured: false

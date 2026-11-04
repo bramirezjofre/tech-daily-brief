@@ -1,6 +1,6 @@
 ---
 title: "Gartner lanza su primer Magic Quadrant de AI Infrastructure: Google Cloud Leader, CoreWeave Visionary"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T16:00:00Z
 slug: gartner-magic-quadrant-ai-infrastructure-2026
 featured: false

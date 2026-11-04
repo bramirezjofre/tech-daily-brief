@@ -1,6 +1,6 @@
 ---
 title: "Nous Research lanza Hermes Agent v0.21.0 'Pantheon': bots que se hablan entre ellos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T16:00:00Z
 slug: nous-hermes-agent-pantheon
 featured: false

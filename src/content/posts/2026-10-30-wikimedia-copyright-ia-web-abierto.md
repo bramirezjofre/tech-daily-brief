@@ -1,6 +1,6 @@
 ---
 title: "Wikimedia advierte que una mala decisión sobre copyright podría amenazar la web abierta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-30T09:00:00Z
 slug: wikimedia-copyright-ia-web-abierto
 featured: false

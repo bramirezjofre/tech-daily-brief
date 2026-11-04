@@ -1,6 +1,6 @@
 ---
 title: "Datadog 'State of Postgres': 60% de las organizaciones ya corren Postgres en producción y la IA acelera la toma"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T16:05:00Z
 slug: datadog-state-of-postgres-2026
 featured: false

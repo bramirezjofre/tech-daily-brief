@@ -1,6 +1,6 @@
 ---
 title: "Microsoft revela por primera vez los ingresos de Azure en dólares: US$29.4 mil millones en un trimestre"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-03T16:00:00Z
 slug: microsoft-revela-azure-revenue-dolares-segmentos
 featured: false

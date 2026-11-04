@@ -1,6 +1,6 @@
 ---
 title: "Woodpecker CI 3.17: AppArmor para Docker, control de nodeSelector en K8s y secrets bajo control"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T10:00:00Z
 slug: woodpecker-ci-3-17-apparmor-k8s-seguridad
 featured: false

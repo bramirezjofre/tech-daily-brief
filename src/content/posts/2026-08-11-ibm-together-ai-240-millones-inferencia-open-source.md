@@ -1,6 +1,6 @@
 ---
 title: "IBM y Together AI firman deal de US$240M: inferencia open-source a escala con NVIDIA B300"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T22:00:00Z
 slug: ibm-together-ai-240-millones-inferencia-open-source
 featured: false

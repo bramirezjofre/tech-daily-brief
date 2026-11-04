@@ -1,6 +1,6 @@
 ---
 title: "Jensen Huang predice un boom de computación 5-10x impulsado por Agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T22:00:00Z
 slug: jensen-huang-ai-agents-computing-boom
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "LiteLLM: el mayor supply chain breach de IA de 2026 expone a 2.500+ empresas y 434.000 pipelines de CI/CD"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T16:00:00Z
 slug: litellm-supply-chain-attack-2500-empresas-trivy
 featured: false

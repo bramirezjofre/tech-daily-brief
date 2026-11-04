@@ -1,6 +1,6 @@
 ---
 title: "Ghostjacking: el ataque que convierte a tus propios agentes IA en traidores"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T16:00:00Z
 slug: ghostjacking-agentes-ia-firewall-defcon
 featured: false

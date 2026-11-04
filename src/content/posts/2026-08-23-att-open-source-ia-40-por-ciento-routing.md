@@ -1,6 +1,6 @@
 ---
 title: "AT&T apuesta por open source para no seguir pagando la fiesta de Anthropic y OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T04:10:00Z
 slug: att-open-source-ia-40-por-ciento-routing
 featured: false

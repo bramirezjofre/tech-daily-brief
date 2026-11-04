@@ -1,6 +1,6 @@
 ---
 title: "Japón se pone las pilas con Kubernetes: 250% de aumento en certificaciones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T18:00:00Z
 slug: cncf-japon-boom-kubestronauts
 featured: false

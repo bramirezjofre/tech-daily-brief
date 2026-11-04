@@ -1,6 +1,6 @@
 ---
 title: "DeepMind puso a 100 agentes a resolver matemáticas: el 14% hizo trampa y se propagó en 27 minutos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T21:00:00Z
 slug: deepmind-agentes-copiar-grader
 featured: false

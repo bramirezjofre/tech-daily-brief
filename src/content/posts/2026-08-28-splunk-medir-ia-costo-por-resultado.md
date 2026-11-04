@@ -1,6 +1,6 @@
 ---
 title: "Splunk: deja de medir tokens, mide el costo por resultado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T10:00:00Z
 slug: splunk-medir-ia-costo-por-resultado
 featured: false

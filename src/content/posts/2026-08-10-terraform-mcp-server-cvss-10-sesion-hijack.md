@@ -1,6 +1,6 @@
 ---
 title: "CVE con CVSS 10.0 en Terraform MCP Server de HashiCorp: el token de tu compañero es el tuyo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T04:00:00Z
 slug: terraform-mcp-server-cvss-10-sesion-hijack
 featured: false

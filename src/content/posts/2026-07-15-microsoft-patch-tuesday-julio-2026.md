@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Patch Tuesday Julio 2026: 570 vulnerabilidades y 3 zero-days, un récord histórico"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T10:00:00Z
 slug: microsoft-patch-tuesday-julio-2026-570-flaws
 featured: false

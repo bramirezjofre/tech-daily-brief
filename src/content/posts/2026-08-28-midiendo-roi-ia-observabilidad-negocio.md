@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace: el ROI de la IA no se mide con métricas técnicas, se mide con el negocio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T04:00:00Z
 slug: midiendo-roi-ia-observabilidad-negocio
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "ByteDance asegura US$29.6 mil millones para datacenters de IA y entrena un modelo de 10 billones de parámetros"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T11:00:00Z
 slug: bytedance-prestamo-29-6b-modelo-10-billones
 featured: false

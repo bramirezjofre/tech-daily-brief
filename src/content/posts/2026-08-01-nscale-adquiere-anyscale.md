@@ -1,6 +1,6 @@
 ---
 title: "Nscale adquiere Anyscale (creadores de Ray): un movimiento clave para el multi-cloud en IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T00:00:00Z
 slug: nscale-adquiere-anyscale-multi-cloud
 featured: false

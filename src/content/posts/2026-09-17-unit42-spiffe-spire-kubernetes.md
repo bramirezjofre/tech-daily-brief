@@ -1,6 +1,6 @@
 ---
 title: "Un nodo de Kubernetes comprometido puede robar identidades SPIFFE/SPIRE, advierte Unit 42"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T15:30:00Z
 slug: unit42-spiffe-spire-kubernetes-identity-attack
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare abre el código de un debugger para protocolos de privacidad, enfocado en AI Agents"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T18:00:00Z
 slug: cloudflare-pvcli-privacy-debugger
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Momentic propone agentes que exploran aplicaciones para encontrar errores"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-02T17:05:25Z
 slug: momentic-agentes-ia-prueban-aplicaciones
 featured: false

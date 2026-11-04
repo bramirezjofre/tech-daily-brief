@@ -1,6 +1,6 @@
 ---
 title: "Service Mesh se muere: adopción cayó a la mitad y los equipos están volviendo a monolitos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T04:01:00Z
 slug: service-mesh-declive-istio-linkerd-cilium
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Check Point parchea dos fallas críticas de VPN que permiten RCE sin autenticación"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T09:00:00Z
 slug: check-point-vpn-rce-cvss-98
 featured: false

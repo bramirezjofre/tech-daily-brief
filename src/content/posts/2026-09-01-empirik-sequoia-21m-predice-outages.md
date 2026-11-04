@@ -1,6 +1,6 @@
 ---
 title: "Empirik sale del horno de Sequoia con US$21M para predecir outages antes de que pasen"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T22:00:00Z
 slug: empirik-sequoia-21m-predice-outages
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace lanza agentes autónomos SRE y creación 'no-code' de AI Agents"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T18:00:00Z
 slug: dynatrace-autonomous-sre-agents-nocode
 featured: false

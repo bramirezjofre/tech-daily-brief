@@ -1,6 +1,6 @@
 ---
 title: "OpenAI sube su gasto en infraestructura a US$750 mil millones hasta 2030"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T22:00:00Z
 slug: openai-750b-infra-gasto-project-camellia-georgia
 featured: false

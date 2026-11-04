@@ -1,6 +1,6 @@
 ---
 title: "Ars Technica: OpenAI canceló GPT-6.1 por fallas de seguridad detectadas en pruebas internas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T14:22:31Z
 slug: ars-technica-openai-cancelo-gpt-6-1-fallas-seguridad-pruebas-internas
 featured: false

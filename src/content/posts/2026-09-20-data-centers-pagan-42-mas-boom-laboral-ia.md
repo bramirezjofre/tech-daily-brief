@@ -1,6 +1,6 @@
 ---
 title: "Trabajar en un data center paga 42% más: el boom laboral silencioso de la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T21:00:00Z
 slug: data-centers-pagan-42-mas-boom-laboral-ia
 featured: false

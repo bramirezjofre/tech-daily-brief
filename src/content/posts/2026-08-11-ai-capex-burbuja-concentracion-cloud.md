@@ -1,6 +1,6 @@
 ---
 title: "La matemática de la IA no cierra: 48% del revenue de Google Cloud depende de dos empresas que no dan profit"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T10:00:00Z
 slug: ai-capex-burbuja-concentracion-cloud
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI entra al territorio de Microsoft con Space, Pages y Slides: la suite ofimática de ChatGPT"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T17:45:51Z
 slug: openai-oficina-suite-space-pages-slides-compite-microsoft
 featured: false

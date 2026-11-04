@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace: los workloads de IA ya son problema de SRE y el 67% exige observabilidad con IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T10:25:00Z
 slug: dynatrace-state-of-sre-platform-engineering-2026
 featured: false

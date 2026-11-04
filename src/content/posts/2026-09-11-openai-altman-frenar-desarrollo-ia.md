@@ -1,6 +1,6 @@
 ---
 title: "Sam Altman le dice a su equipo que OpenAI está dispuesto a frenar el ritmo de desarrollo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T09:00:00Z
 slug: openai-altman-frenar-desarrollo-ia
 featured: false

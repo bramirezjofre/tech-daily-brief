@@ -1,6 +1,6 @@
 ---
 title: "Splunk mete IA a la gestión de datos: Auto-schema GA y pipelines que se auto-reparan"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T22:00:00Z
 slug: splunk-ai-data-management-auto-schema-pipelines
 featured: false

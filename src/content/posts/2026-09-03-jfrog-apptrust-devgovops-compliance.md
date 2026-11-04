@@ -1,6 +1,6 @@
 ---
 title: "JFrog lanza AppTrust: gobernanza que corre a la velocidad de los agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-03T10:00:00Z
 slug: jfrog-apptrust-devgovops-compliance
 featured: false

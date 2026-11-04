@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek V4 llega a GA: contexto de 1M, capacidades agentiles y la API legacy queda cortada"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T18:00:00Z
 slug: deepseek-v4-ga-api-legacy-cortada
 featured: false

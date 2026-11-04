@@ -1,6 +1,6 @@
 ---
 title: "LY Corporation escala Kubernetes a más de 1.300 clusters con automatización total"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T18:05:00Z
 slug: ly-corporation-escala-kubernetes-cncf
 featured: false

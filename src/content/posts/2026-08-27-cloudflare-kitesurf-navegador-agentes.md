@@ -1,6 +1,6 @@
 ---
 title: "Kitesurf: Cloudflare lanza un navegador pensado para agentes, no para humanos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T04:00:00Z
 slug: cloudflare-kitesurf-navegador-agentes
 featured: false

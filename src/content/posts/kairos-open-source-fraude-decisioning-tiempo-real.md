@@ -1,6 +1,6 @@
 ---
 title: "Kairos propone decisiones abiertas contra el fraude en tiempo real"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-03T21:16:48Z
 slug: kairos-open-source-fraude-decisioning-tiempo-real
 featured: false

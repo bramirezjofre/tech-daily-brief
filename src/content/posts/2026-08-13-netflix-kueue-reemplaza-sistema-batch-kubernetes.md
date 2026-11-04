@@ -1,6 +1,6 @@
 ---
 title: "Netflix mata su sistema batch casero y se pasa a Kueue para Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T16:00:00Z
 slug: netflix-kueue-reemplaza-sistema-batch-kubernetes
 featured: false

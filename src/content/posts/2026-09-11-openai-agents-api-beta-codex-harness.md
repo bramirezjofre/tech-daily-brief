@@ -1,6 +1,6 @@
 ---
 title: "OpenAI abre en beta pública su Agents API: el harness de Codex detrás de una sola llamada"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T09:00:00Z
 slug: openai-agents-api-beta-codex-harness
 featured: false

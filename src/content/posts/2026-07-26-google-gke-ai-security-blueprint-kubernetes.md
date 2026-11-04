@@ -1,6 +1,6 @@
 ---
 title: "Google lanza blueprint de seguridad AI para GKE: 3 capas para no repetir el caso OpenAI-Hugging Face"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T04:10:00Z
 slug: google-gke-ai-security-blueprint-kubernetes
 featured: false

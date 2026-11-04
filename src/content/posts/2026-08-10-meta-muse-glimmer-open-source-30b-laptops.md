@@ -1,6 +1,6 @@
 ---
 title: "Meta lanza Muse Glimmer: modelo de 30B parámetros open source que corre en tu notebook"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T22:00:00Z
 slug: meta-muse-glimmer-open-source-30b-laptops
 featured: false

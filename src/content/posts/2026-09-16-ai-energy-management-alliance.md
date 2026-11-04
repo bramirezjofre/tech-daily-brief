@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA, Google y Emerald AI lanzan la AEMA: data centers que se adaptan a la red eléctrica"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T20:00:00Z
 slug: ai-energy-management-alliance
 featured: false

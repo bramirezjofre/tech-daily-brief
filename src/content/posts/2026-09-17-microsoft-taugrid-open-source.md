@@ -1,6 +1,6 @@
 ---
 title: "Microsoft libera TauGrid: un solo Helm para correr cargas de IA en Kubernetes con GPU"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T15:10:00Z
 slug: microsoft-taugrid-open-source-gpu-kubernetes
 featured: false

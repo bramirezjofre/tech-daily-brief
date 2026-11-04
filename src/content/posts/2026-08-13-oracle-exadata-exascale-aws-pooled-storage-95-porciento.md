@@ -1,6 +1,6 @@
 ---
 title: "Oracle Exadata Exascale en AWS: 95% menos costo con pooled-storage"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T22:00:00Z
 slug: oracle-exadata-exascale-aws-pooled-storage-95-porciento
 featured: false

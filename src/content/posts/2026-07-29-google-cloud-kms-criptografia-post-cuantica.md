@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud habilita algoritmos post-cuánticos en Cloud KMS"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T12:00:00Z
 slug: google-cloud-kms-criptografia-post-cuantica
 featured: false

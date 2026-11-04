@@ -1,6 +1,6 @@
 ---
 title: "KubeCon NA 2026 revela su agenda: nuevo track de AI Inference + Agentic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T22:00:00Z
 slug: kubecon-na-2026-agenda-track-ai-agentic
 featured: false

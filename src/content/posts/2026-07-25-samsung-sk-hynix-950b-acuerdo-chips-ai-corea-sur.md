@@ -1,6 +1,6 @@
 ---
 title: "Corea del Sur sella US$950 mil millones en acuerdos de chips IA con Samsung, SK Hynix y big tech estadounidense"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T16:00:00Z
 slug: samsung-sk-hynix-950b-acuerdo-chips-ai-corea-sur
 featured: false

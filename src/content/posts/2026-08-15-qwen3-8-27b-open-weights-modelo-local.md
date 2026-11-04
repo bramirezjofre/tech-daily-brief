@@ -1,6 +1,6 @@
 ---
 title: "Qwen3.8-27B: Alibaba abre los pesos de un modelo local que le pisa los talones a Opus 4.6 Max en coding"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T10:30:00Z
 slug: qwen3-8-27b-open-weights-modelo-local
 featured: false

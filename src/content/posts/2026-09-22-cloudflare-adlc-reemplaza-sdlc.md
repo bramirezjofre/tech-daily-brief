@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare declara obsoleto el SDLC y propone el Agent Development Lifecycle (ADLC)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T03:00:00Z
 slug: cloudflare-adlc-reemplaza-sdlc
 featured: false

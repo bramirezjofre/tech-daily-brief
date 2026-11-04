@@ -1,6 +1,6 @@
 ---
 title: "Anthropic revela cómo frenó armas biológicas, drones kamikaze y el APT29 ruso con Claude"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T03:00:00Z
 slug: anthropic-informe-uso-malicioso-ia-2026
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "HYCU lanza R-Cloud para Azure DevOps: backup enterprise para repos, pipelines y work items"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T15:00:00Z
 slug: hycu-r-cloud-azure-devops-backup-ga
 featured: false

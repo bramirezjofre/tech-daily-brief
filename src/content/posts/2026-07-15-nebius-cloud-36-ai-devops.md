@@ -1,6 +1,6 @@
 ---
 title: "Nebius lanza Cloud 3.6: agente Echo AI DevOps y mayor integración con SkyPilot"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T18:00:00Z
 slug: nebius-cloud-36-ai-devops-echo
 featured: false

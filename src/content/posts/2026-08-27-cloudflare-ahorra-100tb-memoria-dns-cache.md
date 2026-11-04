@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare ahorra 100 TB de memoria optimizando el cache DNS de 1.1.1.1"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T22:00:00Z
 slug: cloudflare-ahorra-100tb-memoria-dns-cache
 featured: false

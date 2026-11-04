@@ -1,6 +1,6 @@
 ---
 title: "Google lanza Gemini 3.8 Flash Cyber y el programa Fairwind: la defensa ataca primero"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-03T10:00:00Z
 slug: gemini-3-8-flash-cyber-fairwind-program
 featured: false

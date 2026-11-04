@@ -1,6 +1,6 @@
 ---
 title: "El desafío de gobernar Agentes de IA: Platform Engineering y SRE al límite"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-31T00:00:00Z
 slug: plataformas-sre-agentes-ia-gobernanza
 featured: false

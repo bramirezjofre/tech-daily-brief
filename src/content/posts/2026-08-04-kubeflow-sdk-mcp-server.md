@@ -1,6 +1,6 @@
 ---
 title: "Kubeflow lanza SDK MCP Server: Agentes IA operando tus workloads"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-04T18:00:00Z
 slug: kubeflow-sdk-mcp-server
 featured: false

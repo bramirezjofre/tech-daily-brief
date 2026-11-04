@@ -1,6 +1,6 @@
 ---
 title: "AWS Builder Center Sandboxes: por fin puedes aprender sin miedo a que te llegue una boleta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T10:00:00Z
 slug: aws-builder-center-sandboxes-gratis
 featured: false

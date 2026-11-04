@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Agent Tracing: observabilidad nativa para agentes de IA en Workers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T22:00:00Z
 slug: cloudflare-agent-tracing-observabilidad-agentes
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Dots de OpenAI y Muse de Meta pelean por el agente personal, pero el precio decide la carrera"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-01T14:36:50Z
 slug: openai-dots-vs-meta-muse-verge
 featured: false

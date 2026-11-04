@@ -1,6 +1,6 @@
 ---
 title: "Kata Containers 4.0: rewrite en Rust para sandboxing de agentes IA en Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T16:00:00Z
 slug: kata-containers-4-rust-agent-sandboxing-k8s
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes: kagent dice que los Pods no son la unidad correcta para deployar agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T10:00:00Z
 slug: kagent-pods-as-workers-not-agents
 featured: false

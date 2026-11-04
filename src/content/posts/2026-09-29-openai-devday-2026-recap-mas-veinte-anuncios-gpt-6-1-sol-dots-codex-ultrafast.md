@@ -1,6 +1,6 @@
 ---
 title: "OpenAI DevDay 2026: más de 20 anuncios entre GPT-6.1 Sol, Dots, Codex, Ultrafast y Private Intelligence"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T10:00:00Z
 slug: openai-devday-2026-recap-mas-veinte-anuncios-gpt-6-1-sol-dots-codex-ultrafast
 featured: false

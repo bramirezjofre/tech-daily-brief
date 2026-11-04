@@ -1,6 +1,6 @@
 ---
 title: "OpenAI presenta GPT-6.1 Sol: rendimiento cercano a Astra a una quinta parte del costo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T10:00:00Z
 slug: openai-presenta-gpt-6-1-sol-rendimiento-astra-cinco-veces-mas-barato
 featured: false

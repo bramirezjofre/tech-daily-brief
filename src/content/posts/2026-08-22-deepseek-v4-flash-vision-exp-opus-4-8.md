@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek V4-Flash-Vision-Exp: el modelo multimodal experimental que apunta directo a Opus 4.8"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T16:10:00Z
 slug: deepseek-v4-flash-vision-exp-opus-4-8
 featured: false

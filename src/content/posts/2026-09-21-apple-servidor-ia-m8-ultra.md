@@ -1,6 +1,6 @@
 ---
 title: "Apple vuelve al mercado de servidores con un equipo de IA basado en sus chips M8 Ultra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T21:00:00Z
 slug: apple-servidor-ia-m8-ultra
 featured: false

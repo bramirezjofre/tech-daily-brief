@@ -1,6 +1,6 @@
 ---
 title: "Stripe compra OpenRouter por ~US$7.500 millones: los tokens son la nueva tabla de pagos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T16:05:00Z
 slug: stripe-compra-openrouter-7-5-mil-millones
 featured: false

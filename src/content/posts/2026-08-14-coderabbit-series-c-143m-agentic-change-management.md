@@ -1,6 +1,6 @@
 ---
 title: "CodeRabbit levanta US$143M a valorización de US$1.500M: la revisión de código ahora tiene que gobernar a los agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T22:00:00Z
 slug: coderabbit-series-c-143m-agentic-change-management
 featured: false

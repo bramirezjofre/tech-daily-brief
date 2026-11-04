@@ -1,6 +1,6 @@
 ---
 title: "Gemini 3.7 Flash: Google acelera la cadencia y ataca coding y agentes con la API a mitad de precio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T22:00:00Z
 slug: gemini-3-7-flash-coding-agentes-mitad-precio
 featured: false

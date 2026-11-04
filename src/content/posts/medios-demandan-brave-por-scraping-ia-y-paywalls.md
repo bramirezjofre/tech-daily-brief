@@ -1,6 +1,6 @@
 ---
 title: "Varios medios demandan a Brave por scraping para IA y el acceso a paywalls"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-02T17:51:19Z
 slug: medios-demandan-brave-por-scraping-ia-y-paywalls
 featured: false

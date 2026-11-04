@@ -1,6 +1,6 @@
 ---
 title: "Upwind recauda 400 millones de dólares y mantiene su independencia frente a Datadog"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-28T23:15:00Z
 slug: upwind-recauda-400-millones-seguridad-cloud
 featured: false

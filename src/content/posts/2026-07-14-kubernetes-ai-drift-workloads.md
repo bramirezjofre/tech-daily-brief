@@ -1,6 +1,6 @@
 ---
 title: "Por qué tu clúster Kubernetes (todavía) no está listo para workloads de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T10:00:00Z
 slug: kubernetes-ai-drift-workloads
 featured: false

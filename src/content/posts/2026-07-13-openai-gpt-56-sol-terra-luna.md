@@ -1,6 +1,6 @@
 ---
 title: "GPT-5.6 llega con todo: Sol, Terra y Luna, la familia de modelos que reemplaza a GPT-5.5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:05:00Z
 slug: openai-gpt-56-sol-terra-luna
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare CASB deja de ser una alarma pasiva: ahora remedia solo los riesgos SaaS"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-13T03:00:00Z
 slug: cloudflare-casb-remediacion-automatica
 featured: false

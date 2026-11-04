@@ -1,6 +1,6 @@
 ---
 title: "Grafana Assistant mete esteroides: ahora soporta más de 30 fuentes de datos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T16:00:00Z
 slug: grafana-assistant-30-data-sources-ia
 featured: false

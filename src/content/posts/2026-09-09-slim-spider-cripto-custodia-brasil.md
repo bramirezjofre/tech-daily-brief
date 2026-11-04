@@ -1,6 +1,6 @@
 ---
 title: "Slim Spider: el actor que se metió por Azure DevOps a robar secretos cripto en Brasil"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T15:00:00Z
 slug: slim-spider-cripto-custodia-brasil
 featured: false

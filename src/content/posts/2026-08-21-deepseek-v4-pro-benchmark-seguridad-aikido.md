@@ -1,6 +1,6 @@
 ---
 title: "11.700 millones de tokens después: DeepSeek V4 Pro supera a los modelos cerrados en caza de vulnerabilidades"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T16:10:00Z
 slug: deepseek-v4-pro-benchmark-seguridad-aikido
 featured: false

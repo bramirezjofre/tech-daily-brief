@@ -1,6 +1,6 @@
 ---
 title: "MyDecisive levanta US$12M y lanza SmartHub: observabilidad open source que procesa en el edge"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T16:00:00Z
 slug: mydecisive-smarthub-observabilidad-edge
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes v1.37 'Garhwal': HPA scale-to-zero en Beta y watchcache endurecido"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-26T18:00:00Z
 slug: kubernetes-v137-garhwal
 featured: false

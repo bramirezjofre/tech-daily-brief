@@ -1,6 +1,6 @@
 ---
 title: "OpenAI convierte ChatGPT en plataforma de avisos: llegan los Sponsored Agents"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T15:20:00Z
 slug: openai-sponsored-agents-chatgpt
 featured: false

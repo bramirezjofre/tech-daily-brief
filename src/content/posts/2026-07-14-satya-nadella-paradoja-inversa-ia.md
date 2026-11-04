@@ -1,6 +1,6 @@
 ---
 title: "Satya Nadella advierte sobre la 'paradoja inversa' al pagar por IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T10:00:00Z
 slug: satya-nadella-paradoja-inversa-ia
 featured: false

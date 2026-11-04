@@ -1,6 +1,6 @@
 ---
 title: "Google lleva Guided Vision a Gemini Live para describir el entorno en tiempo real"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-01T19:18:03Z
 slug: google-guided-vision-gemini-live
 featured: false

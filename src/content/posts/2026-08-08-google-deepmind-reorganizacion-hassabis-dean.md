@@ -1,6 +1,6 @@
 ---
 title: "Google reorganiza DeepMind: Hassabis pasa a Chief Scientist, Jeff Dean se independiza"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T10:00:00Z
 slug: google-deepmind-reorganizacion-hassabis-dean
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Northflank confirma un incidente de seguridad y pide rotar secretos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-30T15:10:31Z
 slug: northflank-incidente-seguridad
 featured: false

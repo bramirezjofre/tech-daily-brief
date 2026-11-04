@@ -1,6 +1,6 @@
 ---
 title: "Microsoft mueve la gobernanza de IA del papel al runtime: política, control, visibilidad y prueba"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T04:00:00Z
 slug: microsoft-gobernanza-ia-runtime
 featured: false

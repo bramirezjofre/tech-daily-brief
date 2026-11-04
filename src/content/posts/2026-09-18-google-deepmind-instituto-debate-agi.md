@@ -1,6 +1,6 @@
 ---
 title: "Google DeepMind lanza un instituto para abrir el debate sobre la AGI: 'no siempre estarán de acuerdo'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T09:00:00Z
 slug: google-deepmind-instituto-debate-agi
 featured: false

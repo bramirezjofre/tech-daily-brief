@@ -1,6 +1,6 @@
 ---
 title: "Morgan Stanley dice que Wall Street se equivoca: el capex cloud real será de US$1.4 billones en 2027"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-04T04:00:00Z
 slug: morgan-stanley-14b-capex-cloud-backlog-23-billones
 featured: false

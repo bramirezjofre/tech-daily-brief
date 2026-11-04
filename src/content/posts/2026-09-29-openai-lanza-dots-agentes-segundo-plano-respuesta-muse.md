@@ -1,6 +1,6 @@
 ---
 title: "OpenAI lanza Dots, su respuesta a Meta Muse con agentes en segundo plano y avatares personalizables"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T17:15:00Z
 slug: openai-lanza-dots-agentes-segundo-plano-respuesta-muse
 featured: false

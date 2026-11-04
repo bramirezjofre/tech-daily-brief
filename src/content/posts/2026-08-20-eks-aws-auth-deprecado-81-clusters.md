@@ -1,6 +1,6 @@
 ---
 title: "AWS deprecó el aws-auth ConfigMap de EKS y el 81% de los clusters sigue usándolo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T10:00:00Z
 slug: eks-aws-auth-deprecado-81-clusters-access-entries
 featured: false

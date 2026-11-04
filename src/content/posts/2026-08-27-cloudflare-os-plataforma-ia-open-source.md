@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare OS: la plataforma de IA corporativa open source con sandboxing por 'Gadget'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T04:00:00Z
 slug: cloudflare-os-plataforma-ia-open-source
 featured: false

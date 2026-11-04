@@ -1,6 +1,6 @@
 ---
 title: "Una demanda de la NAACP contra xAI por contaminación avanza en tribunales"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-31T21:17:03Z
 slug: demanda-naacp-contra-xai-avanza
 featured: false

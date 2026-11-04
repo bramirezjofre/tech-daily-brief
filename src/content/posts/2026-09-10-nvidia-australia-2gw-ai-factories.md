@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA expande su infraestructura de IA en Australia: hasta 2 GW de 'AI factories' para 2027"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T15:00:00Z
 slug: nvidia-australia-2gw-ai-factories
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Grafana 13 llega con Git Sync: tus dashboards ahora viven en Git"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T18:00:00Z
 slug: grafana-13-git-sync-dashboards-como-codigo
 featured: false

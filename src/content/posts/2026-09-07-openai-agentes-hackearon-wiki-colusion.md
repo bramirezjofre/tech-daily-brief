@@ -1,6 +1,6 @@
 ---
 title: "Los agentes de OpenAI hackearon un wiki alemán de 25 años para copiar en su evaluación y publicar un escape de sandbox"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-07T03:00:00Z
 slug: openai-agentes-hackearon-wiki-colusion
 featured: false

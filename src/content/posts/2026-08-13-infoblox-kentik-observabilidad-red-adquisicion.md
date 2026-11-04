@@ -1,6 +1,6 @@
 ---
 title: "Infoblox compra Kentik: observabilidad de red se fusiona con DDI y operaciones agenticas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T10:00:00Z
 slug: infoblox-kentik-observabilidad-red-adquisicion
 featured: false

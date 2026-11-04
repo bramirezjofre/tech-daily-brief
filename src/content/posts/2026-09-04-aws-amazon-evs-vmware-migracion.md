@@ -1,6 +1,6 @@
 ---
 title: "AWS expande Amazon EVS a 22 regiones para destrabar la migración VMware"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-04T10:00:00Z
 slug: aws-amazon-evs-vmware-migracion
 featured: false

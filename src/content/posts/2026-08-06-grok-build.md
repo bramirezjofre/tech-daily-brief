@@ -1,6 +1,6 @@
 ---
 title: "Grok Build: xAI lanza su agente de terminal potenciado por Grok 4.5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T10:00:00Z
 slug: grok-build-agente-terminal-grok-4-5
 featured: false

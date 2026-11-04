@@ -1,6 +1,6 @@
 ---
 title: "Neoclouds: las nubes GPU-only que están comiéndole el mercado a AWS, Azure y GCP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T18:00:00Z
 slug: neoclouds-gpu-clouds-disrumpen-hyperscalers
 featured: false

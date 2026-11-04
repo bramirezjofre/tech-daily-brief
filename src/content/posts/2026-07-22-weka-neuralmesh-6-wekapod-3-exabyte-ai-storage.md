@@ -1,6 +1,6 @@
 ---
 title: "WEKA NeuralMesh 6 y WEKApod 3: storage para AI que rompe la barrera del exabyte en un solo rack"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T04:00:00Z
 slug: weka-neuralmesh-6-wekapod-3-exabyte-ai-storage
 featured: false

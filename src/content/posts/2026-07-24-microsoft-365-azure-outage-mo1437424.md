@@ -1,6 +1,6 @@
 ---
 title: "Microsoft se tira solo: outage masivo tumba Teams, SharePoint, Azure y Copilot por update de red"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T10:00:00Z
 slug: microsoft-365-azure-outage-mo1437424
 featured: false

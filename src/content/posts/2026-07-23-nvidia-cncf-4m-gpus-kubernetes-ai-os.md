@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA pone US$4 millones y GPUs reales al CNCF: Kubernetes es el OS para IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T16:00:00Z
 slug: nvidia-cncf-4m-gpus-kubernetes-ai-os
 featured: false

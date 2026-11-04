@@ -1,6 +1,6 @@
 ---
 title: "OpenAI le dio a una IA el poder de bloquear el código de sus propios ingenieros"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T15:00:00Z
 slug: openai-ia-bloquea-codigo-ingenieros
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Anthropic le ganó la mesa a Nvidia: cerca de quedarse con Decart por ~US$7.000 millones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T10:00:00Z
 slug: anthropic-decart-7-mil-millones-modelos-mundo
 featured: false

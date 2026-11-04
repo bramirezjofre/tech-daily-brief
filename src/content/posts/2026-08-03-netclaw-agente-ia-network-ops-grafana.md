@@ -1,6 +1,6 @@
 ---
 title: "NetClaw: el agente de IA open source que se pasea por tu red, Grafana y tu nube"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T10:00:00Z
 slug: netclaw-agente-ia-network-ops-grafana
 featured: false

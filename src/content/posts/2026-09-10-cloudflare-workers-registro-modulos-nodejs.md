@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare reescribe el registro de módulos de Workers para compatibilidad total con Node.js"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T21:00:00Z
 slug: cloudflare-workers-registro-modulos-nodejs
 featured: false

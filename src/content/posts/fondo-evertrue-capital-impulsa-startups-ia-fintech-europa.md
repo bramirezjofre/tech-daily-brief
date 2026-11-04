@@ -1,6 +1,6 @@
 ---
 title: "Evertrue Capital lanza un fondo de 17 millones de dólares para IA y fintech en Europa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-03T08:01:00Z
 slug: fondo-evertrue-capital-impulsa-startups-ia-fintech-europa
 featured: false

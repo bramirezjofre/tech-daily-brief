@@ -1,6 +1,6 @@
 ---
 title: "Groundcover levanta $100M y le declara la guerra a Datadog"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-30T00:00:00Z
 slug: groundcover-levanta-100m-guerra-datadog
 featured: false

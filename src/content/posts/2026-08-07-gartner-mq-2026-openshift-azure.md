@@ -1,6 +1,6 @@
 ---
 title: "Gartner 2026: Red Hat OpenShift y Microsoft Azure nombrados Leaders en Magic Quadrant"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T10:00:00Z
 slug: gartner-mq-2026-openshift-azure-leaders
 featured: false

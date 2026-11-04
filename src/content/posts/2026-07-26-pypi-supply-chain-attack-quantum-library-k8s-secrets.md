@@ -1,6 +1,6 @@
 ---
 title: "Supply chain attack en PyPI: librería cuántica robaba credenciales de SSH, cloud secrets y configs de Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T16:03:00Z
 slug: pypi-supply-chain-attack-quantum-library-k8s-secrets
 featured: false

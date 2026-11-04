@@ -1,6 +1,6 @@
 ---
 title: "Claude Code v2.1.224: sesiones que se hablan entre sí y cloud sessions corriendo en tu propia infra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T16:10:00Z
 slug: claude-code-self-hosted-cross-session-messaging
 featured: false

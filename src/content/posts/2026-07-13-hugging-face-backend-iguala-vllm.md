@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face acelera a fondo: Su backend ahora iguala a vLLM"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:00:00Z
 slug: hugging-face-backend-iguala-vllm
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI rebaja GPT-5.6 Sol en más de 20%: la guerra de precios de los modelos frontera se calienta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T04:10:00Z
 slug: openai-baja-precio-gpt-5-6-sol-20-por-ciento
 featured: false

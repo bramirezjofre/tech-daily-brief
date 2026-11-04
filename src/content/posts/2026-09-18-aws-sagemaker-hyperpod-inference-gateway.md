@@ -1,6 +1,6 @@
 ---
 title: "AWS lanza SageMaker HyperPod Inference Gateway: enrutamiento GPU-aware para inferencia LLM"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T15:00:00Z
 slug: aws-sagemaker-hyperpod-inference-gateway
 featured: false

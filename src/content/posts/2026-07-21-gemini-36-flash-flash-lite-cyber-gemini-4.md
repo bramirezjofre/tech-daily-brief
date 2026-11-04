@@ -1,6 +1,6 @@
 ---
 title: "Google lanza Gemini 3.6 Flash, 3.5 Flash-Lite y 3.5 Flash Cyber — y ya calienta Gemini 4"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-21T22:15:00Z
 slug: gemini-36-flash-flash-lite-cyber-gemini-4
 featured: false
