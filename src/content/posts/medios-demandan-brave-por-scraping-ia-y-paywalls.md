@@ -10,7 +10,9 @@ tags:
   - Privacidad
   - Open Source
 description: "The New York Times y otros medios demandan a Brave por el uso de contenido indexado para IA y eludir barreras de pago"
+ogImage: "../../assets/images/medios-demandan-brave-por-scraping-ia-y-paywalls-cover.png"
 ---
+![Imagen de referencia](../../assets/images/medios-demandan-brave-por-scraping-ia-y-paywalls-cover.png)
 
 The New York Times y otras publicaciones presentaron demandas contra Brave Software por el supuesto uso ilícito de contenido rastreado para entrenar sistemas de inteligencia artificial y por facilitar el acceso a sitios con paywalls. La información fue reportada por The Verge a partir de las denuncias presentadas por las empresas editoras.
 

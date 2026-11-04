@@ -10,7 +10,9 @@ tags:
   - Testing
   - Desarrollo de software
 description: "Momentic presenta agentes que recorren aplicaciones web y móviles para detectar errores en controles y flujos de usuario"
+ogImage: "../../assets/images/momentic-agentes-ia-prueban-aplicaciones-cover.png"
 ---
+![Imagen de referencia](../../assets/images/momentic-agentes-ia-prueban-aplicaciones-cover.png)
 
 Momentic presentó agentes de control de calidad capaces de planificar recorridos, explorar interfaces y buscar errores en aplicaciones web, iOS y Android. El proyecto se dio a conocer en «Launch HN» y está orientado a equipos que necesitan probar cambios frecuentes sin limitarse a recorridos escritos de antemano.
 

@@ -10,7 +10,9 @@ tags:
   - Movil
   - Apple
 description: "Apple reconoce que todavía no puede prever cuándo equilibrará la oferta y la demanda de su primer iPhone plegable"
+ogImage: "../../assets/images/apple-no-preve-equilibrio-oferta-iphone-duo-cover.png"
 ---
+![Imagen de referencia](../../assets/images/apple-no-preve-equilibrio-oferta-iphone-duo-cover.png)
 
 Apple no puede anticipar cuándo tendrá suficientes unidades del iPhone Duo para equilibrar la oferta y la demanda. El teléfono plegable, lanzado el mes anterior, agotó rápidamente sus reservas y algunos envíos están previstos para 2027, según la información publicada por The Verge a partir de declaraciones del director ejecutivo de Apple, John Ternus.
 
