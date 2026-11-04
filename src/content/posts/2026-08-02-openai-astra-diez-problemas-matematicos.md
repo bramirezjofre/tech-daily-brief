@@ -1,6 +1,6 @@
 ---
 title: "OpenAI anuncia Astra rompiendo 10 problemas matemáticos abiertos (algunos de hace décadas)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T18:00:00Z
 slug: openai-astra-diez-problemas-matematicos
 featured: false

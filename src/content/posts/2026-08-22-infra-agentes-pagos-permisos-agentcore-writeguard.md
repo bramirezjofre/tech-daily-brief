@@ -1,6 +1,6 @@
 ---
 title: "La infraestructura de agentes madura: pagos autónomos (AgentCore Payments GA) y permisos de escritura (Cloudflare WriteGuard)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T10:05:00Z
 slug: infra-agentes-pagos-permisos-agentcore-writeguard
 featured: false

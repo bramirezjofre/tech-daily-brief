@@ -1,6 +1,6 @@
 ---
 title: "Broadcom le pone candado a VMware: cierra las descargas públicas del VDDK"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T22:00:00Z
 slug: broadcom-cierra-vddk-vmware
 featured: false

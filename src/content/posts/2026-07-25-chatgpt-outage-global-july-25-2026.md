@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT sufre caída global masiva: web, API, móvil y voice todos abajo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T10:05:00Z
 slug: chatgpt-outage-global-july-25-2026
 featured: false

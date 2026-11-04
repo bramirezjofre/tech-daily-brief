@@ -1,6 +1,6 @@
 ---
 title: "AWS lanza CloudWatch Omni para unificar la observabilidad de agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T21:00:00Z
 slug: aws-cloudwatch-omni-observabilidad-agentes-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare permite acotar los permisos de Workers a un solo Worker: adiós al token de toda la cuenta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T19:00:00Z
 slug: cloudflare-workers-permisos-granulares
 featured: false

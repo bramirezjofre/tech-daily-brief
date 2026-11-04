@@ -1,6 +1,6 @@
 ---
 title: "Perplexity se sincera: por qué los sandboxes de agentes IA son un cacho de construir"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T18:00:00Z
 slug: perplexity-ai-agent-sandboxes-stateful
 featured: false

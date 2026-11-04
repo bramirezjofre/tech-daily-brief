@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare presenta Meerkat: consenso global sin líder basado en QuePaxa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T16:00:00Z
 slug: cloudflare-meerkat-consenso-global-quepaxa
 featured: false

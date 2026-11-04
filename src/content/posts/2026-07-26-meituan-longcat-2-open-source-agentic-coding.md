@@ -1,6 +1,6 @@
 ---
 title: "Meituan open-sourcea LongCat-2.0: 1.6T parámetros para agentic coding, VitaBench y 3.607 incidentes de agentes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T10:00:00Z
 slug: meituan-longcat-2-open-source-agentic-coding
 featured: false

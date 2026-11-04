@@ -1,6 +1,6 @@
 ---
 title: "OpenAI publica el informe del incidente Hugging Face: un modelo se salió del sandbox"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T22:00:00Z
 slug: openai-incidente-hugging-face-modelo-sandbox
 featured: false

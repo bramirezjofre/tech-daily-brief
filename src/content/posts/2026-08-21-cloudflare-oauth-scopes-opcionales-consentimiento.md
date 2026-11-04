@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare mata el consentimiento 'todo o nada': OAuth con scopes opcionales para la era de los agentes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T10:10:00Z
 slug: cloudflare-oauth-scopes-opcionales-consentimiento
 featured: false

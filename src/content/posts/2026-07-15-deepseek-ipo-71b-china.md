@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek prepara IPO: busca valuación de US$71 mil millones y amenaza el dominio de OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T04:06:00Z
 slug: deepseek-ipo-71b-china
 featured: false

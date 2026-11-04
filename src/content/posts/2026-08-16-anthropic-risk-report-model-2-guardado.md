@@ -1,6 +1,6 @@
 ---
 title: "Anthropic sube su riesgo de desalineación a \"bajo\" y guarda bajo llave un modelo más potente que su flagship"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T16:15:00Z
 slug: anthropic-risk-report-model-2-guardado
 featured: false

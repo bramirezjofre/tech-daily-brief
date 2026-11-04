@@ -1,6 +1,6 @@
 ---
 title: "Amazon promete US$1.000 millones a comunidades cercanas a sus centros de datos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-02T20:30:27Z
 slug: amazon-1b-data-centers-backlash
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Databricks compra Electric (PGlite): Postgres WASM para agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T22:00:00Z
 slug: databricks-compra-electric-pglite-postgres-agentes-ia
 featured: false

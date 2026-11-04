@@ -1,6 +1,6 @@
 ---
 title: "AWS, Microsoft y Google convergen en la misma arquitectura de agentes: el fin de Vertex AI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T04:00:00Z
 slug: hyperscalers-convergen-arquitectura-agentes-ia
 featured: false

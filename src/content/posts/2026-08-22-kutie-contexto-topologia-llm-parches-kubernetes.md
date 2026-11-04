@@ -1,6 +1,6 @@
 ---
 title: "KuTIE: darle topología en vivo a los LLM evita que sus parches de seguridad rompan Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T04:15:00Z
 slug: kutie-contexto-topologia-llm-parches-kubernetes
 featured: false

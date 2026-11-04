@@ -1,6 +1,6 @@
 ---
 title: "El mayor update de MCP (Model Context Protocol) elimina las sesiones y el handshake"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T18:00:00Z
 slug: mcp-release-candidate-rewrite-stateless
 featured: false

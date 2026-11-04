@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes v1.37: Pod Certificates y Cluster Trust Bundles, la identidad X.509 nativa llega a GA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T04:00:00Z
 slug: kubernetes-pod-certificates-cluster-trust-bundles
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Spectro Cloud levanta US$100M: Kubernetes para la infra de IA que nadie sabe gestionar"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T10:00:00Z
 slug: spectro-cloud-100m-kubernetes-ai-infra
 featured: false

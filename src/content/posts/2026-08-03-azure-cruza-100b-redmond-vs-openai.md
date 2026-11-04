@@ -1,6 +1,6 @@
 ---
 title: "Azure cruzó los US$100 mil millones anuales: Microsoft Cloud llega a US$214B y Nadella dice que es recién el inicio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T16:00:00Z
 slug: azure-cruza-100b-redmond-vs-openai
 featured: false

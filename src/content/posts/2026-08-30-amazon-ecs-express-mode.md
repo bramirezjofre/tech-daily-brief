@@ -1,6 +1,6 @@
 ---
 title: "Amazon ECS Express Mode: despliegas un contenedor en un solo paso y te olvidas del boilerplate de infra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T16:00:00Z
 slug: amazon-ecs-express-mode
 featured: false

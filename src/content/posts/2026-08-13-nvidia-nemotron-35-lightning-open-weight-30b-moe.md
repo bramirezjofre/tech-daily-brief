@@ -1,6 +1,6 @@
 ---
 title: "Nvidia Nemotron 3.5 Lightning: el modelo open-weight de 30B que se entrena en una H100"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T04:00:00Z
 slug: nvidia-nemotron-35-lightning-open-weight-30b-moe
 featured: false

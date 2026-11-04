@@ -1,6 +1,6 @@
 ---
 title: "Apple prueba en el Watch transcripciones recientes y resúmenes de Siri"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-03T21:21:04Z
 slug: apple-watch-audio-intelligence-rewind-siri-recap
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cisco confirma zero-day explotado en sus firewalls: CVE-2026-20349 tumba la VPN SSL con un solo request"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T22:10:00Z
 slug: cisco-firewall-zero-day-vpn-ssl-dos
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI mete voz en Codex: coding agéntico manos-libres con GPT-Live y GPT-5.6 Terra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T16:03:00Z
 slug: openai-voice-codex-coding-mano-libre-gpt-live
 featured: false

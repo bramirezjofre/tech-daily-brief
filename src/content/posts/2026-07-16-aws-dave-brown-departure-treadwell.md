@@ -1,6 +1,6 @@
 ---
 title: "AWS pierde a Dave Brown tras 19 años: Dave Treadwell toma Compute y ML"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T04:00:00Z
 slug: aws-dave-brown-departure-treadwell-compute-ml
 featured: false

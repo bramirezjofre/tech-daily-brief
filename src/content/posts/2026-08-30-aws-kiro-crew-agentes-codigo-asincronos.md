@@ -1,6 +1,6 @@
 ---
 title: "AWS abre Kiro Crew: agentes de código asíncronos que ya usan 39.000 devs internos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T10:00:00Z
 slug: aws-kiro-crew-agentes-codigo-asincronos
 featured: false

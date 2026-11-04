@@ -1,6 +1,6 @@
 ---
 title: "Los bots ya superan a los humanos en la web y Cloudflare saca artillería: Adaptive Intelligence"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T15:00:00Z
 slug: cloudflare-bots-superan-humanos-adaptive-intelligence
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Percona suma soporte para CloudNativePG: PostgreSQL en Kubernetes gana otro jugador de peso"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T15:00:00Z
 slug: percona-soporte-cloudnativepg-postgresql-kubernetes
 featured: false

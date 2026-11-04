@@ -1,6 +1,6 @@
 ---
 title: "Meta lanza Muse Glimmer: 30B open-weight para correr agentes IA en tu propia GPU"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T04:00:00Z
 slug: meta-muse-glimmer-30b-open-weight-agentes-locales
 featured: false

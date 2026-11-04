@@ -1,6 +1,6 @@
 ---
 title: "MCP publica su nuevo roadmap: cinco frentes para consolidarse como la capa de transporte de los agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T16:05:00Z
 slug: mcp-nuevo-roadmap-2026
 featured: false

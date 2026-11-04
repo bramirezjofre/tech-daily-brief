@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace estrena análisis de patrones de logs: de millones de líneas a señales en segundos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-25T22:00:00Z
 slug: dynatrace-log-pattern-analysis
 featured: false

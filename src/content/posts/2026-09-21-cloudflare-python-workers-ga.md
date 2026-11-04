@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare hace a Python ciudadano de primera en Workers (GA) y elimina el 'pegamento' JavaScript"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T15:00:00Z
 slug: cloudflare-python-workers-ga
 featured: false

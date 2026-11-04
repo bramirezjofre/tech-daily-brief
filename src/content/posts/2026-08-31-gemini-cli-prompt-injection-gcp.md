@@ -1,6 +1,6 @@
 ---
 title: "Prompt injection en Gemini CLI le dio a unos investigadores acceso de Editor a un proyecto interno de Google Cloud"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T10:00:00Z
 slug: gemini-cli-prompt-injection-gcp-editor
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Grafana Labs recorta costos de telemetría hasta un 50% con perfiles adaptativos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-05T04:00:00Z
 slug: grafana-adaptive-profiles-observability
 featured: false

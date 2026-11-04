@@ -1,6 +1,6 @@
 ---
 title: "AWS vs Azure vs Google Cloud: el índice 2026 de Intruder muestra que las misconfigurations no se parecen en nada"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T10:00:00Z
 slug: intruder-cloud-security-index-2026
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AWS US-West-2 se cae y se lleva medio internet consigo: DoorDash, Reddit, Hulu y Apple Pay entre los afectados"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T18:00:00Z
 slug: aws-outage-us-west-2-doordash-reddit-hulu
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Un atacante soltó cientos de agentes de IA y rompió 395 organizaciones vía PaperCut"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-13T15:00:00Z
 slug: papercut-ai-agents-campana-global
 featured: false

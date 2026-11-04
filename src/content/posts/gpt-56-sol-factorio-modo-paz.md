@@ -1,6 +1,6 @@
 ---
 title: "GPT-5.6 Sol completa una partida de Factorio en modo pacífico"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-31T18:50:34Z
 slug: gpt-56-sol-factorio-modo-paz
 featured: false

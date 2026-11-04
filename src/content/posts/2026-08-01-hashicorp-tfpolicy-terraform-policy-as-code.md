@@ -1,6 +1,6 @@
 ---
 title: "HashiCorp lanza tfpolicy: policy-as-code nativo en HCL para Terraform"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-01T18:00:00Z
 slug: hashicorp-tfpolicy-terraform-policy-as-code
 featured: false

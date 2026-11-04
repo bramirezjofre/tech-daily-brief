@@ -1,6 +1,6 @@
 ---
 title: "Microsoft planea triplicar su capacidad de data centers a 38 GW para 2032"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T09:00:00Z
 slug: microsoft-triplica-data-centers-38gw-2032
 featured: false

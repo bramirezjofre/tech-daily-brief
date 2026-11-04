@@ -1,6 +1,6 @@
 ---
 title: "GitHub confiesa: la caída del 17 de agosto fue pura falta de capacidad — los commits se duplicaron a 2.900 millones al mes y la plataforma no dio abasto"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T04:15:00Z
 slug: github-confiesa-falla-capacidad-commits-duplicados
 featured: false

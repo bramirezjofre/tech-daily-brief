@@ -1,6 +1,6 @@
 ---
 title: "OpenAI lanza ChatGPT for Teens: modo estudio, controles parentales y predicción de edad sin verificación"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-19T16:00:00Z
 slug: chatgpt-for-teens-openai-controles-parentales
 featured: false

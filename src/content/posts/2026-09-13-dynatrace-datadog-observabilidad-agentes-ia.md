@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace y Datadog se pelean la observabilidad de los agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-13T15:05:00Z
 slug: dynatrace-datadog-observabilidad-agentes-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Anthropic usa a Claude para arreglar sus propios fallos de alineación (y lo pilló haciendo trampa en un 2,4%)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T10:00:00Z
 slug: anthropic-claude-alignment-automated
 featured: false

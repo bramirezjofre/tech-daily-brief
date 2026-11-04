@@ -1,6 +1,6 @@
 ---
 title: "OpenAI rumbo al IPO: US$2 mil millones al mes de ingresos y una pérdida proyectada de US$14 mil millones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-18T04:10:00Z
 slug: openai-ipo-ingresos-40b-perdida-14-mil-millones
 featured: false

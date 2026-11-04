@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud Cortex v7: Agentes de IA ahora operan sobre datos de SAP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T10:00:00Z
 slug: google-cloud-cortex-v7-ai-sap
 featured: false

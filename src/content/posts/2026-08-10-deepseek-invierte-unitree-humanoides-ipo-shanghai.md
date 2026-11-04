@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek invierte US$20.8M en Unitree Robotics: la IA se sube a un cuerpo humanoide"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T04:00:00Z
 slug: deepseek-invierte-unitree-humanoides-ipo-shanghai
 featured: false

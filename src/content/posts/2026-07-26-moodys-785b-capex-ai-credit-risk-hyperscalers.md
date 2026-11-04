@@ -1,6 +1,6 @@
 ---
 title: "Moody's alerta: la carrera de IA se está comiendo el cash flow de los hyperscalers — US$785B en capex y subiendo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T16:03:00Z
 slug: moodys-785b-capex-ai-credit-risk-hyperscalers
 featured: false

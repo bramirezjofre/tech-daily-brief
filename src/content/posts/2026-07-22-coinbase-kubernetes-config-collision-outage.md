@@ -1,6 +1,6 @@
 ---
 title: "Coinbase publicó su postmortem: un conflicto de nombres en Kubernetes tumbó la plataforma por 50 minutos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T10:00:00Z
 slug: coinbase-kubernetes-config-collision-outage
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI y Anthropic se lanzan modelos más baratos: GPT-6 Sol/Luna y Claude Opus 5.5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T21:00:00Z
 slug: gpt6-sol-luna-claude-opus-5-5-guerra-precios
 featured: false

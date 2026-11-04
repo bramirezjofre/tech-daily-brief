@@ -1,6 +1,6 @@
 ---
 title: "91 CVEs de Spring de una sola vez: la IA encuentra bugs más rápido de lo que los absorbemos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T22:15:00Z
 slug: spring-91-cves-agosto-2026-ia-descubre-vulnerabilidades
 featured: false

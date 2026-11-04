@@ -1,6 +1,6 @@
 ---
 title: "Ubuntu 26.10 completa su 'rustificación': cp, mv y rm se pasan a Rust"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T03:00:00Z
 slug: ubuntu-26-10-rust-coreutils
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "GPT-5.6 llega a Kiro, el agente de desarrollo de AWS: 82% menos costo en tareas de Terminal-Bench"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-24T16:00:00Z
 slug: gpt-56-en-kiro-agente-desarrollo-aws-costo
 featured: false

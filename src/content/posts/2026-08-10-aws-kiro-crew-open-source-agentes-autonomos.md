@@ -1,6 +1,6 @@
 ---
 title: "AWS open-sourcea Kiro Crew: agentes de IA que trabajan como equipo de ingeniería autónomo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T12:00:00Z
 slug: aws-kiro-crew-open-source-agentes-autonomos
 featured: false

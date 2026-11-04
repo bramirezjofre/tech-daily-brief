@@ -1,6 +1,6 @@
 ---
 title: "Trump firma una orden ejecutiva para sustituir «inteligencia artificial» por «Super Intelligence»"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T22:25:45.000Z
 slug: trump-orden-ejecutiva-super-intelligence-rebrand-ia
 featured: false

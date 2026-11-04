@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud lanza Gemini Enterprise para Legal y Servicios Financieros: IA de industria, no genérica"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T22:00:00Z
 slug: gemini-enterprise-legal-finanzas-industria
 featured: false

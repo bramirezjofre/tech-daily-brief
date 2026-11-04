@@ -1,6 +1,6 @@
 ---
 title: "Modelos chinos facturan solo 10% de lo que generan OpenAI y Anthropic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T21:00:00Z
 slug: modelos-chinos-facturan-10-openai-anthropic
 featured: false

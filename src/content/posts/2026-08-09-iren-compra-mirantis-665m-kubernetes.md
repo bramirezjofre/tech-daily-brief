@@ -1,6 +1,6 @@
 ---
 title: "IREN compra Mirantis por US$665M: el minero de bitcoin que se hizo player de cloud Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T10:00:00Z
 slug: iren-compra-mirantis-665m-kubernetes
 featured: false

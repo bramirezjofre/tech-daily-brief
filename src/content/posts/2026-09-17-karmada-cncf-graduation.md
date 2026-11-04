@@ -1,6 +1,6 @@
 ---
 title: "Karmada se gradúa en la CNCF: el orquestador multi-cluster de Kubernetes llega a la élite"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T15:00:00Z
 slug: karmada-cncf-graduation-multi-cluster
 featured: false

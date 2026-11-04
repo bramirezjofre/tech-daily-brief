@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes 1.37 'Garhwal' llega con Metrics API estable y kubelet rootless en beta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T03:00:00Z
 slug: kubernetes-1-37-garhwal
 featured: false

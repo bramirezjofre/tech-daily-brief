@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza 'Agents Week' y plantea la visión de un Agent Cloud"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T18:30:00Z
 slug: cloudflare-agents-week-agent-cloud
 featured: false

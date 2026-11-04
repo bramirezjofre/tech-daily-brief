@@ -1,6 +1,6 @@
 ---
 title: "Portainer 3.0 se vuelve Kubernetes-first: Docker, Swarm y Podman pasan a segunda fila"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T09:00:00Z
 slug: portainer-3-kubernetes-first
 featured: false

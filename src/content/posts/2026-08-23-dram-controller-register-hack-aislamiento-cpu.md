@@ -1,6 +1,6 @@
 ---
 title: "Skitter Creek Bath Salts: manipulando el controlador DRAM para romper el aislamiento de memoria de la CPU"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T22:10:00Z
 slug: dram-controller-register-hack-aislamiento-cpu
 featured: false

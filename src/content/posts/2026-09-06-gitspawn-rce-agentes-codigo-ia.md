@@ -1,6 +1,6 @@
 ---
 title: "GitSpawn: 8 vulnerabilidades RCE en 7 agentes de código IA — abrir un repo ajeno ya es suficiente para que te ejecuten comandos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-06T21:00:00Z
 slug: gitspawn-rce-agentes-codigo-ia
 featured: false

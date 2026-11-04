@@ -1,6 +1,6 @@
 ---
 title: "AWS Q2 2026: US$42.2B de ingresos, backlog de US$496B y Andy Jassy diciendo 'no damos abasto'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T15:00:00Z
 slug: aws-q2-2026-earnings-backlog-496b-capex
 featured: false

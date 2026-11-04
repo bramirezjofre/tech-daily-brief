@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Atlas muere hoy: OpenAI mata a su 'Chrome killer' después de 10 meses"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T10:00:00Z
 slug: openai-atlas-browser-muere
 featured: false

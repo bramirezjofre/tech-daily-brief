@@ -1,6 +1,6 @@
 ---
 title: "La Casa Blanca acusa a Moonshot de destilar Fable 5 para crear Kimi K3 — Treasury amenaza sanciones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T04:05:00Z
 slug: white-house-moonshot-distillation-fable5-sanciones
 featured: false

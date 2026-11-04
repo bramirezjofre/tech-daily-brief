@@ -1,6 +1,6 @@
 ---
 title: "La IA pone en duda una hipótesis central de la informática teórica"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-29T10:45:00Z
 slug: ia-cuestiona-hipotesis-tiempo-exponencial
 featured: false

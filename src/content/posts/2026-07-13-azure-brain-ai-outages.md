@@ -1,6 +1,6 @@
 ---
 title: "Conoce a Brain: la IA de Microsoft que decide cuándo Azure está oficialmente caído"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T16:00:00Z
 slug: azure-brain-ai-decide-outages
 featured: false

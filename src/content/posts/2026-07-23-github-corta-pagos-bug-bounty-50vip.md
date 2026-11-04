@@ -1,6 +1,6 @@
 ---
 title: "GitHub corta los pagos de bug bounty a la mitad y manda las recompensas top a tier VIP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T16:00:00Z
 slug: github-corta-pagos-bug-bounty-50vip
 featured: false

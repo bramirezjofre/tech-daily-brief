@@ -1,6 +1,6 @@
 ---
 title: "Anthropic se prepara para IPO: apunta a valuación cercana a US$1 trillón y adelantarse a OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T22:00:00Z
 slug: anthropic-ipo-casi-1-trillon
 featured: false

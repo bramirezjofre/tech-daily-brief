@@ -1,6 +1,6 @@
 ---
 title: "Filtración en DeepSeek: El fundador revela detalles de su arquitectura bare-metal"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T04:00:00Z
 slug: deepseek-founder-leaked-meeting
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "GitLab 19.2 manda agentes IA al backlog de seguridad: auto-remediación de dependencias, security review y CLI autónomo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T10:00:00Z
 slug: gitlab-19-2-agentes-ia-security-backlog-devsecops
 featured: false

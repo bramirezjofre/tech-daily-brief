@@ -1,6 +1,6 @@
 ---
 title: "Protestas directas contra OpenAI, Anthropic y Google DeepMind: exigen pausar el desarrollo de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T12:00:00Z
 slug: protestas-halt-ai-openai-anthropic
 featured: false

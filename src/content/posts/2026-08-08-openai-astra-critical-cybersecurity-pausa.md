@@ -1,6 +1,6 @@
 ---
 title: "OpenAI pausa Astra: el primer modelo que dispara el umbral 'Critical' de ciberseguridad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T16:00:00Z
 slug: openai-astra-critical-cybersecurity-pausa
 featured: false

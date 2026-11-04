@@ -1,6 +1,6 @@
 ---
 title: "Solo.io lanza agentdesktop para llevar la gobernanza de agentes IA al escritorio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-04T16:00:00Z
 slug: solo-io-agentdesktop-gobernanza-agentes-ia
 featured: false

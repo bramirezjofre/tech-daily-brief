@@ -1,6 +1,6 @@
 ---
 title: "Gimlet Labs levanta US$300M para acelerar la inferencia 'disagregada' de LLMs"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T10:30:00Z
 slug: gimlet-labs-300m-inferencia-disagregada
 featured: false

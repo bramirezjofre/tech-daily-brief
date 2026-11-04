@@ -1,6 +1,6 @@
 ---
 title: "Anthropic fusiona Claude chat y Cowork: apuesta por la 'superapp' con Docs y Slides"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T03:00:00Z
 slug: anthropic-fusiona-claude-chat-cowork-superapp
 featured: false

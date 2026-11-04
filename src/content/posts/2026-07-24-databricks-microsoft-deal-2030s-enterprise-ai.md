@@ -1,6 +1,6 @@
 ---
 title: "Databricks y Microsoft extienden su matrimonio hasta los 2030s: Azure, Cobalt y AI governance"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-24T10:00:00Z
 slug: databricks-microsoft-deal-2030s-enterprise-ai
 featured: false

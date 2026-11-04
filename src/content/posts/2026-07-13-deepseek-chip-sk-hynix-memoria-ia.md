@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek diseña su propio chip y SK Hynix advierte escasez histórica de memoria: el cuello de botella de la IA se mueve al hardware"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:15:00Z
 slug: deepseek-chip-sk-hynix-memoria-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Precursor: defensa conductual contra bots en tiempo real"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T16:00:00Z
 slug: cloudflare-precursor-bot-defense
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "KubeCon Japan 2026: Kubernetes ya está listo (de verdad) para workloads de IA en producción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T10:00:00Z
 slug: kubecon-japan-2026-kubernetes-ai-ready
 featured: false

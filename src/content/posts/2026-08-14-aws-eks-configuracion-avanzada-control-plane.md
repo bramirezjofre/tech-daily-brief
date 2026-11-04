@@ -1,6 +1,6 @@
 ---
 title: "AWS abre el control plane de EKS: configura scheduler, HPA y eventos sin operar tu propio Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T16:00:00Z
 slug: aws-eks-configuracion-avanzada-control-plane
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Octopus Deploy + MCP: despliega en Kubernetes hablando en lenguaje natural"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T12:00:00Z
 slug: octopus-deploy-mcp-kubernetes-natural-language
 featured: false

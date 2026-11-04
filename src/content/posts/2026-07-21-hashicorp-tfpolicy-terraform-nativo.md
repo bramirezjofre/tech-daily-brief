@@ -1,6 +1,6 @@
 ---
 title: "HashiCorp lanza tfpolicy: governance de Terraform escrito en HCL, sin lenguajes extra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-21T22:15:00Z
 slug: hashicorp-tfpolicy-terraform-nativo
 featured: false

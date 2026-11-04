@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare acumula 13 incidentes en 8 días: R2 con datos posiblemente perdidos y la pregunta incómoda de la concentración"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T10:00:00Z
 slug: cloudflare-13-incidencias-8-dias-r2-concentracion
 featured: false

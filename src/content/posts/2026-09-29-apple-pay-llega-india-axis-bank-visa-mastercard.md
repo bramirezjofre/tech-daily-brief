@@ -1,6 +1,6 @@
 ---
 title: "Apple Pay llega a India con Axis Bank como socio inaugural; Visa y Mastercard primero, sin RuPay"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T18:45:00.000Z
 slug: apple-pay-llega-india-axis-bank-visa-mastercard
 featured: false

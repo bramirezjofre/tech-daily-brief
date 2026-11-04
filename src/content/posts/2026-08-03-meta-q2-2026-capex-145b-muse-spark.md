@@ -1,6 +1,6 @@
 ---
 title: "Meta Q2 2026: US$60.8B de ingresos, capex sube a US$145B y Zuckerberg lanza su primer modelo de IA de pago"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T22:00:00Z
 slug: meta-q2-2026-capex-145b-muse-spark
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AWS mete Continuum dentro de Claude Code y Codex: la seguridad como capa, no como modelo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T22:10:00Z
 slug: aws-continuum-claude-code-codex-seguridad
 featured: false

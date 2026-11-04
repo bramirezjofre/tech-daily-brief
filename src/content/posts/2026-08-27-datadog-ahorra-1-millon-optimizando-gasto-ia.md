@@ -1,6 +1,6 @@
 ---
 title: "Datadog ahorra más de $1 millón al mes optimizando su gasto en IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T10:00:00Z
 slug: datadog-ahorra-1-millon-optimizando-gasto-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenTelemetry ya es proyecto graduado de la CNCF: ¿y ahora qué?"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T22:00:00Z
 slug: opentelemetry-graduacion-cncf-ahora-que
 featured: false

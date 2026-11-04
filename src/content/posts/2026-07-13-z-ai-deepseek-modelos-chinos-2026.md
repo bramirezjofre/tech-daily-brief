@@ -1,6 +1,6 @@
 ---
 title: "Z.ai y DeepSeek: Los modelos open source chinos siguen pisando los talones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:00:00Z
 slug: z-ai-deepseek-modelos-chinos-2026
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AliExpress hacía fingerprinting de audio silencioso: la Web Audio API usada para rastrear tu hardware"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T04:00:00Z
 slug: alibaba-audio-fingerprinting-webaudio
 featured: false

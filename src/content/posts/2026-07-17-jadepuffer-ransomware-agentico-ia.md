@@ -1,6 +1,6 @@
 ---
 title: "JadePuffer: el primer ransomware 100% agéntico, autopilotado por LLM"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T16:00:00Z
 slug: jadepuffer-ransomware-agentico-ia
 featured: false

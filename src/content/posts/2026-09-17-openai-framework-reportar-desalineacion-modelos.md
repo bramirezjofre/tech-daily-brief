@@ -1,6 +1,6 @@
 ---
 title: "OpenAI estrena framework para reportar desalineación de modelos (y publica 6 casos)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T03:00:00Z
 slug: openai-framework-reportar-desalineacion-modelos
 featured: false

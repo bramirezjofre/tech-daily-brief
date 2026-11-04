@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare DDoS Report H1 2026: 935 ataques sobre 1 Tbps y un cambio sísmico en los vectores de ataque"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T22:00:00Z
 slug: cloudflare-ddos-report-h1-2026-1tbps
 featured: false

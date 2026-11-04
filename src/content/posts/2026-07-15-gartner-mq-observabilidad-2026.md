@@ -1,6 +1,6 @@
 ---
 title: "Gartner Magic Quadrant de Observabilidad 2026: Dynatrace, Grafana, Datadog y Chronosphere como Leaders"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T18:00:00Z
 slug: gartner-magic-quadrant-observabilidad-2026
 featured: false

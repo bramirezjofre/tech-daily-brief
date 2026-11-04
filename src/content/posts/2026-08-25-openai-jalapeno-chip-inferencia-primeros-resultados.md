@@ -1,6 +1,6 @@
 ---
 title: "Jalapeño, el primer chip de inferencia de OpenAI, ya tiene números: hasta 1,9x más trabajo por watt"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-25T16:00:00Z
 slug: openai-jalapeno-chip-inferencia-primeros-resultados
 featured: false

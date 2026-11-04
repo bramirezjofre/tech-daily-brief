@@ -1,6 +1,6 @@
 ---
 title: "AWS lanza DevOps Agent para investigación autónoma de incidentes en producción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-04T10:00:00Z
 slug: aws-devops-agent-autonomo-produccion
 featured: false

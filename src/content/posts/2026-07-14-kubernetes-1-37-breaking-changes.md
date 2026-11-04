@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes v1.37 llega el 26 de agosto: 3 cambios que rompen todo (y cómo prepararse)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T22:00:00Z
 slug: kubernetes-1-37-breaking-changes
 featured: false

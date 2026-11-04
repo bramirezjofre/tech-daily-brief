@@ -1,6 +1,6 @@
 ---
 title: "Modelos chinos open-weight ya procesan 3x más tokens que los de EE.UU. en OpenRouter"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T04:00:00Z
 slug: modelos-chinos-open-weight-dominan-openrouter
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Splunk APM: del trace lento al método lento con Call Graph Profiling"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T10:00:00Z
 slug: splunk-call-graph-profiling-apm
 featured: false

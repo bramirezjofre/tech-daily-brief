@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud y Accenture arman grupo para escalar IA agéntica en empresas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T15:00:00Z
 slug: google-cloud-accenture-gemini-enterprise-business-group
 featured: false

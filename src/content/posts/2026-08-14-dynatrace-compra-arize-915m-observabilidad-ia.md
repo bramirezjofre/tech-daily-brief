@@ -1,6 +1,6 @@
 ---
 title: "Dynatrace compra Arize por US$915M: la observabilidad de IA se consolida"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T10:00:00Z
 slug: dynatrace-compra-arize-915m-observabilidad-ia
 featured: false

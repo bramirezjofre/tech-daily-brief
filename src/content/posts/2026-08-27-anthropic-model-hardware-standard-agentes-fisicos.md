@@ -1,6 +1,6 @@
 ---
 title: "Anthropic abre preview del Model Hardware Standard (MHS) para agentes físicos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-27T22:00:00Z
 slug: anthropic-model-hardware-standard-agentes-fisicos
 featured: false

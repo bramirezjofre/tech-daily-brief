@@ -1,6 +1,6 @@
 ---
 title: "Anatomía de un span de OpenTelemetry: los 10 bloques que debes conocer"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T22:00:00Z
 slug: anatomia-span-opentelemetry
 featured: false

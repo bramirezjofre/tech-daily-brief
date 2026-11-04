@@ -1,6 +1,6 @@
 ---
 title: "Anthropic activa auto mode por defecto en Claude Code: menos humanos, más automatización"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T22:00:00Z
 slug: claude-code-auto-mode-default-anthropic
 featured: false

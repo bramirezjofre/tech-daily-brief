@@ -1,6 +1,6 @@
 ---
 title: "MetaX, el fabricante chino de GPUs de US$48B, presenta su IPO en Hong Kong"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T16:00:00Z
 slug: metax-gpu-china-ipo-hong-kong-48b
 featured: false

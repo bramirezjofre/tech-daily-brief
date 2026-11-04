@@ -1,6 +1,6 @@
 ---
 title: "OpenAI Presence: la plataforma enterprise para desplegar agentes de IA con guardrails y control"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T22:00:00Z
 slug: openai-presence-plataforma-enterprise-agentes-ia
 featured: false

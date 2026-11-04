@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek se arma para enfrentar a Claude Code: recluta equipo de agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T04:00:00Z
 slug: deepseek-agentes-ia-rival-claude-code
 featured: false

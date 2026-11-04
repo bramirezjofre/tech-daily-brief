@@ -1,6 +1,6 @@
 ---
 title: "Claude Opus 5: Anthropic alista el lanzamiento mientras la guerra de modelos se intensifica"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T22:00:00Z
 slug: claude-opus-5-anthropic-inminente-23-julio
 featured: false

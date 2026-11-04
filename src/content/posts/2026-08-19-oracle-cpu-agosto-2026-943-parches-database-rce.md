@@ -1,6 +1,6 @@
 ---
 title: "Oracle suelta su CPU de agosto: 943 parches de seguridad y un RCE sin autenticación en la Base de Datos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-19T10:00:00Z
 slug: oracle-cpu-agosto-2026-943-parches-database-rce
 featured: false

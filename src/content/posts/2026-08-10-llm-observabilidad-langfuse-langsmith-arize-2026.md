@@ -1,6 +1,6 @@
 ---
 title: "Observabilidad para LLMs en 2026: Langfuse vs LangSmith vs Braintrust vs Arize"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T04:00:00Z
 slug: llm-observabilidad-langfuse-langsmith-arize-2026
 featured: false

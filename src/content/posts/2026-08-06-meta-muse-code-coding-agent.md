@@ -1,6 +1,6 @@
 ---
 title: "Meta lanza Muse Code: su primer agente de código que se mete de lleno a la guerra de coding agents"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T16:00:00Z
 slug: meta-muse-code-coding-agent
 featured: false

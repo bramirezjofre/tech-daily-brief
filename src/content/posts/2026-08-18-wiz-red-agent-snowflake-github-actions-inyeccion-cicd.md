@@ -1,6 +1,6 @@
 ---
 title: "El 'Red Agent' de Wiz hackea el pipeline de Snowflake con un simple GitHub issue: la autopsia del bug de CI/CD"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-18T11:00:00Z
 slug: wiz-red-agent-snowflake-github-actions-inyeccion-cicd
 featured: false

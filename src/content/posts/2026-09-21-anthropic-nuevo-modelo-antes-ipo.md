@@ -1,6 +1,6 @@
 ---
 title: "Anthropic evalúa lanzar un nuevo Claude para frenar a GPT-6 Astra antes de su IPO"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-21T03:00:00Z
 slug: anthropic-nuevo-modelo-antes-ipo
 featured: false

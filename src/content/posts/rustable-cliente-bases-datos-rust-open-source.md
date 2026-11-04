@@ -1,6 +1,6 @@
 ---
 title: "Rustable presenta un cliente de bases de datos de código abierto escrito en Rust"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-03T03:06:53Z
 slug: rustable-cliente-bases-datos-rust-open-source
 featured: false

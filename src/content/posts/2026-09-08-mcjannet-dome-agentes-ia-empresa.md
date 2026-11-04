@@ -1,6 +1,6 @@
 ---
 title: "Dave McJannet deja HashiCorp y quiere 'desbloquear' los agentes de IA empresariales con Dome"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T21:00:00Z
 slug: mcjannet-dome-agentes-ia-empresa
 featured: false

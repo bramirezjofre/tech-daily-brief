@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud presenta Fault Injection Testing en preview: chaos engineering gestionado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T22:00:00Z
 slug: google-cloud-fault-injection-testing-preview
 featured: false

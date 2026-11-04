@@ -1,6 +1,6 @@
 ---
 title: "LogicMonitor apunta a IT Autónoma: observabilidad + IA + automatización en una sola plataforma"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T04:00:00Z
 slug: logicmonitor-it-autonoma-observabilidad
 featured: false

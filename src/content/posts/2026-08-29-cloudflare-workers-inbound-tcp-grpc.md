@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Workers ahora aceptan TCP entrante: gRPC es el primer protocolo encima"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T10:00:00Z
 slug: cloudflare-workers-inbound-tcp-grpc
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Debian vota prohibir el código generado por IA: 8 opciones en papeleta y el destino del Social Contract en juego"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T04:20:00Z
 slug: debian-vota-prohibir-codigo-ia-social-contract
 featured: false

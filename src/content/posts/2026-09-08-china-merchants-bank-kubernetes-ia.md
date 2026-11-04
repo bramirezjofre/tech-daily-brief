@@ -1,6 +1,6 @@
 ---
 title: "China Merchants Bank unifica entrenamiento e inferencia de IA en Kubernetes con casi 10.000 aceleradores"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T03:00:00Z
 slug: china-merchants-bank-kubernetes-ia
 featured: false

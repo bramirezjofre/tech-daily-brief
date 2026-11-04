@@ -1,6 +1,6 @@
 ---
 title: "Ox Alpha: el modelo fantoma de OpenRouter que tiene a la comunidad IA haciendo laburo forense"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T16:10:00Z
 slug: ox-alpha-modelo-fantasma-openrouter-zhipu
 featured: false

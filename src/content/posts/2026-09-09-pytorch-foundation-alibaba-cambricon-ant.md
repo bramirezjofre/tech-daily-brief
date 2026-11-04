@@ -1,6 +1,6 @@
 ---
 title: "PyTorch Foundation suma a Alibaba Cloud, Cambricon y Ant Group: China entra de lleno al open AI stack"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T03:00:00Z
 slug: pytorch-foundation-alibaba-cambricon-ant
 featured: false

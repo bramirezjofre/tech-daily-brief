@@ -1,6 +1,6 @@
 ---
 title: "Z.ai anuncia GLM-5.3 con foco en coding: apuntando directo a Anthropic y OpenAI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T10:00:00Z
 slug: zai-glm-5-3-coding-anuncio-benchmarks
 featured: false

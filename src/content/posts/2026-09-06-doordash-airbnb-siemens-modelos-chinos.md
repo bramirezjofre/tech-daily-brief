@@ -1,6 +1,6 @@
 ---
 title: "DoorDash, Airbnb y Siemens ya migran cargas de IA a modelos chinos que cuestan 10x menos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-06T21:00:00Z
 slug: doordash-airbnb-siemens-modelos-chinos
 featured: false

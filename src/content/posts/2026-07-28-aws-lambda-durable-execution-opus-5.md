@@ -1,6 +1,6 @@
 ---
 title: "AWS suma Claude Opus 5 y lanza Durable Execution para Lambda"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T04:00:00Z
 slug: aws-lambda-durable-execution-opus-5
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI plantea que el valor de la superinteligencia estará en el trabajo rutinario, no en el brillo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-01T17:00:00Z
 slug: openai-eternal-complement
 featured: false

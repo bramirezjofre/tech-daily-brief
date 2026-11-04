@@ -1,6 +1,6 @@
 ---
 title: "Alibaba libera Qwen3.8-Flash-Next: el ensayo general de la arquitectura de Qwen4"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T16:06:00Z
 slug: qwen38-flash-next-preview-qwen4
 featured: false

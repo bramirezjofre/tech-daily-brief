@@ -1,6 +1,6 @@
 ---
 title: "Modus levanta $10M para armar un 'Context Warehouse' de agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-30T10:00:00Z
 slug: modus-10m-context-warehouse-ia
 featured: false

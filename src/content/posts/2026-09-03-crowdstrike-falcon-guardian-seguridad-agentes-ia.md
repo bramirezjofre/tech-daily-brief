@@ -1,6 +1,6 @@
 ---
 title: "CrowdStrike lanza Falcon Guardian: seguridad en runtime para agentes de IA (y no solo postureo)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-03T04:00:00Z
 slug: crowdstrike-falcon-guardian-seguridad-agentes-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Sonar lanza SonarQube Hunter Agent: la IA que caza vulnerabilidades de lógica de negocio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T10:00:00Z
 slug: sonarqube-hunter-agent-vulnerabilidades-logica
 featured: false

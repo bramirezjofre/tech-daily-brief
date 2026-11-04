@@ -1,6 +1,6 @@
 ---
 title: "Proofpoint lanza su agente SOC basado en los modelos ciber de OpenAI (Daybreak)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T21:00:00Z
 slug: proofpoint-soc-analyst-agent-openai-daybreak
 featured: false

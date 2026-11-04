@@ -1,6 +1,6 @@
 ---
 title: "OpenAI disuelve su equipo de Preparedness camino al IPO: la seguridad sigue perdiendo asiento"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T04:15:00Z
 slug: openai-disuelve-equipo-preparedness-safety
 featured: false

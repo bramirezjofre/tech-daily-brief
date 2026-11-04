@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare migra su blog a EmDash: 'Customer Zero' en serio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-25T22:00:00Z
 slug: cloudflare-blog-emdash-migracion
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft mete AMD Helios, EPYC y racks de 72 GPUs a Azure para AI y HPC"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-21T22:15:00Z
 slug: azure-amd-helios-hpc-ai-infra
 featured: false

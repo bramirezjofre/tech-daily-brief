@@ -1,6 +1,6 @@
 ---
 title: "Grok 4.6: SpaceXAI vuelve a la frontera de la IA y lo hace a mitad de precio que la competencia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T22:00:00Z
 slug: grok-4-6-spacexai-frontera-ia-agentes-costo
 featured: false

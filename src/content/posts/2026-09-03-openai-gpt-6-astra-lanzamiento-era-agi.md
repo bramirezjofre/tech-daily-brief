@@ -1,6 +1,6 @@
 ---
 title: "OpenAI lanza GPT-6 Astra: 'salto generacional' y la declaración de la era AGI"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-03T22:00:00Z
 slug: openai-gpt-6-astra-lanzamiento-era-agi
 featured: false

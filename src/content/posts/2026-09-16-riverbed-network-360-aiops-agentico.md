@@ -1,6 +1,6 @@
 ---
 title: "Riverbed mete IA agéntica a la observabilidad de red con Network 360"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T19:30:00Z
 slug: riverbed-network-360-aiops-agentico
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "OpenAI le está comiendo terreno a Anthropic en empresas, según datos de Ramp"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T16:05:00Z
 slug: openai-gana-terreno-anthropic-empresas-ramp
 featured: false

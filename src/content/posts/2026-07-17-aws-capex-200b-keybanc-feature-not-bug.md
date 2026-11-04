@@ -1,6 +1,6 @@
 ---
 title: "AWS y la carrera armamentista de IA: KeyBanc dice que gastar US$200 mil millones es 'feature, no bug'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T10:00:00Z
 slug: aws-capex-200b-keybanc-feature-not-bug
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "XSS2Shell: WordPress tuvo la vulnerabilidad más crítica en años y casi nadie se dio cuenta"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T10:00:00Z
 slug: wordpress-xss2shell-rce-500-millones-sitios
 featured: false

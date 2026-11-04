@@ -1,6 +1,6 @@
 ---
 title: "OpenAI reorganiza su Model Spec alrededor de cinco valores para guiar modelos más capaces"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-29T17:00:00Z
 slug: openai-model-spec-valores-agencia
 featured: false

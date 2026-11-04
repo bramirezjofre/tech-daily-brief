@@ -1,6 +1,6 @@
 ---
 title: "Anthropic lanza Claude Opus 5: inteligencia casi frontier a la mitad del precio que Fable 5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T18:00:00Z
 slug: anthropic-claude-opus-5-frontier-mitad-precio
 featured: false

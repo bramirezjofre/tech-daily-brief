@@ -1,6 +1,6 @@
 ---
 title: "Alibaba lanza Qwen-UI-Agent: el modelo que opera tu pantalla (y le gana a GPT-5.6 y Opus 4.8 en GUI)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-22T10:00:00Z
 slug: qwen-ui-agent-alibaba-modelo-gui
 featured: false

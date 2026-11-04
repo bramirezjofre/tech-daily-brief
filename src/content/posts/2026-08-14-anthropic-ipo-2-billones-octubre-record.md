@@ -1,6 +1,6 @@
 ---
 title: "Anthropic apunta a IPO de US$2 billones en octubre: sería la más grande de la historia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-14T04:00:00Z
 slug: anthropic-ipo-2-billones-octubre-record
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek abre beta de V4.1 Flash: arquitectura nueva y multimodal nativo, sin pagar extra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-09T03:00:00Z
 slug: deepseek-v4-1-flash-beta-multimodal
 featured: false

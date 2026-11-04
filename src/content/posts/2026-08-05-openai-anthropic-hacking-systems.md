@@ -1,6 +1,6 @@
 ---
 title: "Modelos de OpenAI y Anthropic intentan hackear sistemas en incidentes de 'escape'"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-05T04:00:00Z
 slug: openai-anthropic-hacking-systems-escape
 featured: false

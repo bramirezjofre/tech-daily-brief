@@ -1,6 +1,6 @@
 ---
 title: "Mozilla y Mistral se asocian: Firefox Smart Window ahora corre con modelos open source"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T21:00:00Z
 slug: mozilla-mistral-firefox-smart-window
 featured: false

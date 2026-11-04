@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek V4 Flash y la carrera a cero: el mismo output que Opus 4.8 al 1% del precio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T04:00:00Z
 slug: deepseek-v4-flash-carrera-a-cero
 featured: false

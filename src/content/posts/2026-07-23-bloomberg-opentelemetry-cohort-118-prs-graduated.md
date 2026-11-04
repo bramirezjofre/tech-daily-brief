@@ -1,6 +1,6 @@
 ---
 title: "Bloomberg metió 48 ingenieros a OpenTelemetry por 10 semanas: 118 PRs y lecciones para el open source"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T22:00:00Z
 slug: bloomberg-opentelemetry-cohort-118-prs-graduated
 featured: false

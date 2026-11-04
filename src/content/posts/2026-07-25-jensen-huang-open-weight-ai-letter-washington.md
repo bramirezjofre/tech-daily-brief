@@ -1,6 +1,6 @@
 ---
 title: "Jensen Huang abre X con carta de 32 empresas defendiendo AI open-weight ante Washington"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-25T04:00:00Z
 slug: jensen-huang-open-weight-ai-letter-washington
 featured: false

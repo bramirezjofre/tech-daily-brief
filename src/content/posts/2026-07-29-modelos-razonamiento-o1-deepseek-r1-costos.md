@@ -1,6 +1,6 @@
 ---
 title: "Miedo al RSI: Modelos razonadores vs el costo de inferencia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T12:00:00Z
 slug: modelos-razonamiento-o1-deepseek-r1-costos
 featured: false

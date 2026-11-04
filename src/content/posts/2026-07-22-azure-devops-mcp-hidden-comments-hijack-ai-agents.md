@@ -1,6 +1,6 @@
 ---
 title: "Comentarios invisibles en Azure DevOps pueden secuestrar tu AI coding agent via MCP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-22T22:00:00Z
 slug: azure-devops-mcp-hidden-comments-hijack-ai-agents
 featured: false

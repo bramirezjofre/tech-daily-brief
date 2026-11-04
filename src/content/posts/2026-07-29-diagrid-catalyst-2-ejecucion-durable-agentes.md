@@ -1,6 +1,6 @@
 ---
 title: "Diagrid Catalyst 2.0: Ejecución durable y verificable para Agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T04:00:00Z
 slug: diagrid-catalyst-2-ejecucion-durable-agentes
 featured: false

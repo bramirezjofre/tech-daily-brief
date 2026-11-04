@@ -1,6 +1,6 @@
 ---
 title: "Cloud Native Buildpacks se gradúa en la CNCF: el fin del Dockerfile obligatorio"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T22:05:00Z
 slug: cloud-native-buildpacks-cncf-graduacion
 featured: false

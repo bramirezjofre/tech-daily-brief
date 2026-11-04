@@ -1,6 +1,6 @@
 ---
 title: "Gartner: infraestructura IA sube 96% a US$42 mil millones en 2026 y la inferencia ya le gana al entrenamiento"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T04:00:00Z
 slug: gartner-infra-ia-42-mil-millones-inferencia-supera-entrenamiento
 featured: false

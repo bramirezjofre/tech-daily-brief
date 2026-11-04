@@ -1,6 +1,6 @@
 ---
 title: "Devoteam se alía con Dynatrace para llevar observabilidad impulsada por IA a las empresas de EMEA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T15:00:00Z
 slug: devoteam-dynatrace-observabilidad-ia-emea
 featured: false

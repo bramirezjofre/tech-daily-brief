@@ -1,6 +1,6 @@
 ---
 title: "Z.ai libera los pesos de GLM-5.3, pero la nueva licencia apunta directo a los hyperscalers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T16:05:00Z
 slug: glm-53-open-weight-licencia-zai
 featured: false

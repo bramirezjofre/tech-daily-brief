@@ -1,6 +1,6 @@
 ---
 title: "CoreWeave conecta cientos de GPUs NVIDIA Rubin en un solo clúster multi-rack"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T14:30:00Z
 slug: coreweave-vera-rubin-nvl72-multi-rack
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare migra cdnjs a su propia plataforma: 9 mil millones de peticiones al día en Workers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-15T04:00:00Z
 slug: cloudflare-cdnjs-migracion-developer-platform
 featured: false

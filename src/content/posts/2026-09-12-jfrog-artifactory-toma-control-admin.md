@@ -1,6 +1,6 @@
 ---
 title: "JFrog Artifactory: encadenan tres fallas para tomarse el control de admin"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T22:00:00Z
 slug: jfrog-artifactory-toma-control-admin
 featured: false

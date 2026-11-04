@@ -1,6 +1,6 @@
 ---
 title: "OpenTofu 1.12 vs Terraform en 2026: el fork que dejó de ser solo un fork"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-10T10:00:00Z
 slug: opentofu-1-12-vs-terraform-2026
 featured: false

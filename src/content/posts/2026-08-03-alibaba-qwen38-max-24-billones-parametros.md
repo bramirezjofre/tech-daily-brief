@@ -1,6 +1,6 @@
 ---
 title: "Alibaba lanza Qwen3.8-Max: 2.4 billones de parámetros y la apuesta más agresiva de China en IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-03T16:00:00Z
 slug: alibaba-qwen38-max-24-billones-parametros
 featured: false

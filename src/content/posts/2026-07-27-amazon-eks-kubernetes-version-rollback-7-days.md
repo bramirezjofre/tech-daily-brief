@@ -1,6 +1,6 @@
 ---
 title: "Amazon EKS por fin te deja hacer rollback de Kubernetes (tienes 7 días)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T10:00:00Z
 slug: amazon-eks-kubernetes-version-rollback-7-days
 featured: false

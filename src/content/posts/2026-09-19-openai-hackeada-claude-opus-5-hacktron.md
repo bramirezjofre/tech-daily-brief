@@ -1,6 +1,6 @@
 ---
 title: "White hats usaron Claude Opus 5 para hackear a OpenAI en menos de 72 horas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-19T09:00:00Z
 slug: openai-hackeada-claude-opus-5-hacktron
 featured: false

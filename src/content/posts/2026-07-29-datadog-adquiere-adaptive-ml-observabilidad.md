@@ -1,6 +1,6 @@
 ---
 title: "Datadog compra Adaptive ML y refuerza operaciones autónomas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-29T12:00:00Z
 slug: datadog-adquiere-adaptive-ml-observabilidad
 featured: false

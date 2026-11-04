@@ -1,6 +1,6 @@
 ---
 title: "Anthropic acusa a DeepSeek, Moonshot y MiniMax de robar capacidades de Claude con 16 millones de consultas fraudulentas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T12:00:00Z
 slug: anthropic-distillation-attacks-chinos
 featured: false

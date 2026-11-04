@@ -1,6 +1,6 @@
 ---
 title: "systemd 262 mete un 'canary' de IA para pillar código generado sin revisión humana"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T03:00:00Z
 slug: systemd-262-ai-canary
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Grok 4.5 y Grok Build: xAI libera su modelo coding y lo hace open source"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T04:05:00Z
 slug: grok-4-5-spacexai-coding-agent-open-source
 featured: false

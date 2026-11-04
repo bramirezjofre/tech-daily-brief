@@ -1,6 +1,6 @@
 ---
 title: "Google dice que Kubernetes no fue diseñado para AI agents y presenta Agent Substrate"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T16:15:00Z
 slug: google-agent-substrate-kubernetes
 featured: false

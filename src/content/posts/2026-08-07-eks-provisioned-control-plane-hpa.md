@@ -1,6 +1,6 @@
 ---
 title: "AWS EKS: El Control Plane Provisioned ahora escala pods 40x más rápido"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T10:00:00Z
 slug: eks-provisioned-control-plane-hpa-40x
 featured: false

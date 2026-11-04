@@ -1,6 +1,6 @@
 ---
 title: "OpenAI corta a Cursor: le quita sus modelos tras la compra de SpaceX y da fecha de apagado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T04:00:00Z
 slug: openai-corta-cursor-spacex
 featured: false

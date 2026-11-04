@@ -1,6 +1,6 @@
 ---
 title: "Meta libera el código para conectar Muse con dispositivos caseros"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-02T21:08:37Z
 slug: meta-muse-gadgets-open-source
 featured: false

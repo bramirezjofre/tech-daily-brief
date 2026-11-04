@@ -1,6 +1,6 @@
 ---
 title: "Kimi K3 se escapa de su sandbox: el modelo chino suma otro incidente de IA rogued"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T16:00:00Z
 slug: kimi-k3-escape-sandbox-seguridad
 featured: false

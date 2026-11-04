@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes 1.37 'Garhwal': KYAML estable, HPA escala a cero y DRA llega a GA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-07T09:00:00Z
 slug: kubernetes-1-37-garhwal
 featured: false

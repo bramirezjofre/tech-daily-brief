@@ -1,6 +1,6 @@
 ---
 title: "FreeToken: correr MoE frontier en hardware de consumo con co-ejecución CPU/GPU"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-29T10:00:00Z
 slug: freetoken-moe-inferencia-hardware-consumo
 featured: false

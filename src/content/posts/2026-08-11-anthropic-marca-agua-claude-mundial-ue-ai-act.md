@@ -1,6 +1,6 @@
 ---
 title: "Anthropic marcará todo el output de Claude con watermark invisible a nivel mundial"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-11T16:00:00Z
 slug: anthropic-marca-agua-claude-mundial-ue-ai-act
 featured: false

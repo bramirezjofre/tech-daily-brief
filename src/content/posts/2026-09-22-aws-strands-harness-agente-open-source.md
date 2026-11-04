@@ -1,6 +1,6 @@
 ---
 title: "AWS libera Strands Harness: un agente de IA open-source 45% más barato que Claude Code y Codex"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T03:00:00Z
 slug: aws-strands-harness-agente-open-source
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Apple no puede anticipar cuándo se normalizará la oferta del iPhone Duo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-11-02T22:56:11Z
 slug: apple-no-preve-equilibrio-oferta-iphone-duo
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Anthropic sube de nivel Claude Voice Mode: ahora corre en Opus y Sonnet con acceso a apps"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-27T10:00:00Z
 slug: anthropic-claude-voice-mode-opus-sonnet
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Suno amplía su plataforma con voces habladas generadas por IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-02T09:42:19Z
 slug: suno-speech-voces-musica-ia
 featured: false

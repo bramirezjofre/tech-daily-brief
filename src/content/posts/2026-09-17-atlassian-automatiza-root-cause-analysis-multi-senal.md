@@ -1,6 +1,6 @@
 ---
 title: "Atlassian automatiza el root cause analysis correlacionando métricas, logs y trazas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T03:00:00Z
 slug: atlassian-automatiza-root-cause-analysis-multi-senal
 featured: false

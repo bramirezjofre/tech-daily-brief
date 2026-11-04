@@ -1,6 +1,6 @@
 ---
 title: "RustFS 1.0 llega a GA: almacenamiento de objetos S3 open source que llena el hueco de MinIO"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T03:00:00Z
 slug: rustfs-1-0-almacenamiento-objetos-s3-open-source
 featured: false

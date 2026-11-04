@@ -1,6 +1,6 @@
 ---
 title: "Autoscaling predictivo para GPUs en Kubernetes: por qué el HPA reactivo llega tarde"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-28T16:00:00Z
 slug: predictive-autoscaling-gpu-kubernetes
 featured: false

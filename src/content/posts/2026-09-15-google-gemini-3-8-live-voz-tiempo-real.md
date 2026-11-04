@@ -1,6 +1,6 @@
 ---
 title: "Google lanza Gemini 3.8 Live: voz en tiempo real que quiere dejar de sonar a robot"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-15T21:00:00Z
 slug: google-gemini-3-8-live-voz-tiempo-real
 featured: false

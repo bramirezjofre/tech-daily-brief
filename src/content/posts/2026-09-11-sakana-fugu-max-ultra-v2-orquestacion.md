@@ -1,6 +1,6 @@
 ---
 title: "Sakana AI estira la frontera costo-rendimiento con Fugu Max y Fugu Ultra v2"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T15:00:00Z
 slug: sakana-fugu-max-ultra-v2-orquestacion
 featured: false

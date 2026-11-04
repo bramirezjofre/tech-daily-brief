@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Adaptive Intelligence: el motor que hace inviable la economía del ataque de bots"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-31T22:00:00Z
 slug: cloudflare-adaptive-intelligence-bots
 featured: false

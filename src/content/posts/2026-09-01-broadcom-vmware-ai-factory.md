@@ -1,6 +1,6 @@
 ---
 title: "Broadcom presenta VMware AI Factory: del metal al modelo en horas, con gobernanza para agentes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T03:00:00Z
 slug: broadcom-vmware-ai-factory
 featured: false

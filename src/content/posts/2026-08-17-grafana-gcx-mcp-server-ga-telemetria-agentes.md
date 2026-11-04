@@ -1,6 +1,6 @@
 ---
 title: "Grafana saca gcx y su MCP Server a GA: los agentes de código ahora miran la telemetría en vivo"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T22:10:00Z
 slug: grafana-gcx-mcp-server-ga-telemetria-agentes
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Red Hat AI 3.5: seguridad, observabilidad y control de GPU para llevar la IA a producción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T09:00:00Z
 slug: red-hat-ai-3-5-seguridad-observabilidad-gpu
 featured: false

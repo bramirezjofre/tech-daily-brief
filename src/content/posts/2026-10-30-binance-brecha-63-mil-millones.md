@@ -1,6 +1,6 @@
 ---
 title: "Una brecha en Binance vuelve a poner el foco en las credenciales de empleados"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-30T14:00:25Z
 slug: binance-brecha-63-mil-millones
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Gemini 3.8 Flash: Google va con todo por el trono del código"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-02T10:00:00Z
 slug: gemini-3-8-flash-skimaki-codigo
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Komodor lanza su plataforma de operaciones agénticas: automatización lista para usar en Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-16T14:00:00Z
 slug: komodor-plataforma-operaciones-agenticas
 featured: false

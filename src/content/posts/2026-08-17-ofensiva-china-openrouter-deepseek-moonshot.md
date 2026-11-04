@@ -1,6 +1,6 @@
 ---
 title: "6 de los 10 modelos más usados del planeta son chinos: DeepSeek y Moonshot salen a cazar miles de millones"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-17T10:00:00Z
 slug: ofensiva-china-openrouter-deepseek-moonshot
 featured: false

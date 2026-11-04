@@ -1,6 +1,6 @@
 ---
 title: "Splunk va por su segundo LLM open source para telemetría y un Universal Collector con OpenTelemetry"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-17T09:00:00Z
 slug: splunk-segundo-llm-open-source-universal-collector
 featured: false

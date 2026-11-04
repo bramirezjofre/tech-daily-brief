@@ -1,6 +1,6 @@
 ---
 title: "Microsoft y Mistral cierran deal multibillonario: IA soberana europea con Azure"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T10:00:00Z
 slug: microsoft-mistral-multibillonario-soberania-ai-europa
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT mete publicidad en Europa: los planes Free y Go verán anuncios desde fines de agosto"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T22:05:00Z
 slug: chatgpt-ads-llegan-europa-free-go
 featured: false

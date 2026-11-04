@@ -1,6 +1,6 @@
 ---
 title: "La CNCF evalúa el Model Context Protocol como el estándar de comunicación de agentes en Kubernetes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T03:00:00Z
 slug: cncf-evalua-mcp-wire-spec-agentes
 featured: false

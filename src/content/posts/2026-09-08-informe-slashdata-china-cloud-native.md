@@ -1,6 +1,6 @@
 ---
 title: "China ya suma 1,75 millones de desarrolladores cloud native y la IA empuja hacia la inferencia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T09:00:00Z
 slug: informe-slashdata-china-cloud-native
 featured: false

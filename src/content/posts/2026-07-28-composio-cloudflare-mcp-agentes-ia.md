@@ -1,6 +1,6 @@
 ---
 title: "Composio lanza integraciones MCP para manejar Cloudflare con agentes de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-28T16:00:00Z
 slug: composio-cloudflare-mcp-agentes-ia
 featured: false

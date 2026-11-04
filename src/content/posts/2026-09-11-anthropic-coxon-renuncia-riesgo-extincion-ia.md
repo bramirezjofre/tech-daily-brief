@@ -1,6 +1,6 @@
 ---
 title: "Investigador de Anthropic renuncia y advierte que la IA 'nos puede matar a todos'; el jefe de alignment le da la razón"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-11T21:00:00Z
 slug: anthropic-coxon-renuncia-riesgo-extincion-ia
 featured: false

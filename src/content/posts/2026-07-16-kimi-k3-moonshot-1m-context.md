@@ -1,6 +1,6 @@
 ---
 title: "Moonshot AI lanza Kimi K3: 2.5T parámetros, 1M de contexto y que codea mejor que GPT-5.5"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T16:05:00Z
 slug: kimi-k3-moonshot-1m-contexto
 featured: false

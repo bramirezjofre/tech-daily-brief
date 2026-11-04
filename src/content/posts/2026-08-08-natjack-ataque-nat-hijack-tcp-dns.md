@@ -1,6 +1,6 @@
 ---
 title: "NatJack: nuevo ataque manipula tablas NAT para secuestrar sesiones TCP y suplantar DNS"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-08T04:00:00Z
 slug: natjack-ataque-nat-hijack-tcp-dns
 featured: false

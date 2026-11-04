@@ -1,6 +1,6 @@
 ---
 title: "UK pone a AWS, Azure, Google Cloud y Oracle bajo supervisión financiera directa"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-17T16:00:00Z
 slug: uk-regula-cloud-providers-financiero
 featured: false

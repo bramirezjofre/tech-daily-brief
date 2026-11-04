@@ -1,6 +1,6 @@
 ---
 title: "InfoQ Cloud & DevOps Trends 2026: AI Platforms, Tokenomics y el fin del DevOps como lo conocíamos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T22:00:00Z
 slug: infoq-cloud-devops-trends-2026-ia-finops-soberania
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Azure Arc Certificate Management llega a GA: cert-manager y trust-manager como servicio gestionado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T22:00:00Z
 slug: azure-arc-certificate-management-ga
 featured: false

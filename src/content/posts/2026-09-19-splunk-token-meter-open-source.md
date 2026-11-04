@@ -1,6 +1,6 @@
 ---
 title: "Splunk libera Token Meter, su herramienta open source para vigilar el gasto de los agentes de código"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-19T21:00:00Z
 slug: splunk-token-meter-open-source
 featured: false

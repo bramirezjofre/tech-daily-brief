@@ -1,6 +1,6 @@
 ---
 title: "Datadog espía a sus propios agentes de IA y cuenta qué aprendió de seguridad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-30T10:00:00Z
 slug: datadog-seguridad-agentes-ia-monitoreo
 featured: false

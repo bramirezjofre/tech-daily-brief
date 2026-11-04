@@ -1,6 +1,6 @@
 ---
 title: "AWS libera HyperPod InstantStart: un control plane open source para operar clusters con agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-05T16:00:00Z
 slug: aws-hyperpod-instantstart-control-plane-open-source
 featured: false

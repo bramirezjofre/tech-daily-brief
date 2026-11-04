@@ -1,6 +1,6 @@
 ---
 title: "GKE automatiza el storage con Dynamic Default Storage Classes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T15:00:00Z
 slug: gke-dynamic-default-storage-classes
 featured: false

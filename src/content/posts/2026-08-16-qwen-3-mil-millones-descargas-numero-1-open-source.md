@@ -1,6 +1,6 @@
 ---
 title: "Qwen cruza los 3.000 millones de descargas: Alibaba se corona rey del open source y Meta/Google quedan chicos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T04:00:00Z
 slug: qwen-3-mil-millones-descargas-numero-1-open-source
 featured: false

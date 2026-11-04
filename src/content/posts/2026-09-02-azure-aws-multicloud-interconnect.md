@@ -1,6 +1,6 @@
 ---
 title: "Microsoft y AWS se dan la mano: Azure Multicloud Interconnect simplifica la conexión privada entre nubes"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-02T22:00:00Z
 slug: azure-aws-multicloud-interconnect
 featured: false

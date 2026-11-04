@@ -1,6 +1,6 @@
 ---
 title: "OpenAI habría reducido el objetivo de su nueva ronda de financiación"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-31T16:12:55Z
 slug: openai-ronda-financiacion
 featured: false

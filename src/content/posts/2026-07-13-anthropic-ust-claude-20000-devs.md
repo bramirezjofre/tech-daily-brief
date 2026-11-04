@@ -1,6 +1,6 @@
 ---
 title: "Anthropic pisa fuerte en enterprise: UST entrenará a 20.000 devs en Claude"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-13T10:00:00Z
 slug: anthropic-ust-claude-20000-devs
 featured: false

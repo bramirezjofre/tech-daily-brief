@@ -1,6 +1,6 @@
 ---
 title: "Alibaba Cloud aterriza en Brasil: su primera región de Sudamérica con dos data centers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-02T22:00:00Z
 slug: alibaba-cloud-region-brasil-sudamerica
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "NVIDIA y Palantir arman un stack de IA soberana para cadenas de suministro (empezando por la propia NVIDIA)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-10T15:00:00Z
 slug: nvidia-palantir-ia-soberana-supply-chain
 featured: false

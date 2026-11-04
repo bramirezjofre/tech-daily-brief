@@ -1,6 +1,6 @@
 ---
 title: "OpenAI actualiza GPT-5.6 Sol con menos errores y chats ilimitados gratis con Luna"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T10:00:00Z
 slug: gpt-5-6-sol-luna-openai-update
 featured: false

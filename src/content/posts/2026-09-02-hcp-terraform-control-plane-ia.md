@@ -1,6 +1,6 @@
 ---
 title: "HCP Terraform se posiciona como el control plane de la infraestructura manejada por IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-02T10:00:00Z
 slug: hcp-terraform-control-plane-ia
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "AWS le pide a sus propios ingenieros apagar servidores: la demanda IA los está ahogando"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T10:00:00Z
 slug: aws-pide-ingenieros-apagar-servidores
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Cursor lanza Origin y le pisa el talón a GitHub: hosting de código nativo para agentes (y GitHub se cayó 6 horas el mismo día)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-19T04:05:00Z
 slug: cursor-origin-code-hosting-github-rival
 featured: false

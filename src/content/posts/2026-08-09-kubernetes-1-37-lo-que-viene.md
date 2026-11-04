@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes 1.37 llega el 26 de agosto: Metrics API GA, pods con recursos compartidos y certificados nativos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T12:00:00Z
 slug: kubernetes-1-37-lo-que-viene
 featured: false

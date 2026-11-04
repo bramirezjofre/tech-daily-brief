@@ -1,6 +1,6 @@
 ---
 title: "AWS retoola Security Hub con protección de IA y monitoreo multicloud"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T16:00:00Z
 slug: aws-security-hub-ia-multicloud
 featured: false

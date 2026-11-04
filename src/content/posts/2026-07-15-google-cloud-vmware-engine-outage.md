@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud VMware Engine sufre outage multi-región por config update"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-15T16:00:00Z
 slug: google-cloud-vmware-engine-outage
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud se disparó 82% en Q2 2026: US$24.8B gracias a la IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T04:01:00Z
 slug: google-cloud-q2-2026-82pct-ai
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Oracle lanza AI Database Operator para Kubernetes v2.2.0 + alianza con Red Hat"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-13T04:00:00Z
 slug: oracle-ai-database-operator-kubernetes-v2-red-hat
 featured: false

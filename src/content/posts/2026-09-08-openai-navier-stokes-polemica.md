@@ -1,6 +1,6 @@
 ---
 title: "OpenAI dice que 'resolvió' Navier-Stokes, pero los matemáticos acusan carrera con ventaja"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T21:00:00Z
 slug: openai-navier-stokes-polemica
 featured: false

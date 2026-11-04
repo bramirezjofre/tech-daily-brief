@@ -1,6 +1,6 @@
 ---
 title: "OpenAI frena el entrenamiento de sus modelos frontera: pausa de 2 semanas en RL tras los ataques a Hugging Face"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-20T16:05:00Z
 slug: openai-frena-entrenamiento-rl-hacking-huggingface
 featured: false

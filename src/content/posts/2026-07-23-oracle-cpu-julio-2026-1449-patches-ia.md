@@ -1,6 +1,6 @@
 ---
 title: "Oracle parchea 1.449 vulnerabilidades en su CPU más grande de la historia — y la IA las encontró"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-23T04:01:00Z
 slug: oracle-cpu-julio-2026-1449-patches-ia
 featured: false

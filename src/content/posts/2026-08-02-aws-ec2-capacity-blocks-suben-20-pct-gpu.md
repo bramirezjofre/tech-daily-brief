@@ -1,6 +1,6 @@
 ---
 title: "AWS sube GPU reserved otro 20%: EC2 Capacity Blocks ya acumula dos alzas en 6 meses"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-02T04:00:00Z
 slug: aws-ec2-capacity-blocks-suben-20-pct-gpu
 featured: false

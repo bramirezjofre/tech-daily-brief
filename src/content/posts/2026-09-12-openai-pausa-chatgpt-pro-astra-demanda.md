@@ -1,6 +1,6 @@
 ---
 title: "OpenAI pausa las suscripciones nuevas de ChatGPT Pro ($200) por la demanda de GPT-6 Astra"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T15:00:00Z
 slug: openai-pausa-chatgpt-pro-astra-demanda
 featured: false

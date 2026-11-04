@@ -1,6 +1,6 @@
 ---
 title: "Dos exejecutivos de Google levantan 11,3 millones de dólares para invertir en startups de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-30T12:00:00Z
 slug: bag-ventures-fondo-startups-ia
 featured: false

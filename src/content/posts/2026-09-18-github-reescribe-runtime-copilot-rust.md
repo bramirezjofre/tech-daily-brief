@@ -1,6 +1,6 @@
 ---
 title: "GitHub reescribió el runtime de Copilot en Rust usando los agentes del propio Copilot"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-18T09:00:00Z
 slug: github-reescribe-runtime-copilot-rust
 featured: false

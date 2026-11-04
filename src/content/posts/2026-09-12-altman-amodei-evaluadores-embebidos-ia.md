@@ -1,6 +1,6 @@
 ---
 title: "Altman y Amodei se comprometen a 'evaluadores embebidos' dentro de sus labs de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-12T22:00:00Z
 slug: altman-amodei-evaluadores-embebidos-ia
 featured: false

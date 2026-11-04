@@ -1,6 +1,6 @@
 ---
 title: "Anima Anandkumar lanza Accelerated Understanding: IA para física sin Transformers"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-01T04:00:00Z
 slug: accelerated-understanding-fisica-ai-neural-operators
 featured: false

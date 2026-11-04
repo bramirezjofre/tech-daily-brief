@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare suma observabilidad y guardrails a Browser Run"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-20T15:00:00Z
 slug: cloudflare-browser-run-observabilidad-session-recordings
 featured: false

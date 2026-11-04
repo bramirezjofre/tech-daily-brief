@@ -1,6 +1,6 @@
 ---
 title: "Karmada se gradúa en la CNCF: la orquestación multi-cluster de Kubernetes llega a madurez de producción"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-08T03:00:00Z
 slug: karmada-cncf-graduacion
 featured: false

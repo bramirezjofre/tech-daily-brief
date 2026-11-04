@@ -1,6 +1,6 @@
 ---
 title: "OpenAI Codex llega a 8M de usuarios y lanza su primer hardware: el Codex Micro"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T04:00:00Z
 slug: openai-codex-8m-usuarios-micro-macro-pad
 featured: false

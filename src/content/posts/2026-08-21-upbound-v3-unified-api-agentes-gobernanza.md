@@ -1,6 +1,6 @@
 ---
 title: "Upbound V3: una sola API para gobernar toda tu infra… y a los agentes de IA que la operan"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-21T10:05:00Z
 slug: upbound-v3-unified-api-agentes-gobernanza
 featured: false

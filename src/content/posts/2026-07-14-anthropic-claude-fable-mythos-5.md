@@ -1,6 +1,6 @@
 ---
 title: "Anthropic sube la vara con Claude Fable 5 y Mythos 5 para workflows agentic"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-14T00:00:00Z
 slug: anthropic-claude-fable-mythos-5
 featured: false

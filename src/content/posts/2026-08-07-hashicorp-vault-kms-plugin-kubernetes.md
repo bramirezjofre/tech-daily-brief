@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes + HashiCorp Vault: nuevo plugin oficial KMS simplifica el manejo de secretos"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-07T16:00:00Z
 slug: hashicorp-vault-kms-plugin-kubernetes
 featured: false

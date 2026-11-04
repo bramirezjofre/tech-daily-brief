@@ -1,6 +1,6 @@
 ---
 title: "Google abre HEIR: inferencia de IA sobre datos encriptados a un clic de distancia"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-23T22:05:00Z
 slug: google-heir-ia-privada-encriptacion-homomorfica
 featured: false

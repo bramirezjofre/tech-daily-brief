@@ -1,6 +1,6 @@
 ---
 title: "AWS lanza Agent Toolkit para darle llaves de infraestructura a tus agentes IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-30T18:00:00Z
 slug: aws-agent-toolkit-mcp
 featured: false

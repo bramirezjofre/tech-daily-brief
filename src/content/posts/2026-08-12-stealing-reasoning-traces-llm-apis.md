@@ -1,6 +1,6 @@
 ---
 title: "Robando los pensamientos ocultos de GPT-5.6, Claude Opus 4.8 y Gemini 3: la vulnerabilidad que rompe el chain-of-thought cifrado"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-12T10:00:00Z
 slug: stealing-reasoning-traces-llm-apis
 featured: false

@@ -1,6 +1,6 @@
 ---
 title: "Google presenta Gemini 4 Carbon con foco en ciberseguridad"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-10-28T20:03:00Z
 slug: google-gemini-4-carbon-ciberseguridad
 featured: false

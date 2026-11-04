@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare lanza Precursor: detección de bots que vigila toda la sesión, no solo la puerta de entrada"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-26T18:10:00Z
 slug: cloudflare-precursor-deteccion-bots-sesion-completa
 featured: false

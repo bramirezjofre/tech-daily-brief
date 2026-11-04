@@ -1,6 +1,6 @@
 ---
 title: "Google AX se toma Hacker News: el runtime de agentes que decide tu factura de IA"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-22T09:00:00Z
 slug: google-ax-agent-executor-runtime-open-source
 featured: false

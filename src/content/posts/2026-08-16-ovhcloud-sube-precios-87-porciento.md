@@ -1,6 +1,6 @@
 ---
 title: "OVHcloud sube precios de servidores dedicados hasta 87%: el boom de la IA llega a tu factura"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-16T16:15:00Z
 slug: ovhcloud-sube-precios-87-porciento
 featured: false

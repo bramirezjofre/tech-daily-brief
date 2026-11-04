@@ -1,6 +1,6 @@
 ---
 title: "Aranya levanta US$11M para desplegar clústeres GPU bare-metal en 48 horas usando clusterdOS (Kubernetes)"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-06T21:00:00Z
 slug: aranya-11m-clusterdos-gpu-kubernetes
 featured: false

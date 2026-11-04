@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes: Gateway API v1.6.0 llega a estable con TCP y UDP"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-06T10:00:00Z
 slug: gateway-api-v1-6-0-estable
 featured: false

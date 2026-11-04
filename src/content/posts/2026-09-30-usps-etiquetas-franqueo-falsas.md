@@ -1,6 +1,6 @@
 ---
 title: "Cierran un sitio que habría vendido más de cinco millones de etiquetas postales falsas"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-09-29T19:30:17Z
 slug: usps-etiquetas-franqueo-falsas
 featured: false

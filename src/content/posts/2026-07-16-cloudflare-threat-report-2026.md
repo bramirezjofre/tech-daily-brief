@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Threat Report 2026: DDoS récord de 31.4 Tbps, token theft y la industrialización del cibercrime"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-07-16T22:00:00Z
 slug: cloudflare-threat-report-2026
 featured: false

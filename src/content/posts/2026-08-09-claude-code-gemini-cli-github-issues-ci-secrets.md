@@ -1,6 +1,6 @@
 ---
 title: "Un GitHub Issue basta: Claude Code y Gemini CLI permiten robar secrets de CI sin autenticación"
-author: Carlos
+author: Bramirezj
 pubDatetime: 2026-08-09T22:00:00Z
 slug: claude-code-gemini-cli-github-issues-ci-secrets
 featured: false
