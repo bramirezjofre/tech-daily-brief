@@ -29,7 +29,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/bramirezjofre" },
-    { name: "x",        url: "https://x.com" },
+    { name: "x",        url: "https://x.com/brjofre" },
     { name: "linkedin", url: "https://www.linkedin.com/in/bernardino-ramirez" },
     { name: "mail",     url: "mailto:bramirezj@gmail.com" },
   ],
