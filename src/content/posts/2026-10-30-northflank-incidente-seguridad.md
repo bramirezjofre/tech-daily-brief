@@ -10,7 +10,9 @@ tags:
   - Ciberseguridad
   - Cloud
 description: "Northflank mantiene un incidente de seguridad activo y recomienda asumir comprometidas las variables de entorno, credenciales y secretos"
+ogImage: "../../assets/images/northflank-incidente-seguridad-cover.png"
 ---
+![Imagen de referencia](../../assets/images/northflank-incidente-seguridad-cover.png)
 
 La página oficial de estado de Northflank mantiene publicado un incidente denominado «Security incident», clasificado como una interrupción mayor. El aviso es la fuente primaria enlazada por el feed y continúa visible al momento de esta revisión.
 

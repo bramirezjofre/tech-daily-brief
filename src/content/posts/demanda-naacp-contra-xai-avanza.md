@@ -10,7 +10,9 @@ tags:
   - Seguridad
   - Tecnologia
 description: "Un juez permite avanzar una demanda de la NAACP que acusa a xAI de incumplir la legislación estadounidense sobre contaminación"
+ogImage: "../../assets/images/demanda-naacp-contra-xai-avanza-cover.png"
 ---
+![Imagen de referencia](../../assets/images/demanda-naacp-contra-xai-avanza-cover.png)
 
 Una demanda presentada por la NAACP contra xAI, la compañía de inteligencia artificial propiedad de SpaceX, podrá continuar su tramitación. TechCrunch informa que la organización acusa a la empresa de infringir la Clean Air Act por la contaminación asociada con su centro de datos.
 

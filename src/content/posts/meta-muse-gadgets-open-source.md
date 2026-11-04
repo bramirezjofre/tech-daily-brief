@@ -10,7 +10,9 @@ tags:
   - Open Source
   - Hardware
 description: "Meta permite ejecutar Muse en pantallas, Raspberry Pi y placas ESP32 mediante un SDK abierto para construir dispositivos conectados."
+ogImage: "../../assets/images/meta-muse-gadgets-open-source-cover.png"
 ---
+![Imagen de referencia](../../assets/images/meta-muse-gadgets-open-source-cover.png)
 
 Meta abrió el código necesario para construir dispositivos propios que utilicen Muse, su nuevo agente de inteligencia artificial. La propuesta permite conectar el sistema con pantallas, botones, sensores y actuadores mediante placas ESP32, Raspberry Pi y otros componentes disponibles en el mercado.
 

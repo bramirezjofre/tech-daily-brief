@@ -10,7 +10,9 @@ tags:
   - Startups
   - Fintech
 description: "Evertrue Capital anuncia un fondo inicial de 17 millones de dólares para respaldar startups europeas en inteligencia artificial y fintech"
+ogImage: "../../assets/images/fondo-evertrue-capital-impulsa-startups-ia-fintech-europa-cover.png"
 ---
+![Imagen de referencia](../../assets/images/fondo-evertrue-capital-impulsa-startups-ia-fintech-europa-cover.png)
 
 Evertrue Capital anunció un fondo inicial de 17 millones de dólares para invertir en compañías europeas en etapas tempranas, con foco en inteligencia artificial y fintech. La noticia, reportada por TechCrunch, sitúa a Yvonne Bajela al frente de una nueva fuente de capital para equipos que todavía están construyendo sus productos y modelos de negocio.
 
