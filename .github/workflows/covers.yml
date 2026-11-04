@@ -2,14 +2,9 @@ name: Generate cover images
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "src/content/posts/**"
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 concurrency:
   group: "covers-${{ github.ref }}"
@@ -17,7 +12,7 @@ concurrency:
 
 jobs:
   covers:
-    name: Build site, export covers, open PR
+    name: Build site and export covers
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -54,31 +49,3 @@ jobs:
 
       - name: "🔁 Re-validate after patches"
         run: pnpm run build:verify
-
-      - name: "🌿 Configure git"
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: "🔀 Open PR with generated covers"
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: chore/regenerate-covers
-          delete-branch: true
-          commit-message: "chore(images): regenerate cover for posts lacking ogImage"
-          title: "chore(images): regenerate covers"
-          body: |
-            Pipeline automático `Generate cover images`.
-
-            - Construye el sitio para que `satori` genere `dist/posts/<slug>/index.png`.
-            - Ejecuta `scripts/export-covers.mjs` para copiar cada PNG a
-              `src/assets/images/<slug>-cover.png`.
-            - Parchea cada post sin imagen con `ogImage` en el frontmatter
-              y `![Imagen de referencia]` al inicio del cuerpo.
-
-            No se ha fusionado a `main`: revisar y mergear cuando se quiera
-            desplegar las nuevas portadas.
-          add-paths: |
-            src/assets/images/*-cover.png
-            src/content/posts/*.md
