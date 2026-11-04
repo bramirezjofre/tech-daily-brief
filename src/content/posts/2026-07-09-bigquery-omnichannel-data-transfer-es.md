@@ -1,7 +1,7 @@
 ---
 title: "BigQuery elimina barreras: Transferencia nativa desde Oracle, AWS y Azure hacia Iceberg"
 pubDatetime: 2026-07-09T08:30:00Z
-author: Nauta Lab
+author: Bramirezj
 tags:
   - cloud
   - arquitectura

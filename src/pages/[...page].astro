@@ -32,9 +32,9 @@ const isFirstPage = page.currentPage === 1;
 ---
 
 <Layout
-  title={
-    isFirstPage ? undefined : `Página ${page.currentPage} · ${config.site.title}`
-  }
+  title={isFirstPage
+    ? undefined
+    : `Página ${page.currentPage} · ${config.site.title}`}
 >
   <Header />
   <main
@@ -43,19 +43,19 @@ const isFirstPage = page.currentPage === 1;
     data-home-path={homePath}
     class="app-layout pb-4"
   >
-    <h1 class="sr-only">Ping Diario</h1>
+    <h1 class="sr-only">Bitácora Tech</h1>
 
     <section class="border-border border-b pt-6 pb-5">
-      <p class="max-w-2xl text-muted-foreground">
+      <p class="text-muted-foreground max-w-2xl">
         El pulso diario del mundo Cloud Native: un resumen ágil y curado con lo
-        más relevante en{' '}
+        más relevante en{" "}
         <strong class="text-foreground">
           Kubernetes, Cloud, Observabilidad y Seguridad
         </strong>.
         <a
           target="_blank"
           href={rssUrl}
-          class="ms-2 inline-flex align-middle text-accent"
+          class="text-accent ms-2 inline-flex align-middle"
           aria-label="RSS Feed"
           title="RSS Feed"
         >
@@ -79,20 +79,13 @@ const isFirstPage = page.currentPage === 1;
             <h2 class="text-xl font-semibold tracking-tight">
               {isFirstPage ? "Últimas noticias" : "Más noticias"}
             </h2>
-            {
-              isFirstPage && (
-                <a
-                  href={archivePath}
-                  class="text-sm text-accent hover:underline"
-                >
-                  Ver archivo completo →
-                </a>
-              )
-            }
+            {isFirstPage && (
+              <a href={archivePath} class="text-accent text-sm hover:underline">
+                Ver archivo completo →
+              </a>
+            )}
           </div>
-          <ul
-            class="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
-          >
+          <ul class="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {gridPosts.map(post => (
               <NewsCard post={post} />
             ))}

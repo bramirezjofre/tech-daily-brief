@@ -1,10 +1,15 @@
 # Changelog
 
-Changelog del sitio **Ping Diario**. Formato basado en [Keep a Changelog](https://keepachangelog.com/es/1.1.0/) y [Versionado Semántico](https://semver.org/lang/es/).
+Changelog del sitio **Bitácora Tech**. Formato basado en [Keep a Changelog](https://keepachangelog.com/es/1.1.0/) y [Versionado Semántico](https://semver.org/lang/es/).
 
 La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git. La versión de `package.json` corresponde al template [AstroPaper](https://github.com/satnaing/astro-paper) (v6.1.0) y no se modifica.
 
 ## [Unreleased]
+
+### Changed
+
+- **Marca:** el sitio se renombra de "Ping Diario" a **Bitácora Tech**. El título se define en `astro-paper.config.ts` y se refleja en los títulos de página, el RSS y las imágenes Open Graph generadas por Satori.
+- **Pie de página:** la atribución pasa de "Nauta Lab" a "Bramirezj", con el texto "Un sitio de Bramirezj, incubador de tecnología e ideas." y "Todos los derechos reservados." en una línea propia.
 
 ## [1.2.1] - 2026-09-03
 

@@ -77,7 +77,7 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: ping-diario:ci
+          tags: bitacora-tech:ci
           load: true
           cache-from: type=gha
           cache-to: type=gha,mode=max
@@ -85,13 +85,13 @@ jobs:
       - name: "🔍 Scan image for forbidden paths"
         run: |
           set -e
-          docker create --name ping-diario-scan ping-diario:ci
-          trap 'docker rm -f ping-diario-scan' EXIT
+          docker create --name bitacora-tech-scan bitacora-tech:ci
+          trap 'docker rm -f bitacora-tech-scan' EXIT
           echo "::group::Image contents under /usr/share/nginx/html"
-          docker cp ping-diario-scan:/usr/share/nginx/html - | tar -t | head -50
+          docker cp bitacora-tech-scan:/usr/share/nginx/html - | tar -t | head -50
           echo "::endgroup::"
           echo "Checking for forbidden paths inside image..."
-          docker cp ping-diario-scan:/usr/share/nginx/html - \
+          docker cp bitacora-tech-scan:/usr/share/nginx/html - \
             | tar -t \
             | grep -E '(^|/)(\.git|\.env|src/|content/|node_modules/|\.md$|\.mdx$|\.map$)' \
             && { echo "✗ Forbidden path detected in image"; exit 1; } \
@@ -105,16 +105,16 @@ jobs:
           # its PID under /var/run and cache under /var/cache/nginx. Do NOT
           # pass --rm so we can inspect logs if the container exits early.
           docker run -d \
-            --name ping-diario-smoke \
+            --name bitacora-tech-smoke \
             -p 8080:8080 \
             --read-only \
             --tmpfs /var/cache/nginx:size=32m,uid=101,gid=101,mode=1777 \
             --tmpfs /var/run:size=4m,uid=101,gid=101,mode=1777 \
             --tmpfs /tmp:size=16m,uid=101,gid=101,mode=1777 \
-            ping-diario:ci
+            bitacora-tech:ci
 
           cleanup() {
-            docker rm -f ping-diario-smoke >/dev/null 2>&1 || true
+            docker rm -f bitacora-tech-smoke >/dev/null 2>&1 || true
           }
           trap cleanup EXIT
 
@@ -131,11 +131,11 @@ jobs:
 
           if [ "$ok" -ne 1 ]; then
             echo "::group::Container status"
-            docker ps -a --filter name=ping-diario-smoke
+            docker ps -a --filter name=bitacora-tech-smoke
             echo "::group::Container logs"
-            docker logs ping-diario-smoke || true
+            docker logs bitacora-tech-smoke || true
             echo "::group::Container inspect"
-            docker inspect --format '{{json .State}}' ping-diario-smoke || true
+            docker inspect --format '{{json .State}}' bitacora-tech-smoke || true
             echo "::endgroup::"
             echo "✗ Smoke test: curl to http://127.0.0.1:8080/ never succeeded."
             exit 1
@@ -162,9 +162,9 @@ jobs:
         run: |
           set -e
           short_sha="${GITHUB_SHA::7}"
-          docker tag ping-diario:ci "ghcr.io/bramirezjofre/tech-daily-brief:latest"
-          docker tag ping-diario:ci "ghcr.io/bramirezjofre/tech-daily-brief:sha-${short_sha}"
-          echo "Tagged ping-diario:ci as latest and sha-${short_sha}"
+          docker tag bitacora-tech:ci "ghcr.io/bramirezjofre/tech-daily-brief:latest"
+          docker tag bitacora-tech:ci "ghcr.io/bramirezjofre/tech-daily-brief:sha-${short_sha}"
+          echo "Tagged bitacora-tech:ci as latest and sha-${short_sha}"
 
       - name: "🚀 Push image to GHCR"
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'

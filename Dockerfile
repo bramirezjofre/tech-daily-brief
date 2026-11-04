@@ -71,6 +71,6 @@ HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
 USER nginx
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
 
-LABEL org.opencontainers.image.title="ping-diario" \
+LABEL org.opencontainers.image.title="bitacora-tech" \
       org.opencontainers.image.description="Static Astro blog served by Nginx" \
-      org.opencontainers.image.source="https://github.com/cjcr313/tech-daily-brief"
+      org.opencontainers.image.source="https://github.com/bramirezjofre/tech-daily-brief"

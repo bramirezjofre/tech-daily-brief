@@ -13,7 +13,6 @@ description: "MetaX Integrated Circuits, diseñador shanghaiense de GPUs de alto
 
 ![MetaX, el fabricante chino de GPUs de US$48B, presenta su IPO en Hong Kong](../../assets/images/2026-07-25-metax-gpu-china-ipo-hong-kong-48b.jpg)
 
-
 Mientras el mundo mira los acuerdos Samsung-SK Hynix-NVIDIA, en el otro lado de la cuerda está **MetaX Integrated Circuits**, uno de los diseñadores de GPUs en los que China confía para **aflojar el control de NVIDIA** sobre sus data centers.
 
 ## Qué sabemos
@@ -26,7 +25,7 @@ Mientras el mundo mira los acuerdos Samsung-SK Hynix-NVIDIA, en el otro lado de 
 
 ## Contexto: la carrera por GPUs chinas
 
-MetaX fue fundada en **2020** por William Chen y Eagle Sun. Es parte de la estrategia china de **soberanía en GPUs de alto rendimiento** — un tema que hemos cubierto extensamente en Ping Diario:
+MetaX fue fundada en **2020** por William Chen y Eagle Sun. Es parte de la estrategia china de **soberanía en GPUs de alto rendimiento** — un tema que hemos cubierto extensamente en Bitácora Tech:
 
 - Las restricciones de exportación de EE.UU. dejaron a China sin acceso a GPUs NVIDIA top de línea
 - El gobierno chino ha bombardeado capital a startups de GPUs domésticas
@@ -42,4 +41,4 @@ MetaX fue fundada en **2020** por William Chen y Eagle Sun. Es parte de la estra
 
 El IPO de MetaX no es solo una movida financiera — es otro paso en la **desacoplación tecnológica** entre EE.UU. y China en el ámbito de IA. Y mientras los estadounidenses aseguran HBM con Corea del Sur, los chinos aseguran GPUs con empresas como MetaX.
 
-*Fuentes: SCMP, Unite.ai, Caproasia, AI Weekly*
+_Fuentes: SCMP, Unite.ai, Caproasia, AI Weekly_

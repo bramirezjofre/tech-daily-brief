@@ -1,7 +1,7 @@
 ---
 title: "Regulación Financiera 2026: AWS, Azure y Google Cloud designados como 'Terceros Críticos' en el Reino Unido"
 pubDatetime: 2026-07-11T10:00:00Z
-author: Nauta Lab
+author: Bramirezj
 tags:
   - cloud
   - seguridad

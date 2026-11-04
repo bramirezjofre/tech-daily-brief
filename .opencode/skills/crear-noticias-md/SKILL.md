@@ -1,6 +1,6 @@
 ---
 name: crear-noticias-md
-description: Use ONLY when creating Spanish news Markdown files (src/content/posts/*.md) for the Astro + AstroPaper Ping Diario (Tech Daily Brief) site from the remote feed at https://techdailybrief.online/api/stories. Triggers on requests like "crea una noticia", "genera un artículo desde techdailybrief", "redacta un post en español sobre <tema>", or when the user provides a story id/category/sourceLink from that API and wants a translated Spanish editorial post.
+description: Use ONLY when creating Spanish news Markdown files (src/content/posts/*.md) for the Astro + AstroPaper Bitácora Tech (Tech Daily Brief) site from the remote feed at https://techdailybrief.online/api/stories. Triggers on requests like "crea una noticia", "genera un artículo desde techdailybrief", "redacta un post en español sobre <tema>", or when the user provides a story id/category/sourceLink from that API and wants a translated Spanish editorial post.
 ---
 
 # Crear noticias en español desde techdailybrief.online

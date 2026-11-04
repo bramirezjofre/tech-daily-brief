@@ -1,4 +1,4 @@
-# Línea Editorial - Ping Diario (Nauta Lab)
+# Línea Editorial - Bitácora Tech (Bramirezj)
 
 ## 1. Idioma y Tono
 - **Idioma Principal:** Español latinoamericano neutral. Debe ser completamente legible y natural para cualquier lector desde México hasta la Patagonia, sin modismos locales (ni chilenismos, ni voseo argentino, ni jergas de España).

@@ -1,7 +1,7 @@
 ---
 title: "El 'Problema de los 4 Cuerpos' en SRE: El desafío de las operaciones autónomas"
 pubDatetime: 2026-07-10T14:15:00Z
-author: Nauta Lab
+author: Bramirezj
 tags:
   - devops
   - observabilidad

@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://cjcr313.github.io",
-    title: "Ping Diario",
+    url: "https://blog.bramirezj.dev",
+    title: "Bitácora Tech",
     description: "Un resumen diario de lo más relevante en tecnología, Kubernetes, Nube y Seguridad.",
-    author: "Nauta Lab",
-    profile: "https://github.com/cjcr313",
+    author: "Bramirezj",
+    profile: "https://github.com/bramirezjofre",
     ogImage: "default-og.jpg",
     lang: "es",
     timezone: "America/Santiago",
@@ -28,10 +28,10 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/cjcr313" },
+    { name: "github",   url: "https://github.com/bramirezjofre" },
     { name: "x",        url: "https://x.com" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/" },
-    { name: "mail",     url: "mailto:carlos.carrasco@gmail.com" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/bernardino-ramirez" },
+    { name: "mail",     url: "mailto:bramirezj@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
