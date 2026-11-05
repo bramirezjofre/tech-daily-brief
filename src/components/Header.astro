@@ -58,7 +58,7 @@ const isActive = (path: string) => {
     >
       <button
         id="menu-btn"
-        class="focus-outline self-end p-2 lg:hidden"
+        class="focus-outline self-end flex size-11 items-center justify-center lg:hidden"
         aria-label={t.a11y.openMenu}
         aria-expanded="false"
         aria-controls="menu-items"
@@ -70,7 +70,7 @@ const isActive = (path: string) => {
       </button>
       <ul
         id="menu-items"
-        class="[&>li>a]:hover:text-accent mt-4 hidden w-full grid-cols-2 place-content-center gap-2 lg:mt-0 lg:flex lg:w-full lg:flex-wrap lg:justify-end lg:gap-x-3 lg:gap-y-2 lg:[&>li]:h-8 [&>li>a]:block [&>li>a]:px-4 [&>li>a]:py-3 [&>li>a]:text-center [&>li>a]:font-medium lg:[&>li>a]:px-1 lg:[&>li>a]:py-1"
+        class="[&>li>a]:hover:text-accent mt-2 hidden w-full grid-cols-2 place-content-center gap-1.5 lg:mt-0 lg:flex lg:w-full lg:flex-wrap lg:justify-end lg:gap-x-3 lg:gap-y-2 lg:[&>li]:h-8 [&>li>a]:flex [&>li>a]:min-h-11 [&>li>a]:items-center [&>li>a]:justify-center [&>li>a]:px-3 [&>li>a]:py-2 [&>li>a]:text-center [&>li>a]:font-medium lg:[&>li>a]:min-h-8 lg:[&>li>a]:px-1 lg:[&>li>a]:py-1"
       >
         <li class="col-span-1">
           <a
@@ -145,6 +145,18 @@ const isActive = (path: string) => {
           </a>
         </li>
         
+        <li class="nav-more col-span-2 hidden">
+          <details>
+            <summary class="flex min-h-11 cursor-pointer items-center justify-center px-3 py-2 font-medium">Más categorías</summary>
+            <ul class="mt-1 grid grid-cols-2 gap-1.5 border-t border-border pt-1">
+              <li><a href={getRelativeLocaleUrl(locale, "tags/cloud")}>Cloud</a></li>
+              <li><a href={getRelativeLocaleUrl(locale, "tags/infraestructura")}>Infraestructura</a></li>
+              <li><a href={getRelativeLocaleUrl(locale, "tags/ia")}>IA</a></li>
+              <li><a href={getRelativeLocaleUrl(locale, "tags/devops")}>DevOps</a></li>
+              <li><a href={getRelativeLocaleUrl(locale, "tags/arquitectura")}>Arquitectura</a></li>
+            </ul>
+          </details>
+        </li>
         {
           features.search !== false && (
             <li class="col-span-1 flex items-center justify-center">

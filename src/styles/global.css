@@ -6,6 +6,10 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 @layer base {
+  html {
+    overflow-x: clip;
+  }
+
   * {
     @apply border-border outline-accent/75;
     scrollbar-width: auto;
@@ -31,6 +35,44 @@
 
 @utility active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-8;
+}
+
+@layer components {
+  .featured-hero {
+    @apply border-border bg-muted/40 grid gap-6 overflow-hidden rounded-[2rem] border p-5 sm:p-8 md:grid-cols-[1.08fr_0.92fr] md:p-10;
+  }
+  .featured-hero__copy {
+    @apply flex flex-col justify-center;
+  }
+  .featured-hero__media {
+    @apply w-full max-w-full min-w-0 border border-white/15 bg-slate-950 shadow-xl;
+    min-height: 16rem;
+  }
+  @media (max-width: 767px) {
+    .featured-hero__media {
+      min-height: 0;
+    }
+  }
+  .news-card {
+    @apply bg-background;
+  }
+  @media (max-width: 1023px) {
+    #menu-items > li:nth-child(5),
+    #menu-items > li:nth-child(6),
+    #menu-items > li:nth-child(7),
+    #menu-items > li:nth-child(8),
+    #menu-items > li:nth-child(9) {
+      display: none;
+    }
+    #menu-items .nav-more {
+      display: block;
+    }
+  }
+  @media (min-width: 1024px) {
+    #menu-items .nav-more {
+      display: none;
+    }
+  }
 }
 
 :target {
