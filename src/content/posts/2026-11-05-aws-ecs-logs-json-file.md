@@ -10,7 +10,10 @@ tags:
   - DevOps
   - AWS
 description: "ECS Managed Instances incorpora soporte para json-file y volúmenes de logs en Managed Daemons, sin bind mounts del host ni privilegios root"
+ogImage: "../../assets/images/aws-ecs-logs-json-file-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/aws-ecs-logs-json-file-cover.png)
 
 Amazon Elastic Container Service incorporó soporte para que los contenedores de aplicaciones en **ECS Managed Instances** escriban logs con el driver `json-file`. La actualización también añade volúmenes de logs para **ECS Managed Daemons**, lo que permite que un daemon recopile los archivos y los envíe al agente de observabilidad o destino elegido.
 
