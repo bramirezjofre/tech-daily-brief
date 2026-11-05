@@ -43,14 +43,14 @@ const coverGradients: Record<string, string> = {
 <li class="min-w-0">
   <a
     href={getPostUrl(post.id, post.filePath, Astro.currentLocale)}
-    class="group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-muted/40 transition-all hover:-translate-y-0.5 hover:border-accent hover:shadow-lg"
+    class="news-card group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-muted/40 transition-all hover:-translate-y-0.5 hover:border-accent hover:shadow-lg"
   >
     <div class="relative aspect-video overflow-hidden">
       {
         cover ? (
           <img
             src={cover}
-            alt=""
+            alt={`Portada: ${data.title}`}
             loading="lazy"
             decoding="async"
             class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -69,7 +69,7 @@ const coverGradients: Record<string, string> = {
         )
       }
     </div>
-    <div class="flex flex-1 flex-col gap-2 p-4">
+    <div class="flex flex-1 flex-col gap-2 p-5">
       <span
         class:list={[
           "self-start rounded-full border px-2 py-0.5 text-[11px] font-semibold tracking-wider uppercase",
@@ -86,7 +86,7 @@ const coverGradients: Record<string, string> = {
       </p>
       <div class="mt-auto flex items-center justify-between pt-2">
         <Datetime {...data} />
-        <span class="text-xs font-semibold text-accent">Leer →</span>
+        <span class="inline-flex min-h-11 items-center text-xs font-semibold text-accent">Leer →</span>
       </div>
     </div>
   </a>
