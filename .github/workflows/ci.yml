@@ -188,3 +188,41 @@ jobs:
             "https://api.github.com/user/packages/container/tech-daily-brief" \
             -d '{"name":"tech-daily-brief","visibility":"public"}' || true)
           echo "PUT /visibility returned: ${http_code:-<no-response>}"
+
+      - name: "🚀 Deploy latest image to server"
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          SSH_KEY: ${{ vars.SSH_KEY }}
+          USER_SERVER_SSH: ${{ vars.USER_SERVER_SSH }}
+        run: |
+          set -euo pipefail
+
+          : "${SSH_KEY:?Repository variable SSH_KEY is required}"
+          : "${USER_SERVER_SSH:?Repository variable USER_SERVER_SSH is required}"
+
+          project_name="${GITHUB_REPOSITORY##*/}"
+          if [[ ! "$project_name" =~ ^[A-Za-z0-9._-]+$ ]]; then
+            echo "Invalid project name: $project_name" >&2
+            exit 1
+          fi
+
+          deploy_key_path="$RUNNER_TEMP/tech-daily-brief-deploy-key"
+          known_hosts_path="$RUNNER_TEMP/tech-daily-brief-known-hosts"
+          printf '%s\n' "$SSH_KEY" > "$deploy_key_path"
+          chmod 600 "$deploy_key_path"
+
+          remote_host="${USER_SERVER_SSH#*@}"
+          ssh-keyscan -H "$remote_host" > "$known_hosts_path"
+          ssh_options=(
+            -i "$deploy_key_path"
+            -o UserKnownHostsFile="$known_hosts_path"
+            -o StrictHostKeyChecking=yes
+          )
+
+          remote_home="$(ssh "${ssh_options[@]}" "$USER_SERVER_SSH" 'printf "%s" "$HOME"')"
+          remote_dir="$remote_home/$project_name"
+
+          ssh "${ssh_options[@]}" "$USER_SERVER_SSH" "mkdir -p '$remote_dir'"
+          scp "${ssh_options[@]}" compose.yaml "$USER_SERVER_SSH:$remote_dir/compose.yaml"
+          ssh "${ssh_options[@]}" "$USER_SERVER_SSH" \
+            "cd '$remote_dir' && docker compose --profile prod pull && docker compose --profile prod up -d --force-recreate"
