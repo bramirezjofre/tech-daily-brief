@@ -21,6 +21,52 @@ const FORBIDDEN_TOP = new Set([".git", ".env", "src", "content", "node_modules"]
 const issues = [];
 let walkCount = 0;
 
+// Newest publication date is the Satori cover candidate window. Historical
+// posts may intentionally have no cover, but a newly published batch must not
+// silently fall back to Astro's gradient.
+function validateRecentPostCovers() {
+  const postsDir = resolve("src/content/posts");
+  if (!existsSync(postsDir)) return;
+
+  const posts = readdirSync(postsDir).filter((entry) => entry.endsWith(".md"));
+  const parsed = posts.map((entry) => {
+    const source = readFileSync(join(postsDir, entry), "utf8");
+    const date = source.match(/^pubDatetime:\s*([^\n]+)/m)?.[1]?.trim();
+    return { entry, source, date: date ? new Date(date) : null };
+  });
+  const validDates = parsed
+    .map(({ date }) => date)
+    .filter((date) => date && !Number.isNaN(date.getTime()));
+  if (validDates.length === 0) return;
+
+  const newestDate = new Date(Math.max(...validDates.map((date) => date.getTime())));
+  const newestDay = newestDate.toISOString().slice(0, 10);
+  for (const { entry, source, date } of parsed) {
+    if (!date || date.toISOString().slice(0, 10) !== newestDay) continue;
+
+    const slug = source.match(/^slug:\s*["']?([^"'\n]+)["']?\s*$/m)?.[1]?.trim();
+    const ogImage = source.match(/^ogImage:\s*["']?([^"'\n]+)["']?\s*$/m)?.[1]?.trim();
+    const bodyImage = source.match(/!\[[^\]]*\]\(([^)]+)\)/)?.[1]?.trim();
+    if (!ogImage || !bodyImage) {
+      issues.push(`recent post missing cover metadata/image (${newestDay}): ${entry}`);
+      continue;
+    }
+    if (slug && !ogImage.includes(`${slug}-cover`)) {
+      issues.push(`recent post ogImage does not reference its slug cover: ${entry}`);
+    }
+    const ogAsset = resolve(postsDir, ogImage);
+    if (!existsSync(ogAsset)) {
+      issues.push(`recent post ogImage asset missing: ${entry} -> ${ogImage}`);
+    }
+    const bodyAsset = resolve(postsDir, bodyImage);
+    if (!existsSync(bodyAsset)) {
+      issues.push(`recent post body image asset missing: ${entry} -> ${bodyImage}`);
+    }
+  }
+}
+
+validateRecentPostCovers();
+
 function walk(dir, prefix = "") {
   const entries = readdirSync(dir);
   for (const entry of entries) {

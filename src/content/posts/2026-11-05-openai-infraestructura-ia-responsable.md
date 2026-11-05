@@ -10,7 +10,10 @@ tags:
   - Cloud
   - Infraestructura
 description: "OpenAI publica un compromiso comunitario y un plan de políticas para sus futuros campus de cómputo, con foco en energía, agua, ruido y empleo local"
+ogImage: "../../assets/images/openai-infraestructura-ia-responsable-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/openai-infraestructura-ia-responsable-cover.png)
 
 OpenAI publicó un **National Community Compact** y un **Compute Campus Policy Blueprint** para definir cómo pretende desarrollar futuros campus de cómputo que posea y opere. La propuesta llega mientras la expansión de la infraestructura de IA aumenta la presión sobre redes eléctricas, agua, suelo y comunidades locales.
 

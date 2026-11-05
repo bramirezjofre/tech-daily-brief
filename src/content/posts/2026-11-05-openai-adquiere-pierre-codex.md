@@ -10,7 +10,10 @@ tags:
   - Programacion
   - Open Source
 description: "La adquisición llevaría a OpenAI al equipo detrás de Trees, Diffs y Code Storage, herramientas orientadas a navegar, revisar y almacenar código"
+ogImage: "../../assets/images/openai-adquiere-pierre-codex-cover.png"
 ---
+
+![Imagen de referencia](../../assets/images/openai-adquiere-pierre-codex-cover.png)
 
 OpenAI anunció que adquirirá Pierre Computer Company, la compañía detrás de **Code Storage** y de varias herramientas de código abierto para trabajar con repositorios Git. La operación busca ampliar las capacidades de Codex para construir, entender y revisar software en flujos donde los agentes trabajan en paralelo.
 
