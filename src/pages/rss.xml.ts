@@ -1,6 +1,6 @@
 import rss from "@astrojs/rss";
 import { getCollection } from "astro:content";
-import { getSortedPosts, getMainSortedPosts } from "@/utils/getSortedPosts";
+import { getMainSortedPosts } from "@/utils/getSortedPosts";
 import { getPostUrl } from "@/utils/getPostPaths";
 import config from "@/config";
 
@@ -8,7 +8,7 @@ export async function GET() {
   const posts = await getCollection("posts");
   const sortedPosts = getMainSortedPosts(posts);
 
-  return rss({
+  const response = await rss({
     title: config.site.title,
     description: config.site.description,
     site: config.site.url,
@@ -19,4 +19,7 @@ export async function GET() {
       pubDate: new Date(data.modDatetime ?? data.pubDatetime),
     })),
   });
+
+  response.headers.set("Content-Type", "application/rss+xml; charset=utf-8");
+  return response;
 }

@@ -30,6 +30,11 @@ const structuredData = {
       ...(site.profile && { url: site.profile }),
     },
   ],
+  publisher: {
+    "@type": "Organization",
+    name: site.title,
+    ...(site.profile && { url: site.profile }),
+  },
 };
 ---
 

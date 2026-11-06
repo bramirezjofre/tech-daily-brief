@@ -36,6 +36,26 @@ const isFirstPage = page.currentPage === 1;
     ? undefined
     : `Página ${page.currentPage} · ${config.site.title}`}
 >
+  {isFirstPage && (
+    <Fragment slot="head">
+      <script
+        type="application/ld+json"
+        is:inline
+        set:html={JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: config.site.title,
+          url: config.site.url,
+          description: config.site.description,
+          publisher: {
+            "@type": "Organization",
+            name: config.site.title,
+            ...(config.site.profile && { url: config.site.profile }),
+          },
+        })}
+      />
+    </Fragment>
+  )}
   <Header />
   <main
     id="main-content"
