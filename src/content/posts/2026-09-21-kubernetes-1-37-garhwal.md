@@ -2,7 +2,7 @@
 title: "Kubernetes 1.37 'Garhwal' llega con Metrics API estable y kubelet rootless en beta"
 author: Bramirezj
 pubDatetime: 2026-09-21T03:00:00Z
-slug: kubernetes-1-37-garhwal
+slug: kubernetes-1-37-garhwal-metrics-api
 featured: false
 draft: false
 tags:
@@ -19,7 +19,7 @@ La Cloud Native Computing Foundation liberó **Kubernetes 1.37, bautizado "Garhw
 ## Lo que sube a stable
 
 - **Metrics API en GA**: `metrics.k8s.io` se consolida como la vía estándar para medir salud de nodos y pods, alimentando el Horizontal Pod Autoscaler (HPA), el Vertical Pod Autoscaler (VPA) y comandos como `kubectl top`. Era una de esas APIs que todo el mundo usaba en producción pero seguía "en beta" sobre el papel.
-- **Dynamic Resource Allocation (DRA)**: tres features alcanzan stable — *Extended Resources*, *Device Taints and Tolerations* y *Resource Claim Status*. La DRA viene empujando desde hace varios releases para manejar GPUs y hardware especializado de forma más fina, clave para el boom de cargas de IA.
+- **Dynamic Resource Allocation (DRA)**: tres features alcanzan stable — _Extended Resources_, _Device Taints and Tolerations_ y _Resource Claim Status_. La DRA viene empujando desde hace varios releases para manejar GPUs y hardware especializado de forma más fina, clave para el boom de cargas de IA.
 - **Pod certificates en stable**: soporte nativo para mTLS pod a pod sin depender de herramientas externas para bootstrap de certificados. Adiós a una pieza de fricción en la comunicación segura entre servicios.
 - **Resilient watchcache initialization** en GA: antes, cuando el kube-apiserver reiniciaba o perdía conexión de caché en clústeres grandes, inundaba etcd con requests y podía tumbar el control plane. Ahora delega requests acotados y responde HTTP 429 con gracia en vez de colapsar.
 

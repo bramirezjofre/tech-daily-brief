@@ -13,6 +13,7 @@
     "sync": "astro sync",
     "astro": "astro",
     "verify:dist": "node scripts/verify-dist.mjs",
+    "verify:editorial": "node scripts/validate-editorial.mjs",
     "format:check": "prettier --check .",
     "format:diff": "node scripts/format-diff.mjs",
     "format": "prettier --write .",
