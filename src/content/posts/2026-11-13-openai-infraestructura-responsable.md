@@ -27,5 +27,5 @@ Además de latencia y costo, conviene medir rechazos, llamadas a herramientas, c
 
 ## Fuentes
 
-- [OpenAI: Safety and responsibility](https://openai.com/safety/)
-- [OpenAI: Preparedness Framework](https://openai.com/index/updating-our-preparedness-framework/)
+- [OpenAI: Safety best practices](https://platform.openai.com/docs/guides/safety-best-practices)
+- [OpenAI Evals (repositorio oficial)](https://github.com/openai/evals)
