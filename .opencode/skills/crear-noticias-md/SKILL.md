@@ -62,7 +62,9 @@ Categorías válidas del feed (no inventar otras):
   Debe indicarse la hora de inicio y el estado activo confirmado por la fuente.
 - Las **alertas urgentes** (incidentes activos, outages que afectan al
   servicio o vulnerabilidades con explotación activa) se reportan en una
-  sección separada y **no consumen ni están limitadas por el cupo de 5**.
+  sección separada del **reporte de ejecución** y **no consumen ni están
+  limitadas por el cupo de 5**. `## Alertas urgentes` no se inserta en ningún
+  `.md` individual: nunca altera su frontmatter ni su cuerpo editorial.
 - Si la ventana seleccionada contiene menos de 5 historias elegibles,
   entregar las que pasen el filtro y reportar cuántos cupos quedaron vacíos.
   **Nunca rellenar con historias débiles para llegar al número objetivo.**
@@ -90,9 +92,14 @@ Una historia es elegible solo si cumple **todas** estas condiciones:
    por ejemplo un anuncio de automoción etiquetado como
    `Artificial Intelligence` solo por aparecer junto a otros resultados.
 4. El `sourceLink` primario fue probado y arrojó un estado válido
-   (ver sección 4).
+   (ver sección 4). Para incidentes, vulnerabilidades y hechos empresariales
+   se exige enlazar la fuente primaria accesible cuando exista; si no existe o
+   no es accesible, bloquear la publicación y marcar la historia como no
+   elegible.
 5. No es duplicado temático de otra historia ya seleccionada en la misma
-   ejecución.
+   ejecución ni de un artículo existente: comparar incidente, entidades,
+   hechos y contenido, además del slug. Si describe el mismo incidente, no
+   publicar una segunda versión aunque el titular y slug sean distintos.
 
 El procedimiento concreto:
 
@@ -103,8 +110,9 @@ El procedimiento concreto:
    encaja con el blog. Eliminar las mal categorizadas.
 4. Clasificar primero las candidatas por urgencia operacional (outage/incidente
    activo o explotación activa), luego por importancia y fecha.
-5. Agrupar duplicados temáticos; conservar la versión más reciente o con
-   mejor estado de fuente.
+5. Agrupar duplicados temáticos por incidente/contenido (entidades, hechos y
+   alcance), además de comparar el slug; conservar solo la versión más
+   reciente o con mejor estado de fuente, incluso si el slug es distinto.
 6. Probar el `sourceLink` de cada candidata restante con
    `curl --max-time 30 -A 'Mozilla/5.0' -L -o /dev/null -w '%{http_code} %{url_effective}\n'`
    y registrar el código HTTP y la URL final.
@@ -162,18 +170,29 @@ Reglas adicionales:
 8. Para cada historia valida generar UN archivo `.md` siguiendo el formato
    abajo.
 
-## 6. Formato del archivo
+## 6. Formato del reporte de ejecución y de los archivos
 
-Antes de los artículos, el reporte debe incluir una sección independiente:
+`## Alertas urgentes` pertenece únicamente al reporte de ejecución que el
+agente devuelve al solicitante (mensaje, log o artefacto agregador). No es
+contenido de un artículo y no se escribe en `src/content/posts/*.md`; por
+tanto no modifica el frontmatter ni el cuerpo de ningún `.md` individual.
+El reporte debe usar exactamente este formato, una línea por alerta:
 
 ```markdown
 ## Alertas urgentes
 
 - **[INCIDENTE|VULNERABILIDAD] — estado:** activo; **inicio:** <fecha/hora UTC>;
-  **impacto:** <servicios o usuarios afectados>; **acción:** <mitigación
-  confirmada>; **Fuente:** [fuente primaria](URL canónica)
+  **impacto:** <servicios o usuarios afectados>; **acción:** <mitigación confirmada>;
+  **Fuente:** [fuente primaria](URL canónica)
 ```
 
+Si no existe mitigación confirmada por una fuente primaria, no se inventa una
+acción: escribir `**acción:** sin mitigación confirmada`. Solo se incluyen
+alertas cuya actividad esté confirmada por fuente primaria accesible. Para
+conservarlas todas fuera del cupo, identificar cada incidente/outage activo o
+vulnerabilidad con explotación activa, comprobar fuente primaria y estado,
+agrupar por incidente/contenido (no solo por slug), y anexar **todas** las
+alertas verificadas al reporte, aunque sean más de 5.
 Si no hay alertas urgentes verificadas, escribir «No hay alertas urgentes
 verificadas en esta ejecución». Esta sección no altera el número máximo de
 artículos.
