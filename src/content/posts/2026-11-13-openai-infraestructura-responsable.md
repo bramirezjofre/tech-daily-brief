@@ -10,10 +10,10 @@ tags:
   - Infraestructura
   - Seguridad
 description: "Los controles de acceso, evaluación y monitoreo deben acompañar a los modelos desde el diseño hasta la operación."
-ogImage: "../../assets/images/2026-11-13-openai-infra-cover.jpg"
+ogImage: "../../assets/images/infraestructura-ia-responsable-controles-operativos-cover.jpg"
 ---
 
-![Ilustración editorial de infraestructura para inteligencia artificial](../../assets/images/2026-11-13-openai-infra-cover.jpg)
+![Ilustración editorial de infraestructura para inteligencia artificial](../../assets/images/infraestructura-ia-responsable-controles-operativos-cover.jpg)
 
 Poner un modelo en producción no es solo elegir un endpoint y aumentar capacidad. La infraestructura de IA responsable necesita controles que permitan saber qué puede hacer un sistema, qué datos utiliza y cómo detenerlo cuando una evaluación detecta un riesgo.
 

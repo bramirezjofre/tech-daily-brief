@@ -9,10 +9,10 @@ tags:
   - Kubernetes
   - Cloud Native
 description: "La versión 1.37 de Kubernetes concentra cambios en la operación del clúster y prepara una actualización con menos sorpresas para equipos de plataforma."
-ogImage: "../../assets/images/2026-11-13-kubernetes-137-cover.jpg"
+ogImage: "../../assets/images/kubernetes-137-operaciones-cluster-cover.jpg"
 ---
 
-![Ilustración editorial de un clúster Kubernetes](../../assets/images/2026-11-13-kubernetes-137-cover.jpg)
+![Ilustración editorial de un clúster Kubernetes](../../assets/images/kubernetes-137-operaciones-cluster-cover.jpg)
 
 Kubernetes 1.37 llega con cambios que conviene revisar antes de actualizar producción. La recomendación operativa sigue siendo la misma: probar primero en un clúster de staging, revisar las notas de versión y confirmar la compatibilidad de extensiones, controladores y políticas.
 
