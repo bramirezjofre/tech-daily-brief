@@ -12,6 +12,7 @@ tags:
 description: "El agente Wave de Amplitude combina datos de producto, código y modelos de OpenAI para proponer, implementar y medir mejoras"
 ogImage: "../../assets/images/amplitude-mejora-producto-openai-en-dos-dias-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/amplitude-mejora-producto-openai-en-dos-dias-cover.png)
 
 Amplitude presentó cómo usa su agente proactivo Wave, construido principalmente sobre modelos de OpenAI, para detectar oportunidades de producto y ayudar a convertirlas en cambios desplegables. En el caso descrito por OpenAI, la empresa estima que puede llevar una mejora desde el análisis hasta el envío en uno o dos días, frente a aproximadamente un mes en su proceso anterior.

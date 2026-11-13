@@ -12,6 +12,7 @@ tags:
 description: "Notion afirma que menos del 1% de sus espacios pudo verse afectado por el incidente de Fireworks AI y recomienda rotar credenciales sensibles"
 ogImage: "../../assets/images/notion-fireworks-incidente-afecta-espacios-trabajo-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/notion-fireworks-incidente-afecta-espacios-trabajo-cover.png)
 
 Notion publicó un aviso sobre el incidente de seguridad de Fireworks AI, uno de sus proveedores. La compañía afirma que, tras investigar el caso, menos del 1% de los espacios de trabajo de Notion pudo verse afectado. El posible alcance se limita a algunas sesiones de chat con Notion AI que no podían atribuirse a una persona o a un espacio concreto.

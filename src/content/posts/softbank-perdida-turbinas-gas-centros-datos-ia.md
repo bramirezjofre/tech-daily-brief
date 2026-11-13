@@ -4,7 +4,7 @@ author: Bramirezj
 pubDatetime: 2026-11-12T17:00:52Z
 slug: softbank-perdida-turbinas-gas-centros-datos-ia
 featured: false
-draft: false
+draft: true
 tags:
   - IA
   - Cloud
@@ -12,6 +12,7 @@ tags:
 description: "SoftBank perdió más de 3.000 millones de dólares tras reservar turbinas de gas para centros de datos de IA, según TechCrunch"
 ogImage: "../../assets/images/softbank-perdida-turbinas-gas-centros-datos-ia-cover.png"
 ---
+
 ![Imagen de referencia](../../assets/images/softbank-perdida-turbinas-gas-centros-datos-ia-cover.png)
 
 La expansión de la inteligencia artificial también se está convirtiendo en una apuesta energética. TechCrunch informa que SoftBank perdió más de 3.000 millones de dólares después de reservar por adelantado turbinas de gas natural destinadas a centros de datos de IA. El medio analiza el episodio como una posible señal de límite para las ambiciones de construir nueva capacidad eléctrica alrededor del gas.
