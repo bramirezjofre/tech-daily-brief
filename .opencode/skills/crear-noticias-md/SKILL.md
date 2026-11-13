@@ -53,14 +53,21 @@ Categorías válidas del feed (no inventar otras):
 
 ## 2. Cantidad predeterminada y ventana temporal
 
-- **Cantidad predeterminada: 3 artículos por ejecución.** El usuario puede
+- **Cantidad predeterminada: 5 artículos por ejecución.** El usuario puede
   pedir otra cantidad explícitamente.
 - **Ventana temporal predeterminada: últimas 24 horas** desde `publishedAt`
   hasta el momento UTC de la consulta. El usuario puede ampliar o reducir.
-- Si la ventana seleccionada contiene menos de 3 historias elegibles,
+- Una historia iniciada antes de esa ventana puede entrar **solo si el
+  incidente/outage o la explotación de la vulnerabilidad continúa activo**.
+  Debe indicarse la hora de inicio y el estado activo confirmado por la fuente.
+- Las **alertas urgentes** (incidentes activos, outages que afectan al
+  servicio o vulnerabilidades con explotación activa) se reportan en una
+  sección separada y **no consumen ni están limitadas por el cupo de 5**.
+- Si la ventana seleccionada contiene menos de 5 historias elegibles,
   entregar las que pasen el filtro y reportar cuántos cupos quedaron vacíos.
   **Nunca rellenar con historias débiles para llegar al número objetivo.**
-- El orden de salida es siempre `Critical` primero, luego `High Priority`,
+- El orden de salida prioriza primero incidentes/outages y vulnerabilidades
+  activamente explotadas; después `Critical`, luego `High Priority`,
   dentro del mismo nivel por `publishedAt` descendente. **Si dos o mas
   historias comparten `importance`, gana la de `publishedAt` mas reciente;
   reordenar siempre antes de reportar al usuario.** La convencion se aplica
@@ -73,7 +80,9 @@ Categorías válidas del feed (no inventar otras):
 
 Una historia es elegible solo si cumple **todas** estas condiciones:
 
-1. Está dentro de la ventana temporal configurada.
+1. Está dentro de la ventana temporal configurada, o es un incidente/outage o
+   vulnerabilidad cuya actividad siga confirmada aunque comenzara antes de 24
+   horas.
 2. Su `importance` es `Critical` o `High Priority`.
 3. Su contenido temático corresponde al blog (tecnología, programación,
    cloud, infraestructura, IA, ciberseguridad, startups, hardware, open
@@ -92,13 +101,16 @@ El procedimiento concreto:
 2. Filtrar por ventana temporal y por `importance`.
 3. Recorrer las candidatas y revisar manualmente si el contenido realmente
    encaja con el blog. Eliminar las mal categorizadas.
-4. Agrupar duplicados temáticos; conservar la versión más reciente o con
+4. Clasificar primero las candidatas por urgencia operacional (outage/incidente
+   activo o explotación activa), luego por importancia y fecha.
+5. Agrupar duplicados temáticos; conservar la versión más reciente o con
    mejor estado de fuente.
-5. Probar el `sourceLink` de cada candidata restante con
+6. Probar el `sourceLink` de cada candidata restante con
    `curl --max-time 30 -A 'Mozilla/5.0' -L -o /dev/null -w '%{http_code} %{url_effective}\n'`
    y registrar el código HTTP y la URL final.
-6. Clasificar la fuente (sección 4) y, si pasa, conservar hasta el límite
-   pedido por el usuario.
+7. Clasificar la fuente (sección 4). Publicar hasta 5 artículos (o el límite
+   explícito del usuario), pero conservar aparte todas las alertas urgentes
+   verificadas, sin aplicarles ese límite.
 
 ## 4. Estados de la fuente (estricto)
 
@@ -136,19 +148,35 @@ Reglas adicionales:
 
 ## 5. Tarea del agente
 
-1. Confirmar la cantidad solicitada (predeterminado 3).
+1. Confirmar la cantidad solicitada (predeterminado 5) y reservar una sección
+   independiente para alertas urgentes sin límite de cantidad.
 2. Consultar el feed con `curl`.
 3. Aplicar ventana temporal e importancia.
 4. Descartar candidatas mal categorizadas y duplicados tematicos.
 5. Probar el `sourceLink` de cada candidata y clasificarla (seccion 4).
-6. Si quedan menos candidatas validas que la cantidad pedida, reportar
-   cuantos cupos quedaron libres.
+6. Si quedan menos candidatas válidas que la cantidad pedida, reportar cuántos
+   cupos quedaron libres; las alertas urgentes se reportan aparte y no cuentan
+   como cupos.
 7. Comprobar duplicados de slug contra `src/content/posts/` y, si choca,
    anadir sufijo numerico (`-2`, `-3`, ...).
 8. Para cada historia valida generar UN archivo `.md` siguiendo el formato
    abajo.
 
 ## 6. Formato del archivo
+
+Antes de los artículos, el reporte debe incluir una sección independiente:
+
+```markdown
+## Alertas urgentes
+
+- **[INCIDENTE|VULNERABILIDAD] — estado:** activo; **inicio:** <fecha/hora UTC>;
+  **impacto:** <servicios o usuarios afectados>; **acción:** <mitigación
+  confirmada>; **Fuente:** [fuente primaria](URL canónica)
+```
+
+Si no hay alertas urgentes verificadas, escribir «No hay alertas urgentes
+verificadas en esta ejecución». Esta sección no altera el número máximo de
+artículos.
 
 Ruta absoluta: `src/content/posts/<slug>.md`.
 
@@ -368,4 +396,5 @@ pnpm run build:verify
 - No usar `import('./src/content.config.ts')` ni
   `require('astro:content')` fuera del pipeline de Astro.
 - No superar la cantidad pedida por el usuario ni rellenarla con
-  historias debiles.
+  historias débiles; las alertas urgentes verificadas son una sección separada
+  y no cuentan para ese límite.
