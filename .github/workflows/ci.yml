@@ -36,8 +36,11 @@ jobs:
           node-version: "24"
           cache: "pnpm"
 
+      - name: "🔒 Pin package manager with Corepack"
+        run: corepack enable && corepack prepare pnpm@11.9.0 --activate
+
       - name: "📦 Install dependencies"
-        run: pnpm install --frozen-lockfile
+        run: corepack pnpm install --frozen-lockfile
 
       - name: "🔎 Lint code"
         run: pnpm run lint
